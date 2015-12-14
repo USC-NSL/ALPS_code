@@ -1,0 +1,826 @@
+----------
+ChIJn2zgeFRYwokRKOQJRFFM6dg
+40.758857,-73.988863
+705 8th Ave, New York, NY 10036, United States
+4b9abc4ff964a5201ad135e3
+40.758700,-73.988951
+705 8th Ave, New York, NY 10036
+----------
+ChIJd7IpO6hZwokRSeui6FKfz4s
+40.745966,-73.993850
+175 West 26th Street, New York, NY 10001, United States
+4b1ff2eaf964a520372b24e3
+40.745897,-73.993990
+175 W 26th St, New York, NY 10001
+----------
+ChIJ0SGxzbFZwokR0vdLe0TLybo
+40.749669,-73.995590
+401 8th Ave, New York, NY 10001, United States
+4b6241d9f964a520ed3e2ae3
+40.749769,-73.995167
+401 8th Ave, New York, NY 10001
+----------
+ChIJ2YFTRKVZwokRMXjsgPnxNC0
+40.747371,-73.992389
+156 W 29th St, New York, NY 10001, United States
+4b8eb673f964a5209a3233e3
+40.747757,-73.992314
+156 W 29th St, New York, NY 10001
+----------
+ChIJi-fiIatZwokRF6AAmEzT4DI
+40.754525,-73.986093
+126 W 41st St, New York, NY 10036, United States
+4a942c31f964a520a02020e3
+40.754857,-73.985784
+126 W 41st St, New York, NY 10036
+----------
+ChIJ9XyQ5h5awokRx3Sa-xR-I7M
+40.716014,-74.009928
+153 Chambers St, New York, NY 10007, United States
+4afadcc5f964a5201d1922e3
+40.715928,-74.010098
+153 Chambers St, New York, NY 10007
+----------
+ChIJY0mHUKdZwokRaXBjndkuwFM
+40.740881,-73.983485
+61 Lexington Ave, New York, NY 10010, United States
+4adf6059f964a520067a21e3
+40.740868,-73.983564
+61 Lexington Ave, New York, NY 10010
+----------
+ChIJkXKOZZhZwokRglKiLl0MBEQ
+40.735572,-73.992111
+7 E 14th St, New York, NY 10003, United States
+4ace226df964a52094ce20e3
+40.735477,-73.992251
+7 E 14th St, New York, NY 10003
+----------
+ChIJ-xfOQFZYwokROGWYKv80ym0
+40.761522,-73.984824
+214 W 50th St, New York, NY 10019, United States
+4b437348f964a5208de025e3
+40.761993,-73.984010
+214 W 50th St, New York, NY 10019
+----------
+ChIJVwck7CRYwokRbI7_w65zXts
+40.774100,-74.019975
+4100 Park Ave #6, Weehawken, NJ 07086, United States
+4ba8d361f964a52013f239e3
+40.773846,-74.020685
+4100 Park Ave, Weehawken, NJ 07086
+----------
+ChIJP3tRfllYwokRfL82yEVQ8gQ
+40.768452,-73.988810
+852 10th Ave, New York, NY 10019, United States
+4b48e4b4f964a520275c26e3
+40.768484,-73.989106
+852 10th Ave, New York, NY 10019
+----------
+ChIJg3YcnehYwokRwWeyHwutHW8
+40.762354,-73.963323
+1171 2nd Ave, New York, NY 10065, United States
+4bf6e37b4a67c9284b9d22cf
+40.762268,-73.963084
+1171 2nd Ave, New York, NY 10065
+----------
+ChIJz6WrNJRZwokRYCbwzyXRu90
+40.765353,-73.977915
+130 W 58th St, New York, NY 10019, United States
+4a804390f964a520d3f41fe3
+40.765509,-73.977938
+130 W 58th St, New York, NY 10019
+----------
+ChIJNZvR1v5YwokRIQ51q9sLlEg
+40.756562,-73.980778
+36 W 46th St, New York, NY 10036, United States
+4bd5ac15637ba593eec0f670
+40.756827,-73.980877
+34-36 W 46th St, New York, NY 10036
+----------
+ChIJGzv5K6FYwokRD0twgX5Goew
+40.787767,-73.954100
+1392 Madison Ave, New York, NY 10129, United States
+4bcde593511f9521b462b5c7
+40.787801,-73.953738
+1392 Madison Ave, New York, NY 10029
+----------
+ChIJ_SsigVhYwokRFjZ2i9XNgMo
+40.767599,-73.983317
+314 W 58th St, New York, NY 10019, United States
+4c0933fd32daef3b8a6b4b50
+40.767574,-73.983178
+314 W 58th St, New York, NY 10019
+----------
+ChIJyR0vmdVYwokRkveV7B1g1WQ
+40.749815,-73.939406
+27-20 Queens Plaza S, Long Island City, NY 11101, United States
+4bbfd41d920eb713241b182c
+40.749972,-73.939426
+2720 Queens Plz S, Long Island City, NY 11101
+----------
+ChIJyYNkTq1ZwokR86f9ksQO43M
+40.756302,-73.993910
+520 9th Ave, New York, NY 10018, United States
+4bb54a862ea195211d52aa2f
+40.756352,-73.994139
+520 9th Ave, New York, NY 10018
+----------
+ChIJ0SGxzbFZwokRYye_Km7vdzU
+40.749214,-73.984924
+2 W 35th St #1, New York, NY 10001, United States
+4bb2565deb3e9521ebe3c90a
+40.749319,-73.984590
+2 W 35th St, New York, NY 10001
+----------
+ChIJQ2yZEfVZwokRBuGO6LrMSl0
+40.720841,-74.008628
+137 Hudson St, New York, NY 10013, United States
+4ac3898bf964a520b09b20e3
+40.720795,-74.008239
+137 Hudson St, New York, NY 10013
+----------
+ChIJ6WweX4hYwokRnX1_cqhucUE
+40.780560,-73.979779
+321 Amsterdam Ave, New York, NY 10023, United States
+4de13986d4c040523eb8ae8f
+40.780678,-73.980211
+321 Amsterdam Ave, New York, NY 10023
+----------
+ChIJPfEXn4JYwokR0JxHrRpP_1w
+40.785603,-73.973062
+508 Columbus Ave, New York, NY 10024, United States
+4dcdab66d164679b8cec6a1b
+40.785371,-73.973082
+475 Columbus Ave, New York, NY 10024
+----------
+ChIJW1phM5tZwokRRUf3eOzmzkE
+40.748791,-73.986897
+35 W 33rd St, New York, NY 10018, United States
+4be1ab0a8c2bc9b62b9b420b
+40.748627,-73.987035
+35 W 33rd St, New York, NY 10001
+----------
+ChIJs47EKRhawokRTNgkRYiQcwU
+40.709357,-74.009047
+21-23 Maiden Ln, New York, NY 10038, United States
+4b421ff5f964a52030cd25e3
+40.709181,-74.009412
+21 Maiden Ln, New York, NY 10038
+----------
+ChIJFdlGXhFawokR7lPqXwaGirc
+40.705203,-74.014112
+11 Broadway, New York, NY 10004, United States
+4b44a049f964a5201cf825e3
+40.704912,-74.014013
+Bowling Green, New York, NY 10004
+----------
+ChIJ74Vd3ANZwokRg586Y9hQO0M
+40.750747,-73.977010
+370 Lexington Ave, New York, NY 10017, United States
+4c19158f4ff90f4724640f49
+40.750841,-73.976912
+370 Lexington Ave, New York, NY 10017
+----------
+ChIJo0NYr7NZwokRfmCez0tn-tM
+40.754509,-73.998343
+455 W 34th St #2, New York, NY 10001, United States
+4b64bfb7f964a52016cd2ae3
+40.754357,-73.998380
+453 W 34th St, New York, NY 10001
+----------
+ChIJFf5p_VJYwokR89wyQzF9GhE
+40.760956,-73.997758
+555 W 42nd St #14, New York, NY 10036, United States
+4e8b53ccb63423c021112afb
+40.760582,-73.998025
+555 W 42nd St, New York, NY 10036
+----------
+ChIJf2wDyphZwokRsWXWkbCegPk
+40.734257,-73.988995
+113 E 14th St, New York, NY 10003, United States
+4f4fe5e54fc6504b6ef34bd1
+40.734234,-73.989122
+113 E 14th St, New York, NY 10003
+----------
+ChIJXUGyV2lXwokRFyULhHpgIH4
+40.748911,-74.047622
+413 Central Ave, Jersey City, NJ 07307, United States
+4c41f3dbda3dc92819b1c9b9
+40.748866,-74.047405
+413 Central Ave, Jersey City, NJ 07307
+----------
+ChIJkbReQj1awokRR09BHvAEr-8
+40.707689,-74.005905
+112 John St, New York, NY 10038, United States
+4ba23faef964a520f2e637e3
+40.707873,-74.005863
+112 John St, New York, NY 10038
+----------
+ChIJuTcAGfpYwokRyr8U4EmnvQQ
+40.763000,-73.976582
+42 W 56th St, New York, NY 10019, United States
+4ae9d2eff964a520c8b621e3
+40.762926,-73.976719
+42 W 56th St, New York, NY 10019
+----------
+ChIJiVXw_rxYwokRhqtJQJhLuYg
+40.778683,-73.956384
+1256 Lexington Ave, New York, NY 10028, United States
+4aefa3eef964a520bbd921e3
+40.778629,-73.956191
+1256 Lexington Ave, New York, NY 10028
+----------
+ChIJcXhciqhZwokRZj7fKaFI4o8
+40.751853,-73.991315
+224 W 35th St, New York, NY 10001, United States
+522a195411d2d6ed50413961
+40.752011,-73.991253
+224 W 35th St, New York, NY 10001
+----------
+ChIJcXhciqhZwokRkNO2EVFvTTk
+40.758379,-73.991880
+351 W 42nd St, New York, NY 10036, United States
+4b589b8cf964a520f26028e3
+40.758122,-73.992033
+351 W 42nd St, New York, NY 10036
+----------
+ChIJwXI8Fb5ZwokR12Aozo9XpeQ
+40.739234,-74.001976
+244-6 W 14th St, New York, NY 10011, United States
+4ab7c7e4f964a520c67a20e3
+40.739518,-74.002161
+244 W 14th St, New York, NY 10011
+----------
+ChIJ089kKhlawokRNhNbGTrfXIc
+40.714354,-74.009485
+51 Murray Street, New York, NY 10007, United States
+4cc752f612bd9521a3b2beab
+40.714129,-74.009731
+51 Murray St, New York, NY 10007
+----------
+ChIJeTyyQMv3wokRcGICEX_yW3I
+40.760112,-74.023091
+1200 Harbor Blvd, Union City, NJ 07087, United States
+4ba90ceef964a520f9063ae3
+40.760230,-74.022682
+1200 Harbor Blvd, Weehawken, NJ 07086
+----------
+ChIJ5YLImgRZwokRhknPgbcfyFU
+40.748321,-73.973615
+739 2nd Ave, New York, NY 10016, United States
+4b72c99ef964a520a5882de3
+40.748361,-73.973289
+739 2nd Ave, New York, NY 10016
+----------
+ChIJz6WrNJRZwokRdA_joi5Yi6A
+40.737186,-73.995823
+47 W 14th St, New York, NY 10011, United States
+4bd5c6f56798ef3bcfee638d
+40.737033,-73.996016
+47-49 W 14th St, New York, NY 10011
+----------
+ChIJNV8VaexXwokR7Pd4d-Wq0Ik
+40.785551,-74.045694
+700 Plaza Dr, Secaucus, NJ 07094, United States
+4c61707f12e5c9287f8f214c
+40.785586,-74.045706
+700 Plaza Dr, Secaucus, NJ 07094
+----------
+ChIJm6ahjlBYwokRBwXjtmINnBY
+40.765033,-73.991974
+747 10th Ave, New York, NY 10019, United States
+4b64763ef964a52024b52ae3
+40.764855,-73.991781
+747 10th Ave, New York, NY 10019
+----------
+ChIJMRsGEQRZwokRiOQ4IPWzUMc
+40.748278,-73.976018
+581 3rd Ave, New York, NY 10016, United States
+4bb3779ea32876b006b801fe
+40.748406,-73.976073
+581 3rd Ave, New York, NY 10016
+----------
+ChIJNxrWroVZwokR2BzXEwJdVWk
+40.721918,-73.984379
+250 E Houston St, New York, NY 10002, United States
+4b650324f964a52062df2ae3
+40.721604,-73.984372
+250 E Houston St, New York, NY 10002
+----------
+ChIJDypTGOX3wokRM5hd1ClUawo
+40.807316,-74.017523
+8101 Tonnelle Ave, North Bergen, NJ 07047, United States
+4e4ddeaebd4101d0d79d2c56
+40.807316,-74.017185
+8101 Tonnelle Ave, North Bergen, NJ 07047
+----------
+ChIJUVaUtBlfwokRVhi9zh8XCfs
+40.751895,-73.909621
+51-22 Northern Blvd, Woodside, NY 11377, United States
+4bba44d07421a5932299c340
+40.752309,-73.909789
+51-00 Northern Blvd, Woodside, NY 11377
+----------
+ChIJj1R6jAL2wokRdWuE9v6YuCI
+40.790313,-73.945252
+1885 3rd Ave, New York, NY 10029, United States
+4bf2c9c86991c9b6b87e29e9
+40.790436,-73.945508
+1885 3rd Ave, New York, NY 10029
+----------
+ChIJvY0XQR9awokR4hZ53ypnGfE
+40.716361,-74.004956
+90 Worth St, New York, NY 10013, United States
+4c055667f56c2d7f34811f66
+40.716309,-74.005014
+90 Worth St, New York, NY 10013
+----------
+ChIJiZh1wRBawokRt6LAGvi8fEk
+40.708538,-74.013621
+106 Greenwich St #1, New York, NY 10006, United States
+4aec28cdf964a5206bc521e3
+40.707791,-74.013155
+Rector St., New York, NY 10004
+----------
+ChIJe2px4JdZwokRBPGz-YJFX7E
+40.734124,-73.986311
+153 3rd Ave, New York, NY 10003, United States
+4b5616a5f964a520c8ff27e3
+40.734283,-73.986611
+153 3rd Ave, New York, NY 10003
+----------
+ChIJifQHpz9fwokRFG6X4AGbbXg
+40.763495,-73.915059
+30-9 Steinway St, Astoria, NY 11103, United States
+4b5fcdc9f964a52052cd29e3
+40.763585,-73.915289
+3009 Steinway St, Astoria, NY 11103
+----------
+ChIJxUzQKkZawokRszBhQhxN5uU
+40.695072,-73.994823
+117 Montague St, Brooklyn, NY 11201, United States
+4b5f5329f964a5201bb429e3
+40.694980,-73.994804
+115 Montague St, Brooklyn, NY 11201
+----------
+ChIJYZB-E7hbwokRLiL6-1_g7Ss
+40.693005,-73.969948
+400 Myrtle Ave, Brooklyn, NY 11205, United States
+4c3dec8883a3a5932956ed33
+40.693096,-73.969849
+400 Myrtle Ave, Brooklyn, NY 11205
+----------
+ChIJryHmo4RXwokRnQNErG4N2Vs
+40.768109,-74.040710
+2010 John F. Kennedy Blvd, Union City, NJ 07087, United States
+4c0313a4f423a5938cd0cf16
+40.768127,-74.040685
+2010 Kennedy Blvd, Union City, NJ 07087
+----------
+ChIJi2GleYpYwokRv0iMK4k_KyM
+40.777714,-73.982605
+2045 Broadway, New York, NY 10023, United States
+4b296e88f964a520c99e24e3
+40.777568,-73.982254
+2045 Broadway, New York, NY 10023
+----------
+ChIJZeSXmopZwokRJVn_5bW-jKg
+40.719180,-74.004305
+297 Church St, New York, NY 10013, United States
+4b2287cff964a5206f4824e3
+40.719369,-74.004581
+297 Church St, New York, NY 10013
+----------
+ChIJNTOxfxRawokRzvP1KOxR2qA
+40.703264,-74.011093
+28 Water St, New York, NY 10004, United States
+4b3a446af964a520526325e3
+40.703039,-74.011154
+15 S William St, New York, NY 10004
+----------
+ChIJu02QG1RYwokRbDgMukbe5o8
+40.760379,-73.987905
+765 8th Ave, New York, NY 10036, United States
+555e5062498ede07560c8d91
+40.760367,-73.987522
+765 8th Ave, New York, NY 10036
+----------
+ChIJ5WSb8btYwokRrzGQegnoEik
+40.776416,-73.953060
+1613 2nd Ave, New York, NY 10075, United States
+522ca86211d20dc0c48b7064
+40.776243,-73.952620
+2nd Ave., New York, NY 10028
+----------
+ChIJjV9TlSP2wokRP2ekEFxXgiY
+40.801167,-73.958057
+301 Cathedral Pkwy #3, New York, NY 10026, United States
+4d8907b4d85f37040f5ededb
+40.800960,-73.957815
+301 W 110th St Frnt 3, New York, NY 10026
+----------
+ChIJjYxsO3VZwokRQgptvB45AZU
+40.734158,-73.980854
+317 1st Avenue, New York, NY 10003, United States
+4c3fb5ced691c9b6f9368a0a
+40.734012,-73.980526
+317 1st Ave, New York, NY 10003
+----------
+ChIJ_cpTnvZewokRVqU5Ac-TPbA
+40.727537,-73.893139
+69-79 Grand Ave, Maspeth, NY 11378, United States
+4c432f14a5c5ef3bb8b0b06f
+40.727390,-73.892899
+69-79 Grand Ave, Maspeth, NY 11378
+----------
+ChIJuxucWxhRwokRgxy4qj1lW5c
+40.708803,-74.086351
+Student Center Food Court, 2039 Kennedy Blvd, New Jersey City University, Jersey City, NJ 07305, United States
+4e4ced16bd413c4cc66d490e
+40.708826,-74.086521
+2039 John F Kennedy Blvd, Jersey City, NJ 07305
+----------
+ChIJK0xdR0VYwokR1QU0nvsTLks
+40.767193,-73.994191
+600 W 52nd St, New York, NY 10019, United States
+4b993a17f964a520776b35e3
+40.767137,-73.993703
+735 11th Ave, New York, NY 10019
+----------
+ChIJBU1JySxYwokRczPXZJz6iaU
+40.760274,-74.023126
+1200 Harbor Blvd, Weehawken, NJ 07086, United States
+4ba90ceef964a520f9063ae3
+40.760230,-74.022682
+1200 Harbor Blvd, Weehawken, NJ 07086
+----------
+ChIJE6wSfSf2wokRLYnTvoN9Fl8
+40.792515,-73.967400
+731 Columbus Ave, New York, NY 10025, United States
+4bedd7592c082d7f3d972f42
+40.792527,-73.967739
+731 Columbus Ave, New York, NY 10025
+----------
+ChIJQ0eDfKhbwokRaRKNnirx678
+40.676567,-73.971741
+375 Flatbush Ave, Brooklyn, NY 11238, United States
+4bd0850077b29c74fbe58a82
+40.676531,-73.972024
+375 Flatbush Ave, Brooklyn, NY 11238
+----------
+ChIJcXhciqhZwokR-x6iSio_V24
+40.751190,-73.992497
+One Penn Plz, Penn Station, New York, NY 10019, United States
+4aef3eb9f964a520e3d621e3
+40.751329,-73.992785
+1 Penn Plz, New York, NY 10119
+----------
+ChIJca-4WTFXwokRHeWv6uvv-Bc
+40.721133,-74.095291
+701 NJ-440 #50, Jersey City, NJ 07304, United States
+4d99cf1aa2c654814fce0f54
+40.720972,-74.095196
+Route 440, Jersey City, NJ 07305
+----------
+ChIJJ_TtybhYwokRMAd7mzknsUE
+40.784343,-73.952261
+1434 Lexington Ave, New York, NY 10128, United States
+4c2248eb13c00f47273d87de
+40.784309,-73.952058
+1434 Lexington Ave, New York, NY 10128
+----------
+ChIJp1L0GGr2wokRQlDHynMPZH4
+40.815245,-73.958172
+578 W 125th St, New York, NY 10027, United States
+4b704707f964a520800f2de3
+40.815326,-73.958171
+578 W 125th St, New York, NY 10027
+----------
+ChIJxdQHsv1awokRj8kLKWx2XQU
+40.669583,-73.985676
+423 5th Ave, Brooklyn, NY 11216, United States
+4b4d0d5ef964a52044c926e3
+40.669604,-73.985753
+5th Avenue, Brooklyn, NY 11215
+----------
+ChIJG0f45K1bwokRM8ekUseMxh0
+40.684386,-73.978901
+572 Atlantic Ave, Brooklyn, NY 11217, United States
+514f1d53e4b045dfaa2934ed
+40.684602,-73.978765
+572 Atlantic Ave, Brooklyn, NY 11217
+----------
+ChIJ2-lxnSlZwokRPuq6ut4syCM
+40.746742,-73.942567
+25-34 Jackson Ave, Long Island City, NY 11101, United States
+4d1c9557763fb1f788ea8b66
+40.746786,-73.943224
+2534 Jackson Ave, Long Island City, NY 11101
+----------
+ChIJuw_n-xJRwokRY7fJhzBtk6o
+40.704652,-74.098869
+405 Danforth Ave, Jersey City, NJ 07305, United States
+4bdc6ad3afe8c9b68b514f85
+40.704486,-74.098771
+405 Danforth Ave, Jersey City, NJ 07305
+----------
+ChIJp4l8UghZwokRKMajB-1FRlQ
+40.741128,-73.981214
+371 Third Avenue, New York, NY 10016, United States
+50f96f0ae4b0fe02881e9121
+40.741099,-73.981473
+371 3rd Ave, New York, NY 10016
+----------
+ChIJuefldRJcwokR4XehM7SC2vM
+40.683774,-73.911541
+1709 Broadway, Brooklyn, NY 11207, United States
+4c4b8ea2bad7a593843ffdab
+40.683567,-73.911701
+1709 Broadway, Brooklyn, NY 11207
+----------
+ChIJeRXgtANbwokRtTeYs_E9Uao
+40.669203,-73.979897
+258 7th Ave, Brooklyn, NY 11215, United States
+4b11a41cf964a5202f8123e3
+40.669221,-73.979685
+258 7th Ave, Brooklyn, NY 11215
+----------
+ChIJUyWHh49ZwokRNhKSc8lYp7w
+40.716470,-73.997580
+174 Canal St, New York, NY 10013, United States
+4b3fcd88f964a5202daf25e3
+40.716737,-73.997485
+174 Canal St, New York, NY 10013
+----------
+ChIJ12_gJQb2wokRLVw2EvNCsus
+40.797977,-73.939629
+201 E 116th St, New York, NY 10029, United States
+4bd0d7a4a8b3a593dec2645f
+40.797921,-73.939831
+201 E 116th St, New York, NY 10029
+----------
+ChIJs8E2cSFcwokR1dk4LQLzy8k
+40.700520,-73.904083
+5653 Myrtle Ave, Flushing, NY 11385, United States
+4bbb65d653649c74d2054afb
+40.700388,-73.903944
+5653 Myrtle Ave, Ridgewood, NY 11385
+----------
+ChIJZ6xnS0RawokR02lSNH5vnX4
+40.691410,-73.997833
+75 Atlantic Ave, Brooklyn, NY 11201, United States
+50ff21a4e4b0d6af7c7596ac
+40.691151,-73.997893
+75 Atlantic Ave, Brooklyn, NY 11201
+----------
+ChIJY4nuebdZwokRZEpMpN4-y38
+40.748594,-74.003212
+250 10th Ave, New York, NY 10001, United States
+4ecbe682f9f4a82587658269
+40.748574,-74.003295
+250 10th Ave, New York, NY 10001
+----------
+ChIJTQ8_b6pZwokRAjIbqqyRZDg
+40.761047,-73.980160
+1285 Avenue of the Americas, New York, NY 10022, United States
+4d2b488577a2a1cd43d27bb7
+40.761404,-73.980257
+1285 Avenue of the Americas, New York, NY 10019
+----------
+ChIJm8UzqXFbwokRA9BHQC1pxT4
+40.663739,-73.951164
+1010 Nostrand Ave, Brooklyn, NY 11225, United States
+4bfef8ed4e5d0f47d1757d1f
+40.663961,-73.951019
+Corner of Nostrand Ave and Empire Blvd, Brooklyn, NY
+----------
+ChIJfWvnUCP2wokRmNwFXtY1yAo
+40.801398,-73.964634
+971 Amsterdam Avenue #1, New York, NY 10025, United States
+4c95667fefecb7131f65e49d
+40.801557,-73.964911
+971 Amsterdam Ave, New York, NY 10025
+----------
+ChIJHbd062dfwokRaAw29upMbFE
+40.770680,-73.904196
+43-16 Ditmars Blvd, Astoria, NY 11105, United States
+4c4a1b5ef7cc1b8d9925ee3d
+40.770499,-73.903904
+43-14 Ditmars Blvd, Astoria, NY 11105
+----------
+ChIJ6wHLgbFbwokRUPdsFodX0lI
+40.687486,-73.976894
+713 Fulton St, Brooklyn, NY 11217, United States
+4d6aa6c6a27f236a724c9566
+40.687254,-73.977146
+713 Fulton St, Brooklyn, NY 11217
+----------
+ChIJ9VSgPplZwokRaoOarw9YZZ4
+40.732993,-73.990204
+120 4th Ave, New York, NY 10003, United States
+4b1d351ff964a520fd0c24e3
+40.733004,-73.989973
+120 4th Ave, New York, NY 10003
+----------
+ChIJ6eS5_IBZwokRLFi5u4GMEBM
+40.719517,-73.990540
+64 Delancey St, New York, NY 10002, United States
+4c1807211436a59304bf8c75
+40.719264,-73.990444
+66 Delancey St, New York, NY 10002
+----------
+ChIJRQnIrNb1wokR7mVWddsE0MM
+40.821631,-73.930070
+Gateway Center Blvd, Space F1.1A, Bronx Terminal Market, Bronx, NY 10451, United States
+4cbc80e24352a1cd89a99ef5
+40.822221,-73.930221
+610 Exterior St, Bronx, NY 10451
+----------
+ChIJfYhDDHf2wokRNCDnYZbSLos
+40.823650,-73.944189
+344 W 145th St, New York, NY 10039, United States
+4b293517f964a520f79a24e3
+40.823732,-73.944303
+346 W 145th St, New York, NY 10039
+----------
+ChIJXcDsgE9cwokRDeIzF4llzRg
+40.676364,-73.900600
+1842 E New York Ave, Brooklyn, NY 11207, United States
+4c584d0f7329c928facd9080
+40.676515,-73.900741
+1842 E New York Ave, Brooklyn, NY 11207
+----------
+ChIJv4zkhztfwokRDTOE5Qwq_Yg
+40.758805,-73.918261
+40-17 Broadway, Astoria, NY 11103, United States
+4fc56104e4b027e26d60d222
+40.758747,-73.918435
+4017 Broadway, Astoria, NY 11103
+----------
+ChIJcZGb2JxZwokRxHuNKlSgCaw
+40.726617,-73.985736
+108 1st Avenue, New York, NY 10009, United States
+4e4ce460bd413c4cc66d0197
+40.726729,-73.985904
+108 1st Ave, New York, NY 10009
+----------
+ChIJh__-q2z2wokRe0eOUf50xtA
+40.810367,-73.953170
+281 St Nicholas Ave, New York, NY 10027, United States
+4b9ff2a3f964a520c74c37e3
+40.810258,-73.952919
+281 Saint Nicholas Ave, New York, NY 10027
+----------
+ChIJXcvTZQr2wokRMFsEDJ5TcLo
+40.804847,-73.936829
+2085 Lexington Ave, New York, NY 10035, United States
+4b14898bf964a5205ca423e3
+40.805023,-73.937162
+2085 Lexington Ave, New York, NY 10035
+----------
+ChIJt6jZHcX1wokRSsDPdnPlGbU
+40.813312,-73.922505
+2688 Third Ave, Bronx, NY 10454, United States
+4c1f826b63750f476e36bb67
+40.813603,-73.922744
+143rd and Third Ave, Bronx, NY 10451
+----------
+ChIJ2dT8MjRfwokRwjQ-9vEjHKM
+40.765690,-73.930657
+2109 Broadway, Astoria, NY 11106, United States
+4c9106e3238c6dcb0997bc55
+40.765536,-73.930818
+21-01 Broadway, Astoria, NY 11106
+----------
+ChIJwcXPeIxZwokRalKQoGGgKhQ
+40.723613,-74.003132
+510 Broome St, New York, NY 10019, United States
+4a5f4f90f964a52060bf1fe3
+40.723448,-74.003525
+510 Broome St, New York, NY 10013
+----------
+ChIJ5yq3Vd1RwokR02F2X42D3ac
+40.667414,-74.105694
+1 Lefante Way, Bayonne, NJ 07002, United States
+4c152b917f7f2d7f0a07e268
+40.667326,-74.105358
+1 Lefante Way, Bayonne, NJ 07002
+----------
+ChIJf38nTfT0wokRvKf3akXEsyk
+40.837929,-73.884425
+961 E 174th St #42, Bronx, NY 10460, United States
+4d7a5f3492baa1433cc052eb
+40.837698,-73.884227
+961 E 174th St, Bronx, NY 10460
+----------
+ChIJca-4WTFXwokRR8rtzShqSQ8
+40.734727,-74.059611
+591 Summit Ave, Jersey City, NJ 07306, United States
+4c7d24efb33a224b1f18d781
+40.734738,-74.059258
+591 Summit Ave, Jersey City, NJ 07306
+----------
+ChIJwW08fGX4wokRsLM3cQ_UNdQ
+40.818124,-74.066458
+300 Washington Ave, Carlstadt, NJ 07072, United States
+4c3de4266faac9b6eb6b0d76
+40.818012,-74.066225
+317 Washington Ave, Carlstadt, NJ 07072
+----------
+ChIJWZllUGL2wokR337Z_wms0p4
+40.827146,-73.950294
+3559 W 146th St, New York, NY 10031, United States
+4bbd288407809521d950da91
+40.827137,-73.950326
+3559 Broadway, New York, NY 10031
+----------
+ChIJS7XHv8j1wokRi0lj5t3XiO8
+40.815911,-73.916829
+423 E 149th St, Bronx, NY 10455, United States
+4c24c20bb012b713958d0893
+40.815823,-73.917046
+423 E 149th St, Bronx, NY 10455
+----------
+ChIJtZ6qXIdZwokRscQOPcLwlX8
+40.717177,-73.989988
+334 Grand St, New York, NY 10002, United States
+4b60f5ccf964a5209c032ae3
+40.717002,-73.989990
+334 Grand St, New York, NY 10002
+----------
+ChIJvRJK2MRYwokRXYfveB_kTkw
+40.761094,-73.950952
+513 Main St, Roosevelt Island, NY 10044, United States
+5084686de4b0e24bb4549e11
+40.761001,-73.950824
+513 Main St, New York, NY 10044
+----------
+ChIJZ4_SiHNXwokR1Hz-jUhtRqQ
+40.756282,-74.044449
+1212 Summit Avenue, Store #5, Heights Plaza, Jersey City, NJ 07307, United States
+4de322c4ae60e7f3ac010f41
+40.756592,-74.044388
+1212 Summit Ave., Jersey City, NJ 07307
+----------
+ChIJ70Y4QW_2wokRTi5F91AqGIk
+40.818853,-73.952507
+1518 Amsterdam Ave, New York, NY 10031, United States
+4bd8639ce914a593291453fa
+40.818877,-73.952196
+1516 Amsterdam Ave, New York, NY 10031
+----------
+ChIJJ_TtybhYwokRCf5XsDFpjCg
+40.769315,-73.952331
+1427 York Ave, New York, NY 10021, United States
+51c8ebb6498e1a6b0bd32226
+40.769350,-73.951995
+14297 York Ave., New York, NY 10021
+----------
+ChIJTTE-CqlQwokROEzBFNfGYGw
+40.716667,-74.038542
+93 Montgomery St, Jersey City, NJ 07302, United States
+50f4bd65e4b08910047798f3
+40.717074,-74.038610
+93 Montgomery St, Jersey City, NJ 07302
+----------
+ChIJRQnIrNb1wokRYfdN3JgKKVI
+40.816548,-73.939467
+563 Malcolm X Blvd, New York, NY 10037, United States
+4c6d711506ed6dcbe7e0a322
+40.816330,-73.938993
+563 Malcolm X Blvd, New York, NY 10037
+----------
+ChIJ85fd3NNYwokRCsxthM_0loc
+40.755548,-73.941263
+39-42 21st St, Long Island City, NY 11101, United States
+50789d32e4b06da1414ea72c
+40.755602,-73.941174
+39-42 21st St, Long Island City, NY 11101
+----------
+ChIJo8Z7N5xXwokRKCdbOusSQwE
+40.767146,-74.045462
+1600 Tonnelle Ave, North Bergen, NJ 07047, United States
+4fbfc6d8e4b0758d90efe718
+40.767383,-74.045650
+1600 Tonnelle Ave, North Bergen, NJ 07047
+----------
+ChIJ3cP3GjJXwokRP9PHBmDqHfE
+40.731414,-74.064665
+2866 John F. Kennedy Blvd, Jersey City, NJ 07306, United States
+4c182aea1436a59362068d75
+40.731624,-74.064651
+2866 John F Kennedy Blvd, Jersey City, NJ 07306
+----------
+ChIJu4D9fnNbwokRd37E7AC89Lw
+40.667265,-73.956511
+1622 Bedford Ave, Brooklyn, NY 11225, United States
+4ead6e1e1081289f77884d9c
+40.667049,-73.956528
+1626 Bedford Ave, Brooklyn, NY 11225
+----------
+ChIJQ19TRxdawokR5iAwH1DWpc4
+40.708500,-74.011291
+111 Broadway, New York, NY 10006, United States
+4bf43ce013a6b713c82d5d33
+40.708528,-74.011235
+111 Broadway, New York, NY 10006

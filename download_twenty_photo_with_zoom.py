@@ -38,23 +38,25 @@ if __name__ == '__main__':
 	sleep_time = 0.5
 
 	query_name = open('./config/query_name.info').readline().rstrip()	# ex. subway
+	query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
+
 	# query_fov = open('./config/query_fov.info').readline().rstrip()		# ex. 60
 	query_fov = '20'
 	query_key_google = open('./config/query_key_google.info').readline().rstrip()		# ex. AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
 
-	work_dir = './data/%s/' % query_name
+	work_dir = './data/%s/%s/' % (query_name, query_zip)
 
 	photo_dir = work_dir + 'photo/'
 	if not os.path.exists(photo_dir):
 		os.makedirs(photo_dir)
 
 	f = open(work_dir + 'generate_twenty_location_meta.txt', 'r')
-	f_meta = open(work_dir + 'download_twenty_photo_meta.txt', 'w')
+	f_meta = open(work_dir + 'download_twenty_photo_with_zoom_meta.txt', 'w')
 
 	landmark_index = 0
 
-	fromNum = 80
-	endNum = 123
+	fromNum = 0
+	endNum = 1000
 
 	while (f.readline()):
 

@@ -1,0 +1,350 @@
+----------
+ChIJH7p4BeqAhYARARZw4y2tJ7U
+37.794127,-122.423354
+2001 Van Ness Ave, San Francisco, CA 94109, United States
+4a444f47f964a52073a71fe3
+37.793983,-122.423166
+2001 Van Ness Ave, San Francisco, CA 94109
+----------
+ChIJL6OKUgh_j4ARDamZ47-PzFs
+37.741648,-122.387312
+3801 3rd St #310, San Francisco, CA 94124, United States
+4b8091dcf964a520a17d30e3
+37.741605,-122.387509
+3801 3rd St, San Francisco, CA 94124
+----------
+ChIJ2x0Lphx-j4ARaaCDA8X2EGs
+37.762914,-122.434376
+2375 Market St, San Francisco, CA 94114, United States
+4b620b50f964a5203f322ae3
+37.763004,-122.434672
+2375 Market St, San Francisco, CA 94114
+----------
+ChIJOS1iwJ6AhYAR8mtqahwARfY
+37.775948,-122.419919
+77 Van Ness Ave #100, San Francisco, CA 94102, United States
+4c5b126d67ac0f47304d084c
+37.775917,-122.419503
+77 Van Ness Ave, San Francisco, CA 94102
+----------
+ChIJQZcagJuAhYARsHESBe8FBuE
+37.778259,-122.415810
+1250 Market St, San Francisco, CA 94102, United States
+49ca83e7f964a520b4581fe3
+37.778144,-122.415440
+1250 Market St, San Francisco, CA 94102
+----------
+ChIJ351S1OJ-j4ARb-QffY-Rc8Y
+37.729005,-122.403961
+2599 San Bruno Ave, San Francisco, CA 94134, United States
+4bd33e98462cb713b2eddd07
+37.728936,-122.404081
+2599 San Bruno Ave, San Francisco, CA 94134
+----------
+ChIJje1PnrmAhYAR0WMBkoU_FN8
+37.783518,-122.432554
+1500 Fillmore St, San Francisco, CA 94115, United States
+4aff22e2f964a520c03422e3
+37.783299,-122.432756
+1500 Fillmore St, San Francisco, CA 94115
+----------
+ChIJpf3VvVmHhYARkxKmtuB5bQA
+37.763784,-122.458561
+500 Parnassus Ave B1, San Francisco, CA 94143, United States
+4ace3827f964a52025cf20e3
+37.763793,-122.458550
+Millberry Union, 500 Parnassus Ave., San Francisco, CA 94122
+----------
+ChIJ_-3yY4OAhYARhg5hYpJDX38
+37.779226,-122.410730
+1099 Mission St, San Francisco, CA 94103, United States
+49c9a28bf964a5208b581fe3
+37.779292,-122.410936
+1099 Mission St, San Francisco, CA 94103
+----------
+ChIJncOPQZSAhYAROs-xGtaiKQ8
+37.787646,-122.419922
+1199 Sutter St, San Francisco, CA 94109, United States
+53eb01e6498eef14e3c44dbb
+37.787682,-122.420067
+1199 Sutter St, San Francisco, CA 94109
+----------
+ChIJf66XXY-AhYARi8upL2LEEcE
+37.785329,-122.408334
+125 Ellis St, San Francisco, CA 94102, United States
+4b0b01c5f964a520772b23e3
+37.785422,-122.408469
+125 Ellis St, San Francisco, CA 94102
+----------
+ChIJX-h0m2KAhYARlwxpnd2Ehfg
+37.788785,-122.401057
+30 2nd St, San Francisco, CA 94105, United States
+4aa0257ff964a5207f3e20e3
+37.788865,-122.400769
+30 2nd St, San Francisco, CA 94105
+----------
+ChIJ47FAJBCHhYARFDx-a2DIwyw
+37.780513,-122.480277
+5650 Geary Blvd, San Francisco, CA 94121, United States
+4a60d3def964a5203fc11fe3
+37.780382,-122.480244
+5650 Geary Blvd, San Francisco, CA 94121
+----------
+ChIJsR3mJn2AhYARD1djXgK0IEg
+37.786995,-122.398909
+168 2nd St, San Francisco, CA 94105, United States
+4a5544b7f964a520f6b31fe3
+37.787104,-122.398712
+168 2nd St, San Francisco, CA 94105
+----------
+ChIJFWnyktZ_j4ARVA6u4RF2YfA
+37.776723,-122.394869
+700 4th St #111, San Francisco, CA 94107, United States
+4aca55b6f964a5207ac120e3
+37.776715,-122.394881
+700 4th St, San Francisco, CA 94107
+----------
+ChIJmcQcIWKAhYARoNGE0JtnJRk
+37.792347,-122.400052
+200 Pine St, San Francisco, CA 94104, United States
+4b5f915af964a5201cc229e3
+37.792313,-122.399917
+200 Pine St, San Francisco, CA 94104
+----------
+ChIJEZmNNXuAhYAR8EPTOHPt6nQ
+37.789158,-122.394443
+215 Fremont St, San Francisco, CA 94105, United States
+4f62045be4b07f728fecb3ad
+37.789637,-122.394751
+215 Fremont St, San Francisco, CA 94105
+----------
+ChIJG_AiGIuAhYARjsmYBX33wic
+37.794338,-122.404957
+653 Kearny St, San Francisco, CA 94108, United States
+49f4f875f964a5207d6b1fe3
+37.794429,-122.404727
+653 Kearny St, San Francisco, CA 94108
+----------
+ChIJIStfgc9_j4ARSVftlbkhYZg
+37.769054,-122.390374
+550 Gene Friend Way, San Francisco, CA 94158, United States
+4a3fe92bf964a52010a41fe3
+37.768812,-122.390209
+550B Gene Friend Way, San Francisco, CA 94158
+----------
+ChIJuRpgnzd8j4ARSjx0LtHfAaI
+37.710748,-122.466566
+3911 Alemany Blvd #1004, San Francisco, CA 94132, United States
+4b64cc66f964a520f3d02ae3
+37.710938,-122.467227
+3911 Alemany Blvd, San Francisco, CA 94132
+----------
+ChIJga3NQX-HhYAR_3Rl_m3Zevk
+37.753813,-122.490800
+2516 Noriega St, San Francisco, CA 94122, United States
+4b9ae7bdf964a52094e135e3
+37.753664,-122.490681
+2516 Noriega St, San Francisco, CA 94122
+----------
+ChIJ8RRTR2GAhYARcmP1EX4PIK0
+37.798766,-122.400766
+160 Broadway, San Francisco, CA 94111, United States
+4f51265de4b0771bcd743b3e
+37.798581,-122.400714
+160 Broadway, San Francisco, CA 94111
+----------
+ChIJvV0rPuOAhYARaVn-LgF_1AQ
+37.808228,-122.413979
+2698 Mason St, San Francisco, CA 94133, United States
+4b09c277f964a520131d23e3
+37.808066,-122.414166
+2698 Mason St, San Francisco, CA 94133
+----------
+ChIJ_-3yY4OAhYARWstf2TMwuQc
+37.787319,-122.403109
+11 3rd St, San Francisco, CA 94103, United States
+4a9d6e26f964a5203d3820e3
+37.787430,-122.403267
+11 3rd St, San Francisco, CA 94103
+----------
+ChIJnWbmaYqAhYARTBJ5kyBXAhE
+37.793259,-122.402720
+400 Montgomery St, San Francisco, CA 94111, United States
+4a3c118ff964a52012a11fe3
+37.793252,-122.402844
+408 Montgomery St, San Francisco, CA 94104
+----------
+ChIJqboem699j4ARdluahm97ybA
+37.723267,-122.482192
+750 Font Blvd, San Francisco, CA 94132, United States
+4b1440caf964a52007a023e3
+37.723305,-122.482195
+750 Font Blvd, San Francisco, CA 94132
+----------
+ChIJ6x-56ip-j4ARQr93c4LKEAc
+37.775997,-122.402996
+804 Bryant St, San Francisco, CA 94103, United States
+4aa2fab7f964a520d94220e3
+37.775972,-122.402855
+804 Bryant St, San Francisco, CA 94103
+----------
+ChIJxYZwCI6AhYARJ_dI5JT7P3k
+37.788693,-122.412033
+701 Sutter St, San Francisco, CA 94109, United States
+4ac578b6f964a52028b220e3
+37.788745,-122.411965
+701 Sutter St, San Francisco, CA 94109
+----------
+ChIJJ1o2J5eAhYARNuX0G37ClwI
+37.783910,-122.419539
+753 Polk St, San Francisco, CA 94109, United States
+4b6c97e7f964a52045452ce3
+37.784049,-122.419470
+753 Polk St, San Francisco, CA 94109
+----------
+ChIJYTpHuNd_j4AR4eQ02BZgeq8
+37.779130,-122.392121
+#131, 177 Townsend St, San Francisco, CA 94107, United States
+4db21fea5da30ffdfd1b322a
+37.779270,-122.392360
+170 Townsend, San Francisco, CA 06461
+----------
+ChIJexu7D36AhYARr7CzFUGR6zg
+37.782156,-122.400505
+795 Folsom St, San Francisco, CA 94107, United States
+4a7ccbdbf964a520aaed1fe3
+37.782453,-122.400852
+795 Folsom St, San Francisco, CA 94107
+----------
+ChIJA6hoCIV-j4ARYpjwcbzCuoU
+37.720863,-122.437440
+4841 Mission St, San Francisco, CA 94110, United States
+4b49043ef964a520286226e3
+37.720977,-122.437603
+4847 Mission St, San Francisco, CA 94112
+----------
+ChIJ2dOTdd94j4ARnAd96q0DT9A
+37.685745,-122.399939
+150 Old County Rd, Brisbane, CA 94005, United States
+4b463ecef964a520521b26e3
+37.685596,-122.399768
+150 Old County Rd, Brisbane, CA 94005
+----------
+ChIJAVie7nx8j4AR5yRP5q1fdgQ
+37.682619,-122.487846
+37 Skyline Plaza, Daly City, CA 94015, United States
+4b492dd9f964a5200d6926e3
+37.682696,-122.487756
+37 Skyline Plz, Daly City, CA 94015
+----------
+ChIJZf360GGAhYARHRKh9vwgzks
+37.793928,-122.400901
+483 Sacramento St, San Francisco, CA 94111, United States
+4a9d6dbcf964a5203a3820e3
+37.793980,-122.400985
+483 Sacramento St, San Francisco, CA 94111
+----------
+ChIJyWK_7mSAhYARV8MF3Sf6EZU
+37.791146,-122.393762
+163 Main St, San Francisco, CA 94105, United States
+49fa0446f964a520a96d1fe3
+37.791108,-122.393813
+163 Main St, San Francisco, CA 94105
+----------
+ChIJTxkVMF6AhYARVrKjqGbtC9Q
+37.794482,-122.395223
+5 The Embarcadero, San Francisco, CA 94111, United States
+4b06fca3f964a520d0f422e3
+37.794389,-122.395012
+5 Embarcadero Ctr, San Francisco, CA 94111
+----------
+ChIJdQF0QJqAhYARBe9w8fQ4JBI
+37.781364,-122.416812
+376 Larkin St, San Francisco, CA 94102, United States
+4c12b7cd7f7f2d7fded3dd68
+37.781366,-122.416883
+300 Golden Gate Ave, San Francisco, CA 94109
+----------
+ChIJf66XXY-AhYARz0fV6rdzxLE
+37.783709,-122.408839
+940 Market St, San Francisco, CA 94102, United States
+50146aece4b0907580ee4d03
+37.783631,-122.408591
+940 Market St, San Francisco, CA 94102
+----------
+ChIJ8RRTR2GAhYARNfT5-is_KGk
+37.794437,-122.396799
+99 Drumm St, San Francisco, CA 94111, United States
+4bd6f7326798ef3b69e8658d
+37.794338,-122.396600
+99 Drumm St, San Francisco, CA 94111
+----------
+ChIJf66XXY-AhYARwoD1_L-NDhU
+37.784978,-122.409572
+147 Mason St, San Francisco, CA 94102, United States
+50ca4825e4b03ff32bc1ae76
+37.785085,-122.409382
+147 Mason St, San Francisco, CA 94102
+----------
+ChIJAVs94oOAhYARCQWQLNx8kB8
+37.779950,-122.407177
+197 6th St, San Francisco, CA 94103, United States
+50d09112e4b07cfd9193eb6b
+37.779692,-122.407302
+187 6th Street, San Francisco, CA 94103
+----------
+ChIJp8BZ8rt9j4ARNi6zJWAyO8I
+37.730265,-122.476253
+595 Buckingham Way #587, San Francisco, CA 94132, United States
+5144a104e4b07022e79fa5dc
+37.730331,-122.476820
+595 Buckingham Way, San Francisco, CA 94132
+----------
+ChIJfykHaoqAhYARjhxKPN0Ir9c
+37.792965,-122.402825
+408 Montgomery St, San Francisco, CA 94111, United States
+4a3c118ff964a52012a11fe3
+37.793252,-122.402844
+408 Montgomery St, San Francisco, CA 94104
+----------
+ChIJ-6S4qp99j4AR-O-TLV-tW9o
+37.733889,-122.489400
+1501 Sloat Blvd, San Francisco, CA 94132, United States
+555f8d96498ec84f84587222
+37.733609,-122.489486
+1501B Sloat Blvd, San Francisco, CA 94132
+----------
+ChIJzbZvkwl8j4ARB5WL5BP0v1g
+37.685105,-122.464537
+7800 El Camino Real, Daly City, CA 94015, United States
+4b3ea22df964a5200ca025e3
+37.685003,-122.464435
+7800 El Camino Real, Colma, CA 94014
+----------
+ChIJ-8WZeYmAhYAR7OGdxZbBOi4
+37.790491,-122.404531
+425 Bush St, San Francisco, CA 94108, United States
+4aee0c0bf964a5209ad121e3
+37.790850,-122.404376
+423 Bush St, San Francisco, CA 94108
+----------
+ChIJ4XytPoeAhYARe15vT8tWHII
+37.782632,-122.403030
+821 Howard St, San Francisco, CA 94103, United States
+4b461693f964a520ff1526e3
+37.782684,-122.402979
+821 Howard St, San Francisco, CA 94103
+----------
+ChIJTyjAdGOAhYARlNuwAZXqWmg
+37.790442,-122.397350
+50 Fremont St, San Francisco, CA 94105, United States
+50257f5ae4b001e1037ce4f7
+37.790722,-122.397743
+50 Fremont St, San Francisco, CA 94105
+----------
+ChIJG_uSAV18j4ARQA3q28Xw5rg
+37.697131,-122.483825
+177 Southgate Ave, Daly City, CA 94015, United States
+4b01cc53f964a520844522e3
+37.697246,-122.483793
+177 Southgate Ave, Daly City, CA 94015

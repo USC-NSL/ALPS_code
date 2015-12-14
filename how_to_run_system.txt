@@ -1,7 +1,10 @@
 python generate_seed_location.py > generate_seed_location_log.txt
 python generate_four_location.py > generate_four_location_log.txt
 python generate_twenty_location.py > generate_twenty_location_log.txt
-python download_twenty_photo.py > download_twenty_photo_log.txt
+python download_twenty_photo_with_zoom.py > download_twenty_photo_with_zoom_log.txt
+
+python merge.py
+
 python do_logo_detection.py
 python do_triangulation.py
 

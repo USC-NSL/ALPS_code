@@ -19,20 +19,24 @@ def calibrate_heading(heading):
 if __name__ == '__main__':
 
 	query_name = open('./config/query_name.info').readline().rstrip()	# ex. subway
+	query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
+	# query_zip = 'NY10001'
 	query_fov = open('./config/query_fov.info').readline().rstrip()		# ex. 60
 	query_fov = float(query_fov)
 
-	zoom_flag = True
-	if (not zoom_flag):
-		query_name_dir = query_name
-	else:
-		query_name_dir = '%s_with_merge' % query_name
+	# zoom_flag = True
+	# if (not zoom_flag):
+	# 	query_name_dir = query_name
+	# else:
+	# 	query_name_dir = '%s_with_merge' % query_name
 
-	work_dir = './data/%s/' % query_name_dir
+	# work_dir = './data/%s/' % query_name_dir
+	work_dir = './data/%s/%s/' % (query_name, query_zip)
 
 	f_input = open(work_dir + 'do_logo_detection_meta.txt', 'r')
 	f_meta = open(work_dir + 'do_triangulation_meta.txt', 'w')
 
+	# print work_dir
 
 	landmark_index = 0
 
@@ -124,6 +128,6 @@ if __name__ == '__main__':
 
 		landmark_index += 1
 
-	tend = datetime.now()
-	print tend
-	f_meta.write('%s\n' % str(tend))
+	# tend = datetime.now()
+	# print tend
+	# f_meta.write('%s\n' % str(tend))

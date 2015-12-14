@@ -1,0 +1,1890 @@
+=== play with the 0th landmark ===
+get 16 detected photo
+./data/subway/MA02138/photo_merged/000_000_42.363387_-71.133271_186.382796.jpg
+1428/1871/1920/1.4
+./data/subway/MA02138/photo_merged/000_001_42.363392_-71.133469_157.239090311.jpg
+ empty
+./data/subway/MA02138/photo_merged/000_002_42.363391_-71.133371_171.039540878.jpg
+51/497/1920/1.2
+./data/subway/MA02138/photo_merged/000_003_42.363381_-71.133171_201.796914504.jpg
+916/1418/1920/1.3
+./data/subway/MA02138/photo_merged/000_004_42.363374_-71.133071_215.260448032.jpg
+1612/1828/1920/1.3
+./data/subway/MA02138/photo_merged/000_005_42.363382_-71.133196_198.095796.jpg
+1036/1549/1920/1.5
+./data/subway/MA02138/photo_merged/000_006_42.363391_-71.133388_168.462524135.jpg
+116/587/1920/1.2
+./data/subway/MA02138/photo_merged/000_007_42.363388_-71.133294_182.846617987.jpg
+ empty
+./data/subway/MA02138/photo_merged/000_008_42.363376_-71.133098_211.859767251.jpg
+ empty
+./data/subway/MA02138/photo_merged/000_009_42.363368_-71.132999_223.345262594.jpg
+1385/1605/1920/1.2
+./data/subway/MA02138/photo_merged/000_010_42.363386_-71.133257_186.394236.jpg
+1413/1888/1920/1.4
+./data/subway/MA02138/photo_merged/000_011_42.363392_-71.133455_138.935803808.jpg
+633/878/1920/1.2
+./data/subway/MA02138/photo_merged/000_012_42.363390_-71.133357_158.553365584.jpg
+441/921/1920/1.2
+./data/subway/MA02138/photo_merged/000_013_42.363380_-71.133157_214.225657418.jpg
+1653/1858/1920/1.3
+./data/subway/MA02138/photo_merged/000_014_42.363373_-71.133057_232.996053075.jpg
+1047/1260/1920/1.3
+./data/subway/MA02138/photo_merged/000_015_42.363382_-71.133196_204.298701.jpg
+838/1336/1920/1.4
+./data/subway/MA02138/photo_merged/000_016_42.363391_-71.133381_152.880578117.jpg
+613/1078/1920/1.2
+./data/subway/MA02138/photo_merged/000_017_42.363388_-71.133291_176.347617542.jpg
+ empty
+./data/subway/MA02138/photo_merged/000_018_42.363376_-71.133101_225.851933894.jpg
+1270/1486/1920/1.3
+./data/subway/MA02138/photo_merged/000_019_42.363369_-71.133004_239.770528025.jpg
+854/1081/1920/1.2
+=== play with the 1th landmark ===
+get 0 detected photo
+./data/subway/MA02138/photo_merged/001_000_42.370540_-71.113536_48.765864.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_001_42.370411_-71.113373_15.9434577986.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_002_42.370475_-71.113455_30.8902164003.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_003_42.370605_-71.113617_66.4730939516.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_004_42.370670_-71.113698_81.3516694109.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_005_42.370542_-71.113538_49.106293.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_006_42.370412_-71.113376_16.2963489847.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_007_42.370477_-71.113457_31.3258922003.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_008_42.370607_-71.113619_66.9613371029.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_009_42.370672_-71.113700_81.7316240908.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_010_42.370476_-71.113455_228.759694.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_011_42.370605_-71.113618_157.385790808.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_012_42.370541_-71.113536_172.878801161.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_013_42.370411_-71.113374_-75.6384572793.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_014_42.370327_-71.113306_-53.8298170404.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_015_42.370542_-71.113538_172.490483.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_016_42.370601_-71.113612_158.006717442.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_017_42.370571_-71.113575_163.387490551.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_018_42.370512_-71.113501_188.9464335.jpg
+ empty
+./data/subway/MA02138/photo_merged/001_019_42.370483_-71.113464_219.54865652.jpg
+ empty
+=== play with the 2th landmark ===
+get 3 detected photo
+./data/subway/MA02138/photo_merged/002_000_42.364894_-71.104395_40.519015.jpg
+1151/1354/1920/1.2
+./data/subway/MA02138/photo_merged/002_001_42.364788_-71.104217_-6.22623035132.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_002_42.364841_-71.104306_12.5630777114.jpg
+323/468/1920/1.2
+./data/subway/MA02138/photo_merged/002_003_42.364947_-71.104484_68.4260989344.jpg
+940/1188/1920/1.2
+./data/subway/MA02138/photo_merged/002_004_42.365011_-71.104591_89.7878956118.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_005_42.365594_-71.104080_194.412535.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_006_42.365703_-71.104210_184.434974539.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_007_42.365570_-71.104114_192.432055449.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_008_42.365567_-71.103985_201.725130658.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_009_42.365518_-71.103899_209.465615915.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_010_42.365219_-71.104679_169.104033.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_011_42.365189_-71.104869_88.4753404064.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_012_42.365203_-71.104778_96.5748446629.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_013_42.365235_-71.104580_241.601612449.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_014_42.365255_-71.104482_248.788436304.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_015_42.365594_-71.104080_229.223913.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_016_42.365719_-71.104238_212.983820846.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_017_42.365667_-71.104148_220.93066826.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_018_42.365524_-71.104026_237.003748077.jpg
+ empty
+./data/subway/MA02138/photo_merged/002_019_42.365507_-71.103880_243.548372594.jpg
+ empty
+=== play with the 3th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/003_000_42.372459_-71.119868_29.113263.jpg
+1715/1912/1920/1.2
+./data/subway/MA02138/photo_merged/003_001_42.372385_-71.119677_-7.44770045146.jpg
+1643/1785/1920/1.2
+./data/subway/MA02138/photo_merged/003_002_42.372422_-71.119773_8.7698787167.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_003_42.372495_-71.119964_49.3723711584.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_004_42.372532_-71.120060_65.5153964084.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_005_42.372697_-71.120055_102.502339.jpg
+141/1107/1920/1.2
+./data/subway/MA02138/photo_merged/003_006_42.372537_-71.120073_67.3619382047.jpg
+1021/1169/1920/1.2
+./data/subway/MA02138/photo_merged/003_007_42.372552_-71.120110_72.0876259147.jpg
+814/950/1920/1.2
+./data/subway/MA02138/photo_merged/003_008_42.372775_-71.119990_124.639549337.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_009_42.372853_-71.119925_146.348143778.jpg
+40/356/1920/1.2
+./data/subway/MA02138/photo_merged/003_010_42.372363_-71.119272_-60.963558.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_011_42.372537_-71.119172_231.078673211.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_012_42.372450_-71.119222_250.734651352.jpg
+501/671/1920/1.2
+./data/subway/MA02138/photo_merged/003_013_42.372282_-71.119335_-14.3312513813.jpg
+1671/1814/1920/1.2
+./data/subway/MA02138/photo_merged/003_014_42.372195_-71.119390_3.1041990154.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_015_42.371983_-71.120650_67.250385.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_016_42.371876_-71.120740_63.7077809366.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_017_42.371929_-71.120695_65.3970171915.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_018_42.372037_-71.120605_69.3169167669.jpg
+ empty
+./data/subway/MA02138/photo_merged/003_019_42.372090_-71.120560_71.6097989325.jpg
+ empty
+=== play with the 4th landmark ===
+get 12 detected photo
+./data/subway/MA02138/photo_merged/004_000_42.351509_-71.131627_72.878007.jpg
+323/479/1920/1.6
+./data/subway/MA02138/photo_merged/004_001_42.351326_-71.131539_13.8973603114.jpg
+ empty
+./data/subway/MA02138/photo_merged/004_002_42.351417_-71.131584_33.803863535.jpg
+ empty
+./data/subway/MA02138/photo_merged/004_003_42.351603_-71.131666_112.631777798.jpg
+594/823/1920/1.5
+./data/subway/MA02138/photo_merged/004_004_42.351697_-71.131701_132.920190522.jpg
+268/411/1920/1.2
+./data/subway/MA02138/photo_merged/004_005_42.351533_-71.131638_84.810268.jpg
+722/900/1920/1.3
+./data/subway/MA02138/photo_merged/004_006_42.351352_-71.131552_18.158173577.jpg
+ empty
+./data/subway/MA02138/photo_merged/004_007_42.351442_-71.131596_42.5700329472.jpg
+1641/1810/1920/1.4
+./data/subway/MA02138/photo_merged/004_008_42.351627_-71.131675_119.523656317.jpg
+618/754/1920/1.6
+./data/subway/MA02138/photo_merged/004_009_42.351721_-71.131711_135.992202176.jpg
+161/309/1920/1.2
+./data/subway/MA02138/photo_merged/004_010_42.351489_-71.131618_72.909522.jpg
+326/482/1920/1.7
+./data/subway/MA02138/photo_merged/004_011_42.351307_-71.131529_-10.4713719659.jpg
+ empty
+./data/subway/MA02138/photo_merged/004_012_42.351397_-71.131574_-2.272362322.jpg
+1422/1607/1920/1.3
+./data/subway/MA02138/photo_merged/004_013_42.351582_-71.131659_147.665154093.jpg
+ empty
+./data/subway/MA02138/photo_merged/004_014_42.351677_-71.131694_156.765489522.jpg
+ empty
+./data/subway/MA02138/photo_merged/004_015_42.351533_-71.131638_132.004455.jpg
+153/342/1920/1.2
+./data/subway/MA02138/photo_merged/004_016_42.351433_-71.131592_7.23556793025.jpg
+1124/1301/1920/1.2
+./data/subway/MA02138/photo_merged/004_017_42.351481_-71.131614_55.7084892855.jpg
+ empty
+./data/subway/MA02138/photo_merged/004_018_42.351589_-71.131662_148.903862087.jpg
+11/192/1920/1.2
+./data/subway/MA02138/photo_merged/004_019_42.351647_-71.131682_155.078177357.jpg
+ empty
+=== play with the 5th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/005_000_42.393416_-71.120639_67.145840.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_001_42.393241_-71.120532_18.929866227.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_002_42.393329_-71.120586_38.0473322727.jpg
+890/1224/1920/1.2
+./data/subway/MA02138/photo_merged/005_003_42.393503_-71.120692_96.4437100612.jpg
+1386/1650/1920/1.4
+./data/subway/MA02138/photo_merged/005_004_42.393590_-71.120746_115.332552948.jpg
+936/1175/1920/1.3
+./data/subway/MA02138/photo_merged/005_005_42.393394_-71.120626_59.227451.jpg
+167/620/1920/1.2
+./data/subway/MA02138/photo_merged/005_006_42.393223_-71.120521_16.0981032359.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_007_42.393309_-71.120573_32.6753696167.jpg
+1015/1475/1920/1.2
+./data/subway/MA02138/photo_merged/005_008_42.393480_-71.120678_89.4528621331.jpg
+1595/1861/1920/1.4
+./data/subway/MA02138/photo_merged/005_009_42.393565_-71.120730_110.861280082.jpg
+906/1184/1920/1.5
+./data/subway/MA02138/photo_merged/005_010_42.393440_-71.120654_67.217045.jpg
+94/232/1920/1.4
+./data/subway/MA02138/photo_merged/005_011_42.393266_-71.120547_-18.4907392306.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_012_42.393353_-71.120600_-13.9983019474.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_013_42.393527_-71.120707_148.037686762.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_014_42.393614_-71.120761_152.469804257.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_015_42.393394_-71.120626_-6.252772.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_016_42.393357_-71.120603_-13.5377879195.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_017_42.393376_-71.120614_-10.8653284439.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_018_42.393413_-71.120637_3.97921906399.jpg
+ empty
+./data/subway/MA02138/photo_merged/005_019_42.393431_-71.120648_35.2968559575.jpg
+ empty
+=== play with the 6th landmark ===
+get 5 detected photo
+./data/subway/MA02138/photo_merged/006_000_42.361030_-71.063691_267.355862.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_001_42.361230_-71.063704_201.917772134.jpg
+1184/1575/1920/1.2
+./data/subway/MA02138/photo_merged/006_002_42.361130_-71.063701_218.340160657.jpg
+1214/1412/1920/1.2
+./data/subway/MA02138/photo_merged/006_003_42.360930_-71.063682_-43.5767336306.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_004_42.360831_-71.063672_-26.1297087273.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_005_42.361155_-71.063932_146.470551.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_006_42.361043_-71.064129_95.8865947869.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_007_42.361153_-71.064017_131.14976723.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_008_42.361210_-71.063837_174.809105882.jpg
+350/951/1920/1.6
+./data/subway/MA02138/photo_merged/006_009_42.361283_-71.063765_188.40754728.jpg
+516/1023/1920/1.2
+./data/subway/MA02138/photo_merged/006_010_42.361283_-71.063765_181.683951.jpg
+698/1247/1920/1.3
+./data/subway/MA02138/photo_merged/006_011_42.361281_-71.063965_96.3305444784.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_012_42.361283_-71.063865_102.464387247.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_013_42.361283_-71.063665_260.019800715.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_014_42.361285_-71.063565_264.915983443.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_015_42.361162_-71.063186_-74.755418.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_016_42.361292_-71.063132_268.439733258.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_017_42.361292_-71.063160_268.352355934.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_018_42.361162_-71.063213_-74.082528994.jpg
+ empty
+./data/subway/MA02138/photo_merged/006_019_42.360963_-71.063388_-41.1752832235.jpg
+ empty
+=== play with the 7th landmark ===
+get 9 detected photo
+./data/subway/MA02138/photo_merged/007_000_42.340999_-71.121202_14.581694.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_001_42.340965_-71.121003_-38.5359524327.jpg
+1402/1571/1920/1.2
+./data/subway/MA02138/photo_merged/007_002_42.340982_-71.121103_-19.0539063615.jpg
+1622/1889/1920/1.3
+./data/subway/MA02138/photo_merged/007_003_42.341016_-71.121301_48.2174204058.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_004_42.341033_-71.121401_67.6110867377.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_005_42.341144_-71.120963_258.791328.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_006_42.341338_-71.121017_207.404218066.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_007_42.341241_-71.120990_226.470163193.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_008_42.341047_-71.120936_-68.3784775427.jpg
+247/526/1920/1.2
+./data/subway/MA02138/photo_merged/007_009_42.340949_-71.120909_-48.4930458471.jpg
+10/193/1920/1.4
+./data/subway/MA02138/photo_merged/007_010_42.341090_-71.120948_259.828239.jpg
+1263/1549/1920/1.2
+./data/subway/MA02138/photo_merged/007_011_42.341284_-71.121002_192.315358196.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_012_42.341187_-71.120975_209.477253474.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_013_42.340993_-71.120921_-50.1598730124.jpg
+54/263/1920/1.3
+./data/subway/MA02138/photo_merged/007_014_42.340896_-71.120894_-32.7996101601.jpg
+507/659/1920/1.2
+./data/subway/MA02138/photo_merged/007_015_42.341144_-71.120963_225.893630.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_016_42.341302_-71.121007_190.55354887.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_017_42.341223_-71.120985_200.954151726.jpg
+ empty
+./data/subway/MA02138/photo_merged/007_018_42.341065_-71.120941_-83.1893929145.jpg
+715/998/1920/1.2
+./data/subway/MA02138/photo_merged/007_019_42.340986_-71.120919_-48.1810058475.jpg
+5/190/1920/1.5
+=== play with the 8th landmark ===
+get 3 detected photo
+./data/subway/MA02138/photo_merged/008_000_42.351111_-71.071642_161.140889.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_001_42.351058_-71.071837_119.139408131.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_002_42.351084_-71.071739_136.94992077.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_003_42.351137_-71.071545_185.606289706.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_004_42.351164_-71.071447_203.419015579.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_005_42.350743_-71.071523_-6.693779.jpg
+353/494/1920/1.2
+./data/subway/MA02138/photo_merged/008_006_42.350792_-71.071337_-45.185427092.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_007_42.350768_-71.071430_-26.9066363373.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_008_42.350719_-71.071616_11.058691395.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_009_42.350694_-71.071709_24.3339537303.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_010_42.350631_-71.071942_161.107107.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_011_42.350578_-71.072137_83.4344353012.jpg
+12/156/1920/1.2
+./data/subway/MA02138/photo_merged/008_012_42.350605_-71.072040_94.5886590676.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_013_42.350658_-71.071845_227.646240101.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_014_42.350684_-71.071747_238.969631852.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_015_42.350743_-71.071523_245.772761.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_016_42.350745_-71.071518_245.836587875.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_017_42.350744_-71.071521_245.80761977.jpg
+1492/1718/1920/1.2
+./data/subway/MA02138/photo_merged/008_018_42.350743_-71.071526_245.727379333.jpg
+ empty
+./data/subway/MA02138/photo_merged/008_019_42.350742_-71.071528_245.697226463.jpg
+ empty
+=== play with the 9th landmark ===
+get 4 detected photo
+./data/subway/MA02138/photo_merged/009_000_42.338706_-71.107488_132.924503.jpg
+822/1243/1920/1.3
+./data/subway/MA02138/photo_merged/009_001_42.338572_-71.107645_100.92860064.jpg
+1203/1617/1920/1.3
+./data/subway/MA02138/photo_merged/009_002_42.338629_-71.107581_113.012013367.jpg
+1331/1767/1920/1.6
+./data/subway/MA02138/photo_merged/009_003_42.338772_-71.107409_150.115083651.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_004_42.338838_-71.107330_164.725545625.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_005_42.338789_-71.107062_201.984395.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_006_42.338883_-71.107276_172.631952443.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_007_42.338836_-71.107145_188.761317721.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_008_42.338742_-71.106980_217.450817113.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_009_42.338695_-71.106897_233.118121376.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_010_42.338800_-71.107081_219.226611.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_011_42.338924_-71.107231_167.46322958.jpg
+1642/1887/1920/1.2
+./data/subway/MA02138/photo_merged/009_012_42.338851_-71.107171_178.776952713.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_013_42.338749_-71.106991_259.237271753.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_014_42.338697_-71.106901_-81.560205331.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_015_42.338789_-71.107062_229.040889.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_016_42.338948_-71.107206_173.347242863.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_017_42.338841_-71.107153_185.110748102.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_018_42.338737_-71.106972_264.911033704.jpg
+ empty
+./data/subway/MA02138/photo_merged/009_019_42.338686_-71.106881_-78.9701570981.jpg
+ empty
+=== play with the 10th landmark ===
+get 4 detected photo
+./data/subway/MA02138/photo_merged/010_000_42.333373_-71.102451_207.177150.jpg
+368/940/1920/1.2
+./data/subway/MA02138/photo_merged/010_001_42.333438_-71.102644_157.28646718.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_002_42.333408_-71.102550_176.247366065.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_003_42.333339_-71.102355_237.290387966.jpg
+1547/1790/1920/1.3
+./data/subway/MA02138/photo_merged/010_004_42.333304_-71.102258_256.367331398.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_005_42.333372_-71.102449_207.911913.jpg
+347/904/1920/1.2
+./data/subway/MA02138/photo_merged/010_006_42.333437_-71.102642_157.616516803.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_007_42.333408_-71.102550_176.247366065.jpg
+398/733/1920/1.4
+./data/subway/MA02138/photo_merged/010_008_42.333338_-71.102352_237.873738907.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_009_42.333304_-71.102256_256.702611123.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_010_42.333350_-71.102385_27.189619.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_011_42.333281_-71.102193_-36.4100162993.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_012_42.333315_-71.102289_-17.9594690017.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_013_42.333384_-71.102482_72.0930153859.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_014_42.333417_-71.102577_89.988898561.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_015_42.333372_-71.102449_60.517026.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_016_42.333311_-71.102277_-21.3298392159.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_017_42.333342_-71.102363_14.0057705857.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_018_42.333408_-71.102550_86.7849767946.jpg
+ empty
+./data/subway/MA02138/photo_merged/010_019_42.333563_-71.102598_127.987185566.jpg
+ empty
+=== play with the 11th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/011_000_42.351318_-71.064832_102.587795.jpg
+1521/1866/1920/1.2
+./data/subway/MA02138/photo_merged/011_001_42.351119_-71.064888_44.0412682957.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_002_42.351221_-71.064858_63.7722380213.jpg
+666/984/1920/1.6
+./data/subway/MA02138/photo_merged/011_003_42.351415_-71.064806_141.594053915.jpg
+1400/1577/1920/1.2
+./data/subway/MA02138/photo_merged/011_004_42.351512_-71.064780_160.897199224.jpg
+110/305/1920/1.2
+./data/subway/MA02138/photo_merged/011_005_42.351321_-71.064831_104.115822.jpg
+1469/1841/1920/1.2
+./data/subway/MA02138/photo_merged/011_006_42.351119_-71.064888_44.0412682957.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_007_42.351224_-71.064857_64.7487093392.jpg
+628/950/1920/1.5
+./data/subway/MA02138/photo_merged/011_008_42.351418_-71.064805_142.402794557.jpg
+1362/1546/1920/1.2
+./data/subway/MA02138/photo_merged/011_009_42.351515_-71.064779_161.23789348.jpg
+94/286/1920/1.2
+./data/subway/MA02138/photo_merged/011_010_42.351160_-71.064876_103.659122.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_011_42.350971_-71.064954_22.557354737.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_012_42.351068_-71.064916_27.5887130843.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_013_42.351257_-71.064848_185.013468776.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_014_42.351353_-71.064822_188.81500963.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_015_42.351321_-71.064831_188.047097.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_016_42.351320_-71.064831_188.014419674.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_017_42.351320_-71.064831_188.041624328.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_018_42.351322_-71.064831_188.073997336.jpg
+ empty
+./data/subway/MA02138/photo_merged/011_019_42.351322_-71.064831_188.079334968.jpg
+ empty
+=== play with the 12th landmark ===
+get 16 detected photo
+./data/subway/MA02138/photo_merged/012_000_42.400852_-71.117616_177.127895.jpg
+ empty
+./data/subway/MA02138/photo_merged/012_001_42.400841_-71.117816_132.74229182.jpg
+ empty
+./data/subway/MA02138/photo_merged/012_002_42.400846_-71.117716_151.075817151.jpg
+245/436/1920/1.3
+./data/subway/MA02138/photo_merged/012_003_42.400857_-71.117516_203.344679913.jpg
+934/1074/1920/1.2
+./data/subway/MA02138/photo_merged/012_004_42.400863_-71.117416_221.628638848.jpg
+391/658/1920/1.2
+./data/subway/MA02138/photo_merged/012_005_42.400853_-71.117597_182.434599.jpg
+ empty
+./data/subway/MA02138/photo_merged/012_006_42.400842_-71.117795_135.877263882.jpg
+1448/1579/1920/1.3
+./data/subway/MA02138/photo_merged/012_007_42.400847_-71.117696_155.766926893.jpg
+85/286/1920/1.2
+./data/subway/MA02138/photo_merged/012_008_42.400858_-71.117498_207.279929702.jpg
+828/951/1920/1.2
+./data/subway/MA02138/photo_merged/012_009_42.400864_-71.117399_223.984705185.jpg
+302/550/1920/1.2
+./data/subway/MA02138/photo_merged/012_010_42.400857_-71.117516_177.140149.jpg
+414/801/1920/1.3
+./data/subway/MA02138/photo_merged/012_011_42.400846_-71.117716_106.304191042.jpg
+1653/1869/1920/1.2
+./data/subway/MA02138/photo_merged/012_012_42.400852_-71.117616_121.984661211.jpg
+ empty
+./data/subway/MA02138/photo_merged/012_013_42.400863_-71.117416_232.426699752.jpg
+44/290/1920/1.2
+./data/subway/MA02138/photo_merged/012_014_42.400871_-71.117317_247.278811822.jpg
+7/179/1920/1.2
+./data/subway/MA02138/photo_merged/012_015_42.400853_-71.117597_127.647246.jpg
+1498/1634/1920/1.2
+./data/subway/MA02138/photo_merged/012_016_42.400845_-71.117734_104.774873186.jpg
+1731/1909/1920/1.2
+./data/subway/MA02138/photo_merged/012_017_42.400849_-71.117666_112.017454895.jpg
+1494/1687/1920/1.3
+./data/subway/MA02138/photo_merged/012_018_42.400857_-71.117528_167.314430643.jpg
+764/1049/1920/1.3
+./data/subway/MA02138/photo_merged/012_019_42.400861_-71.117459_216.434129295.jpg
+546/811/1920/1.2
+=== play with the 13th landmark ===
+get 12 detected photo
+./data/subway/MA02138/photo_merged/013_000_42.332002_-71.111925_140.032397.jpg
+ empty
+./data/subway/MA02138/photo_merged/013_001_42.331882_-71.112038_79.9747238072.jpg
+939/1221/1920/1.5
+./data/subway/MA02138/photo_merged/013_002_42.331958_-71.112016_108.140071758.jpg
+1106/1372/1920/1.2
+./data/subway/MA02138/photo_merged/013_003_42.332058_-71.111839_176.499681817.jpg
+1390/1556/1920/1.2
+./data/subway/MA02138/photo_merged/013_004_42.332114_-71.111752_196.003184401.jpg
+ empty
+./data/subway/MA02138/photo_merged/013_005_42.331982_-71.111955_125.675725.jpg
+1343/1718/1920/1.3
+./data/subway/MA02138/photo_merged/013_006_42.331832_-71.112017_61.513304855.jpg
+73/321/1920/1.8
+./data/subway/MA02138/photo_merged/013_007_42.331894_-71.112043_84.1590198292.jpg
+807/1094/1920/1.6
+./data/subway/MA02138/photo_merged/013_008_42.332039_-71.111868_166.0648351.jpg
+1729/1891/1920/1.2
+./data/subway/MA02138/photo_merged/013_009_42.332159_-71.111856_175.502430655.jpg
+743/905/1920/1.3
+./data/subway/MA02138/photo_merged/013_010_42.331967_-71.111993_153.070413.jpg
+ empty
+./data/subway/MA02138/photo_merged/013_011_42.331916_-71.112185_72.9544080814.jpg
+ empty
+./data/subway/MA02138/photo_merged/013_012_42.331940_-71.112062_67.2910375689.jpg
+835/968/1920/1.5
+./data/subway/MA02138/photo_merged/013_013_42.332014_-71.111906_232.87117878.jpg
+ empty
+./data/subway/MA02138/photo_merged/013_014_42.332067_-71.111825_231.560057561.jpg
+ empty
+./data/subway/MA02138/photo_merged/013_015_42.331982_-71.111955_236.858377.jpg
+252/375/1920/1.2
+./data/subway/MA02138/photo_merged/013_016_42.332082_-71.112017_171.985883366.jpg
+421/604/1920/1.2
+./data/subway/MA02138/photo_merged/013_017_42.332081_-71.112020_170.843912564.jpg
+457/643/1920/1.2
+./data/subway/MA02138/photo_merged/013_018_42.331869_-71.112033_19.3690409528.jpg
+ empty
+./data/subway/MA02138/photo_merged/013_019_42.331781_-71.111997_2.72119387795.jpg
+ empty
+=== play with the 14th landmark ===
+get 15 detected photo
+./data/subway/MA02138/photo_merged/014_000_42.386178_-71.114036_193.524412.jpg
+ empty
+./data/subway/MA02138/photo_merged/014_001_42.386270_-71.114141_167.250158437.jpg
+ empty
+./data/subway/MA02138/photo_merged/014_002_42.386220_-71.114095_174.646256664.jpg
+ empty
+./data/subway/MA02138/photo_merged/014_003_42.386179_-71.113887_230.591202606.jpg
+1443/1712/1920/1.4
+./data/subway/MA02138/photo_merged/014_004_42.386130_-71.113844_249.311363313.jpg
+ empty
+./data/subway/MA02138/photo_merged/014_005_42.385851_-71.114268_36.238532.jpg
+444/870/1920/1.2
+./data/subway/MA02138/photo_merged/014_006_42.385754_-71.114086_3.65629861738.jpg
+187/317/1920/1.5
+./data/subway/MA02138/photo_merged/014_007_42.385802_-71.114177_18.4402657849.jpg
+996/1441/1920/1.2
+./data/subway/MA02138/photo_merged/014_008_42.385900_-71.114359_54.3312210592.jpg
+386/764/1920/1.2
+./data/subway/MA02138/photo_merged/014_009_42.385950_-71.114449_69.6993947191.jpg
+689/982/1920/1.2
+./data/subway/MA02138/photo_merged/014_010_42.385995_-71.114284_59.403860.jpg
+965/1359/1920/1.2
+./data/subway/MA02138/photo_merged/014_011_42.385811_-71.114194_7.4957613842.jpg
+1412/1769/1920/1.2
+./data/subway/MA02138/photo_merged/014_012_42.385858_-71.114282_26.6150228412.jpg
+783/1149/1920/1.2
+./data/subway/MA02138/photo_merged/014_013_42.386053_-71.114368_91.3144783207.jpg
+51/280/1920/1.2
+./data/subway/MA02138/photo_merged/014_014_42.386206_-71.114494_123.093803842.jpg
+ empty
+./data/subway/MA02138/photo_merged/014_015_42.385851_-71.114268_23.226954.jpg
+902/1257/1920/1.2
+./data/subway/MA02138/photo_merged/014_016_42.385759_-71.114097_-7.51123082577.jpg
+538/677/1920/1.5
+./data/subway/MA02138/photo_merged/014_017_42.385805_-71.114182_5.44547101871.jpg
+1447/1830/1920/1.2
+./data/subway/MA02138/photo_merged/014_018_42.385897_-71.114353_44.1066771235.jpg
+722/1104/1920/1.2
+./data/subway/MA02138/photo_merged/014_019_42.385944_-71.114438_63.5593052816.jpg
+910/1192/1920/1.2
+=== play with the 15th landmark ===
+get 1 detected photo
+./data/subway/MA02138/photo_merged/015_000_42.405702_-71.084089_92.129836.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_001_42.405502_-71.084092_46.7538999439.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_002_42.405602_-71.084091_65.2172203281.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_003_42.405802_-71.084087_118.811081221.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_004_42.405902_-71.084085_137.371481976.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_005_42.405079_-71.083668_-8.983483.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_006_42.405092_-71.083469_-21.9036881456.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_007_42.405086_-71.083568_-15.6379226821.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_008_42.405072_-71.083768_-2.24799794274.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_009_42.405064_-71.083868_4.47433871608.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_010_42.405633_-71.083527_94.536550.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_011_42.405434_-71.083543_6.37592833333.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_012_42.405533_-71.083535_7.93582754225.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_013_42.405733_-71.083519_181.660953268.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_014_42.405832_-71.083511_183.236150218.jpg
+1583/1731/1920/1.4
+./data/subway/MA02138/photo_merged/015_015_42.405079_-71.083668_12.635805.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_016_42.405092_-71.083478_-1.84657224333.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_017_42.405086_-71.083574_5.59604791251.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_018_42.405073_-71.083762_19.1421342573.jpg
+ empty
+./data/subway/MA02138/photo_merged/015_019_42.405065_-71.083854_24.9763150375.jpg
+ empty
+=== play with the 16th landmark ===
+get 1 detected photo
+./data/subway/MA02138/photo_merged/016_000_42.359126_-71.058968_19.540210.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_001_42.359063_-71.058777_-5.9954523453.jpg
+1603/1731/1920/1.2
+./data/subway/MA02138/photo_merged/016_002_42.359097_-71.058871_5.60403583145.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_003_42.359150_-71.059066_33.6566991497.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_004_42.359174_-71.059165_46.2079865561.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_005_42.358228_-71.058994_6.913062.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_006_42.358259_-71.058977_6.43440652607.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_007_42.358228_-71.058994_6.9130623742.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_008_42.358252_-71.059087_10.3787731778.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_009_42.358277_-71.059181_13.9190502254.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_010_42.359629_-71.059717_71.749945.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_011_42.359443_-71.059641_56.1579178904.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_012_42.359535_-71.059682_63.7345227801.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_013_42.359720_-71.059762_79.7843717139.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_014_42.359811_-71.059806_87.4957659711.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_015_42.358228_-71.058994_5.263660.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_016_42.358264_-71.058974_4.8181121175.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_017_42.358246_-71.058984_5.04485638504.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_018_42.358252_-71.059086_7.74340331935.jpg
+ empty
+./data/subway/MA02138/photo_merged/016_019_42.358276_-71.059179_10.2763771326.jpg
+ empty
+=== play with the 17th landmark ===
+get 0 detected photo
+./data/subway/MA02138/photo_merged/017_000_42.359363_-71.094606_189.375295.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_001_42.359363_-71.094606_189.375295456.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_002_42.359363_-71.094606_189.375295456.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_003_42.359389_-71.094535_196.759174491.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_004_42.359414_-71.094464_202.79864375.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_005_42.359005_-71.093566_-87.265776.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_006_42.359152_-71.093678_261.521175137.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_007_42.359079_-71.093620_267.341739185.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_008_42.358923_-71.093517_-81.8250844114.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_009_42.358843_-71.093466_-77.1013013305.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_010_42.359363_-71.094606_158.764053.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_011_42.359363_-71.094606_158.764053123.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_012_42.359363_-71.094606_158.764053123.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_013_42.359397_-71.094511_173.89763323.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_014_42.359452_-71.094408_187.584769778.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_015_42.359005_-71.093566_-80.260360.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_016_42.359142_-71.093670_267.452085185.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_017_42.359075_-71.093616_-86.0787745276.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_018_42.358927_-71.093520_-74.4860533797.jpg
+ empty
+./data/subway/MA02138/photo_merged/017_019_42.358852_-71.093471_-69.7064386802.jpg
+ empty
+=== play with the 18th landmark ===
+get 14 detected photo
+./data/subway/MA02138/photo_merged/018_000_42.376430_-71.245788_-86.089719.jpg
+420/700/1920/1.3
+./data/subway/MA02138/photo_merged/018_001_42.376630_-71.245777_201.283066122.jpg
+ empty
+./data/subway/MA02138/photo_merged/018_002_42.376530_-71.245782_215.946076085.jpg
+ empty
+./data/subway/MA02138/photo_merged/018_003_42.376330_-71.245794_-27.8784567223.jpg
+998/1279/1920/1.3
+./data/subway/MA02138/photo_merged/018_004_42.376255_-71.245798_-15.5919606243.jpg
+427/635/1920/2
+./data/subway/MA02138/photo_merged/018_005_42.376258_-71.245892_6.395643.jpg
+1081/1318/1920/1.2
+./data/subway/MA02138/photo_merged/018_006_42.376256_-71.245694_-35.2726410025.jpg
+671/858/1920/1.4
+./data/subway/MA02138/photo_merged/018_007_42.376255_-71.245798_-15.5919606243.jpg
+429/636/1920/1.9
+./data/subway/MA02138/photo_merged/018_008_42.376262_-71.245992_28.9970383835.jpg
+364/593/1920/1.2
+./data/subway/MA02138/photo_merged/018_009_42.376266_-71.246092_45.7632306198.jpg
+844/1012/1920/1.2
+./data/subway/MA02138/photo_merged/018_010_42.376335_-71.245794_-86.101269.jpg
+ empty
+./data/subway/MA02138/photo_merged/018_011_42.376535_-71.245782_204.376264697.jpg
+ empty
+./data/subway/MA02138/photo_merged/018_012_42.376435_-71.245788_220.614347748.jpg
+ empty
+./data/subway/MA02138/photo_merged/018_013_42.376255_-71.245798_-39.1109405641.jpg
+1187/1384/1920/1.9
+./data/subway/MA02138/photo_merged/018_014_42.376134_-71.245843_-9.01241796397.jpg
+225/415/1920/1.2
+./data/subway/MA02138/photo_merged/018_015_42.376258_-71.245892_0.498965.jpg
+1280/1506/1920/1.2
+./data/subway/MA02138/photo_merged/018_016_42.376256_-71.245692_-59.7854455894.jpg
+1461/1640/1920/1.5
+./data/subway/MA02138/photo_merged/018_017_42.376255_-71.245798_-39.1109405641.jpg
+1184/1384/1920/1.8
+./data/subway/MA02138/photo_merged/018_018_42.376262_-71.245992_45.2072069645.jpg
+ empty
+./data/subway/MA02138/photo_merged/018_019_42.376266_-71.246092_65.2488425365.jpg
+226/390/1920/1.2
+=== play with the 19th landmark ===
+get 17 detected photo
+./data/subway/MA02138/photo_merged/019_000_42.428992_-71.049987_-5.547445.jpg
+ empty
+./data/subway/MA02138/photo_merged/019_001_42.429008_-71.049787_-33.4042742363.jpg
+1023/1157/1920/1.3
+./data/subway/MA02138/photo_merged/019_002_42.429002_-71.049876_-22.0102710923.jpg
+215/379/1920/1.3
+./data/subway/MA02138/photo_merged/019_003_42.428983_-71.050087_9.26606942593.jpg
+ empty
+./data/subway/MA02138/photo_merged/019_004_42.428974_-71.050186_22.4060476628.jpg
+ empty
+./data/subway/MA02138/photo_merged/019_005_42.429584_-71.050084_174.473448.jpg
+962/1119/1920/1.3
+./data/subway/MA02138/photo_merged/019_006_42.429566_-71.050283_149.32744996.jpg
+598/728/1920/1.4
+./data/subway/MA02138/photo_merged/019_007_42.429575_-71.050184_161.303362433.jpg
+742/895/1920/1.4
+./data/subway/MA02138/photo_merged/019_008_42.429593_-71.049984_187.737901253.jpg
+1152/1293/1920/1.6
+./data/subway/MA02138/photo_merged/019_009_42.429602_-71.049885_199.678068396.jpg
+769/922/1920/1.2
+./data/subway/MA02138/photo_merged/019_010_42.429580_-71.050134_174.349863.jpg
+324/480/1920/1.3
+./data/subway/MA02138/photo_merged/019_011_42.429562_-71.050333_127.611634025.jpg
+1291/1426/1920/1.5
+./data/subway/MA02138/photo_merged/019_012_42.429571_-71.050234_146.360585511.jpg
+1223/1370/1920/1.4
+./data/subway/MA02138/photo_merged/019_013_42.429589_-71.050034_202.425394008.jpg
+70/226/1920/1.4
+./data/subway/MA02138/photo_merged/019_014_42.429598_-71.049935_221.17597.jpg
+83/226/1920/1.4
+./data/subway/MA02138/photo_merged/019_015_42.429584_-71.050084_189.218756.jpg
+492/655/1920/1.2
+./data/subway/MA02138/photo_merged/019_016_42.429567_-71.050273_137.742440743.jpg
+961/1102/1920/1.4
+./data/subway/MA02138/photo_merged/019_017_42.429576_-71.050179_160.975291717.jpg
+751/910/1920/1.3
+./data/subway/MA02138/photo_merged/019_018_42.429593_-71.049989_212.06984454.jpg
+372/515/1920/1.5
+./data/subway/MA02138/photo_merged/019_019_42.429601_-71.049895_226.341394873.jpg
+977/1148/1920/1.2
+=== play with the 20th landmark ===
+get 7 detected photo
+./data/subway/MA02138/photo_merged/020_000_42.364516_-71.061990_50.756661.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_001_42.364381_-71.061832_-6.61077591452.jpg
+848/986/1920/1.2
+./data/subway/MA02138/photo_merged/020_002_42.364449_-71.061911_12.8705819403.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_003_42.364584_-71.062068_88.5219348643.jpg
+1552/1684/1920/1.2
+./data/subway/MA02138/photo_merged/020_004_42.364651_-71.062147_107.844679939.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_005_42.364625_-71.062117_102.006041.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_006_42.364528_-71.062004_58.5460694865.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_007_42.364577_-71.062060_85.4990726846.jpg
+1644/1775/1920/1.2
+./data/subway/MA02138/photo_merged/020_008_42.364674_-71.062173_111.694149547.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_009_42.364909_-71.062159_147.578941284.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_010_42.364310_-71.061749_50.744482.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_011_42.364172_-71.061595_-28.1097685936.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_012_42.364241_-71.061672_-18.6427853555.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_013_42.364377_-71.061828_120.579234328.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_014_42.364445_-71.061907_130.232594722.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_015_42.364582_-71.062067_135.396641.jpg
+48/180/1920/1.3
+./data/subway/MA02138/photo_merged/020_016_42.364554_-71.062033_134.791113799.jpg
+ empty
+./data/subway/MA02138/photo_merged/020_017_42.364568_-71.062050_135.105395238.jpg
+57/184/1920/1.4
+./data/subway/MA02138/photo_merged/020_018_42.364596_-71.062083_135.64839892.jpg
+43/173/1920/1.3
+./data/subway/MA02138/photo_merged/020_019_42.364611_-71.062100_135.885236184.jpg
+29/159/1920/1.3
+=== play with the 21th landmark ===
+get 4 detected photo
+./data/subway/MA02138/photo_merged/021_000_42.357802_-71.057998_117.796985.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_001_42.357632_-71.058112_55.2242575378.jpg
+1728/1860/1920/1.3
+./data/subway/MA02138/photo_merged/021_002_42.357717_-71.058055_73.9673112725.jpg
+1508/1634/1920/1.7
+./data/subway/MA02138/photo_merged/021_003_42.357887_-71.057941_162.093076682.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_004_42.357984_-71.057875_182.327320471.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_005_42.357800_-71.057999_116.745172.jpg
+1437/1583/1920/1.2
+./data/subway/MA02138/photo_merged/021_006_42.357630_-71.058113_54.9045188082.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_007_42.357715_-71.058056_73.2623187519.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_008_42.357885_-71.057942_161.483479714.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_009_42.357984_-71.057875_182.327320471.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_010_42.357754_-71.058030_-62.189543.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_011_42.357923_-71.057916_243.958291842.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_012_42.357839_-71.057973_263.298430866.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_013_42.357661_-71.058093_-25.202976085.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_014_42.357584_-71.058143_-8.40789916936.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_015_42.357800_-71.057999_-82.736287.jpg
+1700/1902/1920/1.2
+./data/subway/MA02138/photo_merged/021_016_42.357966_-71.057887_238.039166328.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_017_42.357883_-71.057943_251.485406786.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_018_42.357717_-71.058055_-45.6047495257.jpg
+ empty
+./data/subway/MA02138/photo_merged/021_019_42.357642_-71.058008_-37.6607150719.jpg
+ empty
+=== play with the 22th landmark ===
+get 3 detected photo
+./data/subway/MA02138/photo_merged/022_000_42.297328_-71.060573_162.722959.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_001_42.297278_-71.060768_116.812622935.jpg
+1224/1464/1920/1.2
+./data/subway/MA02138/photo_merged/022_002_42.297303_-71.060671_135.519627826.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_003_42.297353_-71.060475_189.732451301.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_004_42.297377_-71.060377_208.347929412.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_005_42.297347_-71.060497_184.185272.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_006_42.297304_-71.060669_136.037023628.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_007_42.297325_-71.060584_159.470736247.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_008_42.297369_-71.060411_203.010461446.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_009_42.297390_-71.060324_215.196300452.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_010_42.297276_-71.060777_161.843914.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_011_42.297224_-71.060972_109.001018845.jpg
+689/853/1920/1.2
+./data/subway/MA02138/photo_merged/022_012_42.297250_-71.060875_128.356279721.jpg
+871/1088/1920/1.2
+./data/subway/MA02138/photo_merged/022_013_42.297301_-71.060679_195.197615822.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_014_42.297326_-71.060581_214.861472744.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_015_42.297347_-71.060497_224.292192.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_016_42.297329_-71.060569_216.627383219.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_017_42.297338_-71.060533_220.88597045.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_018_42.297356_-71.060461_227.134939427.jpg
+ empty
+./data/subway/MA02138/photo_merged/022_019_42.297365_-71.060425_229.477527456.jpg
+ empty
+=== play with the 23th landmark ===
+get 10 detected photo
+./data/subway/MA02138/photo_merged/023_000_42.341683_-71.083433_223.935461.jpg
+1051/1477/1920/1.2
+./data/subway/MA02138/photo_merged/023_001_42.341800_-71.083605_178.67144074.jpg
+551/678/1920/1.2
+./data/subway/MA02138/photo_merged/023_002_42.341741_-71.083519_197.217305052.jpg
+894/1222/1920/1.3
+./data/subway/MA02138/photo_merged/023_003_42.341625_-71.083347_250.634342883.jpg
+1496/1702/1920/1.2
+./data/subway/MA02138/photo_merged/023_004_42.341567_-71.083261_269.052463275.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_005_42.341595_-71.083301_261.383108.jpg
+1153/1359/1920/1.2
+./data/subway/MA02138/photo_merged/023_006_42.341765_-71.083365_219.977063257.jpg
+898/1181/1920/1.3
+./data/subway/MA02138/photo_merged/023_007_42.341713_-71.083291_236.117027097.jpg
+1305/1563/1920/1.4
+./data/subway/MA02138/photo_merged/023_008_42.341544_-71.083227_-85.806807697.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_009_42.341493_-71.083152_-77.465624631.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_010_42.341860_-71.083694_223.924361.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_011_42.341976_-71.083866_177.642580038.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_012_42.341918_-71.083780_196.37892753.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_013_42.341802_-71.083608_251.451841251.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_014_42.341744_-71.083522_-89.9831845833.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_015_42.341595_-71.083301_-69.034150.jpg
+202/416/1920/1.2
+./data/subway/MA02138/photo_merged/023_016_42.341723_-71.083305_-86.4249651711.jpg
+119/357/1920/1.2
+./data/subway/MA02138/photo_merged/023_017_42.341692_-71.083260_-82.553827964.jpg
+16/223/1920/1.2
+./data/subway/MA02138/photo_merged/023_018_42.341565_-71.083258_-66.9446251438.jpg
+ empty
+./data/subway/MA02138/photo_merged/023_019_42.341536_-71.083214_-65.2007710122.jpg
+ empty
+=== play with the 24th landmark ===
+get 3 detected photo
+./data/subway/MA02138/photo_merged/024_000_42.336321_-71.090685_10.294959.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_001_42.336278_-71.090530_-11.9843549334.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_002_42.336305_-71.090586_-5.05645637213.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_003_42.336329_-71.090785_25.5754294456.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_004_42.336337_-71.090885_38.6563934804.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_005_42.336637_-71.091152_98.798817.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_006_42.336440_-71.091187_71.8603748447.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_007_42.336538_-71.091170_84.5021220885.jpg
+1031/1186/1920/1.2
+./data/subway/MA02138/photo_merged/024_008_42.336744_-71.091131_114.213558173.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_009_42.336834_-71.091120_125.590475604.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_010_42.336315_-71.090633_14.371184.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_011_42.336269_-71.090528_3.80125037765.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_012_42.336288_-71.090538_4.81745805122.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_013_42.336325_-71.090732_23.8664719849.jpg
+1182/1319/1920/1.2
+./data/subway/MA02138/photo_merged/024_014_42.336333_-71.090831_32.5290004201.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_015_42.336637_-71.091152_79.608562.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_016_42.336447_-71.091186_61.5979969557.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_017_42.336542_-71.091169_69.8044177423.jpg
+1481/1655/1920/1.2
+./data/subway/MA02138/photo_merged/024_018_42.336744_-71.091131_92.0959958458.jpg
+ empty
+./data/subway/MA02138/photo_merged/024_019_42.336829_-71.091121_102.655981598.jpg
+ empty
+=== play with the 25th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/025_000_42.337254_-71.084457_55.318797.jpg
+400/1066/1920/1.2
+./data/subway/MA02138/photo_merged/025_001_42.337104_-71.084358_-0.957301750005.jpg
+1398/1545/1920/1.5
+./data/subway/MA02138/photo_merged/025_002_42.337180_-71.084384_6.73288004755.jpg
+751/945/1920/1.2
+./data/subway/MA02138/photo_merged/025_003_42.337328_-71.084530_103.462173823.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_004_42.337401_-71.084603_121.169093019.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_005_42.337177_-71.084230_-37.988574.jpg
+1377/1675/1920/1.2
+./data/subway/MA02138/photo_merged/025_006_42.337282_-71.084052_-83.6307647575.jpg
+487/636/1920/1.2
+./data/subway/MA02138/photo_merged/025_007_42.337229_-71.084141_-65.3297860463.jpg
+707/964/1920/1.2
+./data/subway/MA02138/photo_merged/025_008_42.337122_-71.084326_-8.56136008259.jpg
+1160/1385/1920/1.2
+./data/subway/MA02138/photo_merged/025_009_42.337076_-71.084410_8.98267557941.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_010_42.337075_-71.084410_-35.532810.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_011_42.337176_-71.084231_252.79752499.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_012_42.337122_-71.084326_-89.6079557719.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_013_42.337025_-71.084500_20.4827885569.jpg
+961/1130/1920/1.2
+./data/subway/MA02138/photo_merged/025_014_42.336976_-71.084590_35.9495735068.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_015_42.337177_-71.084230_252.736053.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_016_42.337230_-71.084140_246.281566864.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_017_42.337203_-71.084185_248.875303162.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_018_42.337080_-71.084222_-75.5799931582.jpg
+ empty
+./data/subway/MA02138/photo_merged/025_019_42.336996_-71.084232_-51.8703037192.jpg
+ empty
+=== play with the 26th landmark ===
+get 3 detected photo
+./data/subway/MA02138/photo_merged/026_000_42.292032_-71.071755_88.099833.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_001_42.291833_-71.071737_42.3683585396.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_002_42.291932_-71.071747_61.1701386061.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_003_42.292132_-71.071763_115.091100895.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_004_42.292232_-71.071771_133.594379523.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_005_42.292043_-71.071756_91.336176.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_006_42.291844_-71.071738_44.1107263996.jpg
+461/713/1920/1.4
+./data/subway/MA02138/photo_merged/026_007_42.291944_-71.071748_63.8594446459.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_008_42.292143_-71.071764_117.563502862.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_009_42.292242_-71.071772_135.061571358.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_010_42.291964_-71.071750_87.339592.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_011_42.291765_-71.071730_-1.93323700711.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_012_42.291864_-71.071740_-1.12385731975.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_013_42.292064_-71.071758_176.335291826.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_014_42.292164_-71.071766_177.201312974.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_015_42.292043_-71.071756_175.851439.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_016_42.291941_-71.071915_81.2017878005.jpg
+948/1123/1920/2
+./data/subway/MA02138/photo_merged/026_017_42.291965_-71.071823_92.0968886311.jpg
+1048/1302/1920/1.9
+./data/subway/MA02138/photo_merged/026_018_42.292046_-71.071756_175.957047143.jpg
+ empty
+./data/subway/MA02138/photo_merged/026_019_42.292049_-71.071757_176.005376574.jpg
+ empty
+=== play with the 27th landmark ===
+get 5 detected photo
+./data/subway/MA02138/photo_merged/027_000_42.331939_-71.194438_-74.787687.jpg
+100/492/1920/1.7
+./data/subway/MA02138/photo_merged/027_001_42.332125_-71.194357_245.338353236.jpg
+823/1029/1920/1.3
+./data/subway/MA02138/photo_merged/027_002_42.332033_-71.194401_261.59657044.jpg
+303/507/1920/1.3
+./data/subway/MA02138/photo_merged/027_003_42.331843_-71.194470_-50.5169975923.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_004_42.331748_-71.194501_-32.7382063923.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_005_42.331944_-71.194436_-76.027990.jpg
+566/859/1920/1.7
+./data/subway/MA02138/photo_merged/027_006_42.332130_-71.194355_244.640949312.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_007_42.332037_-71.194398_260.583419647.jpg
+338/541/1920/1.3
+./data/subway/MA02138/photo_merged/027_008_42.331848_-71.194468_-51.6355211781.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_009_42.331753_-71.194500_-33.4517015531.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_010_42.331936_-71.194439_105.183821.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_011_42.331745_-71.194502_24.5782357044.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_012_42.331840_-71.194471_33.4469051876.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_013_42.332030_-71.194402_179.476439972.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_014_42.332122_-71.194358_189.867441334.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_015_42.331944_-71.194436_119.776783.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_016_42.331763_-71.194496_25.5365276442.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_017_42.331854_-71.194466_36.1245646937.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_018_42.332034_-71.194400_180.27629715.jpg
+ empty
+./data/subway/MA02138/photo_merged/027_019_42.332123_-71.194358_189.957359764.jpg
+ empty
+=== play with the 28th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/028_000_42.368915_-71.219853_137.572567.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_001_42.368910_-71.219937_124.188067808.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_002_42.368900_-71.219901_126.155914876.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_003_42.368991_-71.219805_159.734308702.jpg
+1329/1557/1920/1.2
+./data/subway/MA02138/photo_merged/028_004_42.369034_-71.219717_178.473249024.jpg
+726/960/1920/1.2
+./data/subway/MA02138/photo_merged/028_005_42.369273_-71.220071_151.461113.jpg
+1195/1352/1920/1.3
+./data/subway/MA02138/photo_merged/028_006_42.369207_-71.220224_138.052434372.jpg
+1416/1558/1920/1.2
+./data/subway/MA02138/photo_merged/028_007_42.369191_-71.220184_139.173849351.jpg
+1595/1734/1920/1.4
+./data/subway/MA02138/photo_merged/028_008_42.369288_-71.220008_156.571760948.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_009_42.369403_-71.219871_169.70379064.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_010_42.369171_-71.219721_210.434490.jpg
+1396/1562/1920/1.2
+./data/subway/MA02138/photo_merged/028_011_42.369249_-71.219911_124.911429094.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_012_42.369210_-71.219816_129.538588149.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_013_42.369132_-71.219626_-68.8471123415.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_014_42.369094_-71.219531_-64.3097883434.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_015_42.369273_-71.220071_115.524952.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_016_42.369108_-71.220194_82.9584375661.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_017_42.369175_-71.220143_94.2078114394.jpg
+ empty
+./data/subway/MA02138/photo_merged/028_018_42.369355_-71.220009_134.850380814.jpg
+1730/1878/1920/1.4
+./data/subway/MA02138/photo_merged/028_019_42.369449_-71.219988_148.038808156.jpg
+1312/1447/1920/1.4
+=== play with the 29th landmark ===
+get 2 detected photo
+./data/subway/MA02138/photo_merged/029_000_42.356912_-71.053668_57.569423.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_001_42.356778_-71.053592_11.5896032012.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_002_42.356835_-71.053599_17.6710994754.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_003_42.356988_-71.053738_97.1049056099.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_004_42.357065_-71.053807_116.336456209.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_005_42.356873_-71.053411_-42.918390.jpg
+125/291/1920/1.2
+./data/subway/MA02138/photo_merged/029_006_42.356974_-71.053227_-88.494400527.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_007_42.356922_-71.053319_-71.3498748119.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_008_42.356824_-71.053503_-10.1231208198.jpg
+791/1486/1920/1.5
+./data/subway/MA02138/photo_merged/029_009_42.356777_-71.053593_11.9040740517.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_010_42.356842_-71.053468_145.367913.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_011_42.356749_-71.053651_77.3903103999.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_012_42.356793_-71.053560_92.0403516185.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_013_42.356891_-71.053378_198.530566698.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_014_42.356963_-71.053288_210.956504267.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_015_42.356873_-71.053411_185.521203.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_016_42.356879_-71.053638_119.44278326.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_017_42.356841_-71.053470_143.888175672.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_018_42.356905_-71.053352_205.177873786.jpg
+ empty
+./data/subway/MA02138/photo_merged/029_019_42.356862_-71.053195_248.420759239.jpg
+ empty
+=== play with the 30th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/030_000_42.349317_-71.155701_104.585157.jpg
+122/701/1920/1.7
+./data/subway/MA02138/photo_merged/030_001_42.349108_-71.155768_38.1800020004.jpg
+1101/1306/1920/1.2
+./data/subway/MA02138/photo_merged/030_002_42.349221_-71.155732_58.0643834127.jpg
+1697/1888/1920/1.2
+./data/subway/MA02138/photo_merged/030_003_42.349413_-71.155671_151.144460848.jpg
+1051/1260/1920/1.2
+./data/subway/MA02138/photo_merged/030_004_42.349509_-71.155641_169.301147285.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_005_42.349113_-71.155537_-8.108555.jpg
+790/1092/1920/1.2
+./data/subway/MA02138/photo_merged/030_006_42.349117_-71.155338_-43.4345134154.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_007_42.349115_-71.155438_-28.5980644935.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_008_42.349111_-71.155636_14.4066716128.jpg
+1414/1666/1920/1.2
+./data/subway/MA02138/photo_merged/030_009_42.349109_-71.155736_33.3332755185.jpg
+1260/1462/1920/1.2
+./data/subway/MA02138/photo_merged/030_010_42.349111_-71.155617_-0.121197.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_011_42.349115_-71.155417_-88.9725985942.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_012_42.349113_-71.155517_-87.9290052782.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_013_42.349109_-71.155717_87.9004272708.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_014_42.349108_-71.155817_88.9425712422.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_015_42.355204_-71.059475_266.538831.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_016_42.355318_-71.059352_266.454056032.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_017_42.355265_-71.059412_266.493607508.jpg
+507/907/1920/1.2
+./data/subway/MA02138/photo_merged/030_018_42.355143_-71.059538_266.584119635.jpg
+ empty
+./data/subway/MA02138/photo_merged/030_019_42.355083_-71.059601_266.629478722.jpg
+ empty
+=== play with the 31th landmark ===
+get 2 detected photo
+./data/subway/MA02138/photo_merged/031_000_42.346577_-71.088760_-18.304016.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_001_42.346630_-71.088565_-61.3011501551.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_002_42.346603_-71.088663_-43.1893640331.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_003_42.346552_-71.088858_6.73408825773.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_004_42.346526_-71.088955_24.7531863426.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_005_42.347371_-71.087652_235.388579.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_006_42.347559_-71.087764_225.298361226.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_007_42.347419_-71.087838_228.56472623.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_008_42.347288_-71.087595_240.323295033.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_009_42.347290_-71.087588_240.355899186.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_010_42.346940_-71.089042_160.953437.jpg
+818/952/1920/1.6
+./data/subway/MA02138/photo_merged/031_011_42.346881_-71.089255_77.5253740589.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_012_42.346913_-71.089139_85.1174060433.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_013_42.346967_-71.088944_237.156948527.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_014_42.346994_-71.088847_243.981101846.jpg
+407/550/1920/1.2
+./data/subway/MA02138/photo_merged/031_015_42.346961_-71.088964_233.799511.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_016_42.346952_-71.088997_222.877635034.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_017_42.346957_-71.088980_229.704743801.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_018_42.346966_-71.088948_236.651371261.jpg
+ empty
+./data/subway/MA02138/photo_merged/031_019_42.346970_-71.088932_238.627004565.jpg
+ empty
+=== play with the 32th landmark ===
+get 10 detected photo
+./data/subway/MA02138/photo_merged/032_000_42.374585_-71.039069_94.088638.jpg
+275/398/1920/1.5
+./data/subway/MA02138/photo_merged/032_001_42.374386_-71.039080_47.1855992069.jpg
+585/808/1920/1.2
+./data/subway/MA02138/photo_merged/032_002_42.374485_-71.039076_66.1445805778.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_003_42.374685_-71.039060_122.339235905.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_004_42.374784_-71.039047_141.939623633.jpg
+605/734/1920/1.7
+./data/subway/MA02138/photo_merged/032_005_42.370199_-71.038918_2.365327.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_006_42.370064_-71.038649_-0.194756652394.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_007_42.370173_-71.038906_2.24076103752.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_008_42.370192_-71.039027_3.41645693428.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_009_42.370226_-71.039103_4.17408222079.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_010_42.374568_-71.039070_94.104725.jpg
+273/400/1920/1.5
+./data/subway/MA02138/photo_merged/032_011_42.374369_-71.039080_25.8210194106.jpg
+1261/1490/1920/1.2
+./data/subway/MA02138/photo_merged/032_012_42.374468_-71.039077_43.4937577462.jpg
+700/934/1920/1.3
+./data/subway/MA02138/photo_merged/032_013_42.374668_-71.039062_145.137207619.jpg
+430/572/1920/1.5
+./data/subway/MA02138/photo_merged/032_014_42.374767_-71.039049_163.385271897.jpg
+509/675/1920/1.5
+./data/subway/MA02138/photo_merged/032_015_42.374730_-71.038565_241.902249.jpg
+1668/1800/1920/1.2
+./data/subway/MA02138/photo_merged/032_016_42.374934_-71.038628_215.023646508.jpg
+384/518/1920/1.6
+./data/subway/MA02138/photo_merged/032_017_42.374784_-71.038651_227.512971734.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_018_42.374676_-71.038479_253.972879487.jpg
+ empty
+./data/subway/MA02138/photo_merged/032_019_42.374622_-71.038393_263.565009962.jpg
+ empty
+=== play with the 33th landmark ===
+get 2 detected photo
+./data/subway/MA02138/photo_merged/033_000_42.361247_-71.158349_-74.859749.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_001_42.361248_-71.158290_-76.2324634181.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_002_42.361247_-71.158319_-75.5787914939.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_003_42.361247_-71.158349_-74.8597485905.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_004_42.361247_-71.158349_-74.8597485905.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_005_42.363189_-71.160717_145.601797.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_006_42.363011_-71.160898_140.072035123.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_007_42.363197_-71.160785_144.710761034.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_008_42.363181_-71.160649_146.521786457.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_009_42.363172_-71.160581_147.470061392.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_010_42.361937_-71.159194_136.650928.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_011_42.361870_-71.159339_114.244419284.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_012_42.361880_-71.159274_119.940639859.jpg
+975/1143/1920/1.2
+./data/subway/MA02138/photo_merged/033_013_42.361998_-71.159111_154.398170571.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_014_42.362059_-71.159028_169.270144552.jpg
+1105/1226/1920/1.2
+./data/subway/MA02138/photo_merged/033_015_42.363171_-71.160571_141.103847.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_016_42.362987_-71.160744_134.298746863.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_017_42.363179_-71.160633_140.199741243.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_018_42.363163_-71.160509_142.032360296.jpg
+ empty
+./data/subway/MA02138/photo_merged/033_019_42.363158_-71.160467_142.691853715.jpg
+ empty
+=== play with the 34th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/034_000_42.397330_-71.174803_-58.556755.jpg
+784/917/1920/1.2
+./data/subway/MA02138/photo_merged/034_001_42.397398_-71.174640_268.997961105.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_002_42.397373_-71.174717_-83.4050887832.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_003_42.397245_-71.174839_-26.2450688426.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_004_42.397227_-71.174827_-26.046771755.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_005_42.397535_-71.175355_117.096551.jpg
+1278/1469/1920/1.3
+./data/subway/MA02138/photo_merged/034_006_42.397370_-71.175482_88.9144009247.jpg
+583/741/1920/1.2
+./data/subway/MA02138/photo_merged/034_007_42.397454_-71.175418_101.979637913.jpg
+1525/1687/1920/1.3
+./data/subway/MA02138/photo_merged/034_008_42.397615_-71.175289_132.648138724.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_009_42.397693_-71.175221_147.091348588.jpg
+1514/1765/1920/1.2
+./data/subway/MA02138/photo_merged/034_010_42.397315_-71.174814_-59.403905.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_011_42.397392_-71.174658_253.504174502.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_012_42.397366_-71.174731_257.499147474.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_013_42.397235_-71.174838_-12.6511819052.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_014_42.397223_-71.174821_-17.2532272936.jpg
+606/839/1920/1.2
+./data/subway/MA02138/photo_merged/034_015_42.397535_-71.175355_120.215686.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_016_42.397371_-71.175481_95.4606618429.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_017_42.397454_-71.175418_107.277710873.jpg
+1359/1516/1920/1.4
+./data/subway/MA02138/photo_merged/034_018_42.397614_-71.175289_133.147294488.jpg
+ empty
+./data/subway/MA02138/photo_merged/034_019_42.397693_-71.175222_145.288245584.jpg
+1566/1831/1920/1.2
+=== play with the 35th landmark ===
+get 14 detected photo
+./data/subway/MA02138/photo_merged/035_000_42.402089_-71.043843_11.856710.jpg
+869/1056/1920/1.2
+./data/subway/MA02138/photo_merged/035_001_42.402062_-71.043644_-16.6253491539.jpg
+665/801/1920/1.2
+./data/subway/MA02138/photo_merged/035_002_42.402075_-71.043743_-3.30782224159.jpg
+ empty
+./data/subway/MA02138/photo_merged/035_003_42.402102_-71.043943_27.0486648205.jpg
+1195/1364/1920/1.2
+./data/subway/MA02138/photo_merged/035_004_42.402116_-71.044042_40.3271766157.jpg
+992/1129/1920/1.3
+./data/subway/MA02138/photo_merged/035_005_42.402094_-71.043881_17.745066.jpg
+677/866/1920/1.2
+./data/subway/MA02138/photo_merged/035_006_42.402067_-71.043682_-11.8158417223.jpg
+ empty
+./data/subway/MA02138/photo_merged/035_007_42.402080_-71.043782_2.3775654847.jpg
+1171/1356/1920/1.2
+./data/subway/MA02138/photo_merged/035_008_42.402108_-71.043980_32.3740254062.jpg
+1026/1191/1920/1.2
+./data/subway/MA02138/photo_merged/035_009_42.402121_-71.044080_44.6758454985.jpg
+ empty
+./data/subway/MA02138/photo_merged/035_010_42.402092_-71.043864_11.838010.jpg
+875/1056/1920/1.2
+./data/subway/MA02138/photo_merged/035_011_42.402065_-71.043665_-41.7223180039.jpg
+427/595/1920/1.6
+./data/subway/MA02138/photo_merged/035_012_42.402078_-71.043764_-22.2829805156.jpg
+ empty
+./data/subway/MA02138/photo_merged/035_013_42.402105_-71.043964_45.8355401563.jpg
+597/761/1920/1.2
+./data/subway/MA02138/photo_merged/035_014_42.402119_-71.044063_65.2591257761.jpg
+ empty
+./data/subway/MA02138/photo_merged/035_015_42.402094_-71.043881_18.255519.jpg
+660/845/1920/1.2
+./data/subway/MA02138/photo_merged/035_016_42.402067_-71.043682_-39.191221844.jpg
+328/528/1920/1.2
+./data/subway/MA02138/photo_merged/035_017_42.402080_-71.043782_-17.4375897941.jpg
+0/244/1920/1.2
+./data/subway/MA02138/photo_merged/035_018_42.402108_-71.043980_50.0692399156.jpg
+461/627/1920/1.2
+./data/subway/MA02138/photo_merged/035_019_42.402121_-71.044080_67.4367787745.jpg
+ empty
+=== play with the 36th landmark ===
+get 10 detected photo
+./data/subway/MA02138/photo_merged/036_000_42.415964_-71.154451_16.589409.jpg
+481/636/1920/1.2
+./data/subway/MA02138/photo_merged/036_001_42.415922_-71.154252_-27.9105929105.jpg
+1249/1392/1920/1.2
+./data/subway/MA02138/photo_merged/036_002_42.415944_-71.154352_-9.7789631792.jpg
+671/818/1920/1.2
+./data/subway/MA02138/photo_merged/036_003_42.415984_-71.154550_42.8926511284.jpg
+700/847/1920/1.2
+./data/subway/MA02138/photo_merged/036_004_42.416001_-71.154649_60.7750101593.jpg
+6/145/1920/1.2
+./data/subway/MA02138/photo_merged/036_005_42.415969_-71.154476_23.546256.jpg
+268/420/1920/1.2
+./data/subway/MA02138/photo_merged/036_006_42.415927_-71.154275_-24.582013068.jpg
+1145/1292/1920/1.2
+./data/subway/MA02138/photo_merged/036_007_42.415949_-71.154377_-3.74455368622.jpg
+1133/1283/1920/1.2
+./data/subway/MA02138/photo_merged/036_008_42.415988_-71.154575_48.3681820764.jpg
+513/660/1920/1.2
+./data/subway/MA02138/photo_merged/036_009_42.416055_-71.154689_76.5661816352.jpg
+673/990/1920/1.2
+./data/subway/MA02138/photo_merged/036_010_42.415928_-71.154279_20.333662.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_011_42.415873_-71.154082_-66.7705208028.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_012_42.415904_-71.154180_-67.9348920648.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_013_42.415949_-71.154378_105.293269322.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_014_42.415969_-71.154477_105.87505217.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_015_42.415969_-71.154476_105.899568.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_016_42.415881_-71.154473_72.3313194495.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_017_42.415887_-71.154495_76.2756966787.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_018_42.415970_-71.154483_105.903487213.jpg
+ empty
+./data/subway/MA02138/photo_merged/036_019_42.416202_-71.154638_136.969705037.jpg
+ empty
+=== play with the 37th landmark ===
+get 2 detected photo
+./data/subway/MA02138/photo_merged/037_000_42.358327_-71.185322_-14.795893.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_001_42.358369_-71.185125_-52.2887075656.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_002_42.358348_-71.185223_-35.8133019692.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_003_42.358306_-71.185420_6.18155759801.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_004_42.358288_-71.185519_23.0543620742.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_005_42.358615_-71.184987_253.610257.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_006_42.358800_-71.185059_223.012397633.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_007_42.358709_-71.185024_236.717995625.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_008_42.358521_-71.184951_-89.1684565185.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_009_42.358415_-71.184911_-72.7832975628.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_010_42.358734_-71.185033_255.658217.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_011_42.358923_-71.185105_218.519221121.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_012_42.358829_-71.185069_234.959457654.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_013_42.358640_-71.184997_-83.4540439683.jpg
+1606/1752/1920/1.2
+./data/subway/MA02138/photo_merged/037_014_42.358545_-71.184961_-67.083415589.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_015_42.358615_-71.184987_-78.685175.jpg
+1506/1644/1920/1.2
+./data/subway/MA02138/photo_merged/037_016_42.358800_-71.185059_240.854786724.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_017_42.358702_-71.185021_263.12126908.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_018_42.358528_-71.184954_-64.693685542.jpg
+ empty
+./data/subway/MA02138/photo_merged/037_019_42.358393_-71.185016_-42.5152353311.jpg
+ empty
+=== play with the 38th landmark ===
+get 5 detected photo
+./data/subway/MA02138/photo_merged/038_000_42.353916_-71.058354_43.377174.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_001_42.353802_-71.058180_-7.78099101956.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_002_42.353859_-71.058267_11.5788778735.jpg
+54/284/1920/1.2
+./data/subway/MA02138/photo_merged/038_003_42.353974_-71.058440_74.9801374494.jpg
+219/574/1920/1.9
+./data/subway/MA02138/photo_merged/038_004_42.354031_-71.058526_94.2571984235.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_005_42.353964_-71.058426_70.544053.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_006_42.353856_-71.058262_10.0879328786.jpg
+101/306/1920/1.2
+./data/subway/MA02138/photo_merged/038_007_42.353910_-71.058344_39.3706405087.jpg
+37/213/1920/1.2
+./data/subway/MA02138/photo_merged/038_008_42.354019_-71.058508_90.972660374.jpg
+755/900/1920/1.2
+./data/subway/MA02138/photo_merged/038_009_42.354178_-71.058537_125.995268373.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_010_42.353943_-71.058394_223.344246.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_011_42.354058_-71.058567_134.659428508.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_012_42.354000_-71.058480_136.083624493.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_013_42.353886_-71.058307_-49.776639563.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_014_42.353828_-71.058221_-48.2875762168.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_015_42.353964_-71.058426_141.158379.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_016_42.353966_-71.058428_140.674856776.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_017_42.353965_-71.058427_140.859613384.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_018_42.353964_-71.058425_141.38554437.jpg
+ empty
+./data/subway/MA02138/photo_merged/038_019_42.353963_-71.058424_141.612856833.jpg
+ empty
+=== play with the 39th landmark ===
+get 13 detected photo
+./data/subway/MA02138/photo_merged/039_000_42.355440_-71.063060_128.434192.jpg
+858/1059/1920/1.5
+./data/subway/MA02138/photo_merged/039_001_42.355295_-71.063207_90.0149105181.jpg
+1598/1776/1920/1.2
+./data/subway/MA02138/photo_merged/039_002_42.355368_-71.063133_106.940212917.jpg
+1549/1741/1920/1.2
+./data/subway/MA02138/photo_merged/039_003_42.355512_-71.062986_150.07831592.jpg
+1549/1693/1920/1.2
+./data/subway/MA02138/photo_merged/039_004_42.355583_-71.062912_166.916254665.jpg
+ empty
+./data/subway/MA02138/photo_merged/039_005_42.355438_-71.063062_127.881121.jpg
+866/1063/1920/1.7
+./data/subway/MA02138/photo_merged/039_006_42.355293_-71.063209_89.5734479807.jpg
+1620/1799/1920/1.3
+./data/subway/MA02138/photo_merged/039_007_42.355366_-71.063136_106.391493706.jpg
+1568/1760/1920/1.2
+./data/subway/MA02138/photo_merged/039_008_42.355510_-71.062988_149.564677517.jpg
+1566/1707/1920/1.2
+./data/subway/MA02138/photo_merged/039_009_42.355582_-71.062914_166.575984596.jpg
+ empty
+./data/subway/MA02138/photo_merged/039_010_42.355448_-71.063052_128.452505.jpg
+845/1049/1920/1.6
+./data/subway/MA02138/photo_merged/039_011_42.355303_-71.063199_51.7444231042.jpg
+ empty
+./data/subway/MA02138/photo_merged/039_012_42.355376_-71.063125_63.851359313.jpg
+1570/1713/1920/1.2
+./data/subway/MA02138/photo_merged/039_013_42.355519_-71.062978_193.539597407.jpg
+155/296/1920/1.2
+./data/subway/MA02138/photo_merged/039_014_42.355591_-71.062904_205.522578524.jpg
+ empty
+./data/subway/MA02138/photo_merged/039_015_42.355438_-71.063062_112.440471.jpg
+1362/1556/1920/1.2
+./data/subway/MA02138/photo_merged/039_016_42.355291_-71.063211_50.5844431753.jpg
+ empty
+./data/subway/MA02138/photo_merged/039_017_42.355365_-71.063136_60.9826729122.jpg
+ empty
+./data/subway/MA02138/photo_merged/039_018_42.355510_-71.062987_190.252731121.jpg
+261/398/1920/1.2
+./data/subway/MA02138/photo_merged/039_019_42.355582_-71.062913_204.653871046.jpg
+ empty
+=== play with the 40th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/040_000_42.342444_-71.056481_221.336751.jpg
+1101/1453/1920/1.3
+./data/subway/MA02138/photo_merged/040_001_42.342553_-71.056657_176.813000845.jpg
+616/762/1920/1.2
+./data/subway/MA02138/photo_merged/040_002_42.342499_-71.056569_195.175669239.jpg
+673/912/1920/1.2
+./data/subway/MA02138/photo_merged/040_003_42.342390_-71.056393_247.351838086.jpg
+1173/1420/1920/1.2
+./data/subway/MA02138/photo_merged/040_004_42.342334_-71.056305_265.932705254.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_005_42.342425_-71.056449_231.203699.jpg
+784/1134/1920/1.4
+./data/subway/MA02138/photo_merged/040_006_42.342534_-71.056627_182.184650915.jpg
+436/594/1920/1.2
+./data/subway/MA02138/photo_merged/040_007_42.342480_-71.056538_203.640326449.jpg
+398/642/1920/1.2
+./data/subway/MA02138/photo_merged/040_008_42.342369_-71.056360_255.182016156.jpg
+930/1168/1920/1.2
+./data/subway/MA02138/photo_merged/040_009_42.342313_-71.056272_-89.0664287336.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_010_42.342578_-71.056697_103.153403.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_011_42.342514_-71.056594_-46.4221008768.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_012_42.342546_-71.056646_-43.5399948755.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_013_42.342610_-71.056749_127.544232422.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_014_42.342642_-71.056801_129.376488291.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_015_42.349749_-71.067060_134.375285.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_016_42.349541_-71.067147_133.298834676.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_017_42.349729_-71.067040_134.350778947.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_018_42.349771_-71.067082_134.404507575.jpg
+ empty
+./data/subway/MA02138/photo_merged/040_019_42.349794_-71.067104_134.433730869.jpg
+ empty
+=== play with the 41th landmark ===
+get 0 detected photo
+./data/subway/MA02138/photo_merged/041_000_42.388524_-71.119031_213.915019.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_001_42.388636_-71.119197_173.149875582.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_002_42.388579_-71.119115_188.643841542.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_003_42.388480_-71.118938_240.812856971.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_004_42.388424_-71.118849_262.128062619.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_005_42.388602_-71.118979_211.821424.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_006_42.388705_-71.119151_181.026533737.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_007_42.388658_-71.119060_194.962117086.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_008_42.388535_-71.118942_227.545289459.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_009_42.388446_-71.118878_255.406209362.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_010_42.388539_-71.119428_78.902461.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_011_42.388346_-71.119370_5.41874835351.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_012_42.388451_-71.119401_21.5439224493.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_013_42.388644_-71.119459_140.442864254.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_014_42.388728_-71.119496_150.076314897.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_015_42.389030_-71.119659_155.935586.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_016_42.388969_-71.119779_144.162795863.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_017_42.388978_-71.119784_144.425695639.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_018_42.389073_-71.119570_164.134499812.jpg
+ empty
+./data/subway/MA02138/photo_merged/041_019_42.389117_-71.119481_171.757563938.jpg
+ empty
+=== play with the 42th landmark ===
+get 3 detected photo
+./data/subway/MA02138/photo_merged/042_000_42.366379_-71.181744_153.412760.jpg
+1638/1773/1920/1.2
+./data/subway/MA02138/photo_merged/042_001_42.366307_-71.181935_121.291288651.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_002_42.366342_-71.181839_135.84227479.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_003_42.366417_-71.181649_171.090653803.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_004_42.366458_-71.181556_185.562069144.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_005_42.366379_-71.181744_153.412760.jpg
+1638/1773/1920/1.2
+./data/subway/MA02138/photo_merged/042_006_42.366307_-71.181935_121.291288651.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_007_42.366342_-71.181839_135.84227479.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_008_42.366417_-71.181649_171.090653803.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_009_42.366458_-71.181556_185.562069144.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_010_42.366356_-71.181801_167.833468.jpg
+1168/1298/1920/1.2
+./data/subway/MA02138/photo_merged/042_011_42.366290_-71.181980_71.1980240426.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_012_42.366323_-71.181891_77.7716973503.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_013_42.366391_-71.181713_231.902412836.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_014_42.366426_-71.181628_236.86922188.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_015_42.366379_-71.181744_226.458863.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_016_42.366459_-71.181959_135.856025717.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_017_42.366402_-71.181872_139.228295515.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_018_42.366384_-71.181731_229.276224239.jpg
+ empty
+./data/subway/MA02138/photo_merged/042_019_42.366389_-71.181718_231.346179606.jpg
+ empty
+=== play with the 43th landmark ===
+get 8 detected photo
+./data/subway/MA02138/photo_merged/043_000_42.323207_-71.103544_-3.734724.jpg
+486/659/1920/1.3
+./data/subway/MA02138/photo_merged/043_001_42.323209_-71.103344_-38.6186136062.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_002_42.323208_-71.103444_-23.469647525.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_003_42.323189_-71.103591_5.85556610444.jpg
+44/207/1920/1.4
+./data/subway/MA02138/photo_merged/043_004_42.323174_-71.103596_6.55494823162.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_005_42.322953_-71.103578_2.382517.jpg
+380/575/1920/1.3
+./data/subway/MA02138/photo_merged/043_006_42.322898_-71.103369_-14.8138819562.jpg
+721/918/1920/1.4
+./data/subway/MA02138/photo_merged/043_007_42.322888_-71.103466_-6.90495673821.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_008_42.322963_-71.103579_2.52057097486.jpg
+358/553/1920/1.3
+./data/subway/MA02138/photo_merged/043_009_42.322856_-71.103757_15.7011228094.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_010_42.323082_-71.103369_91.416569.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_011_42.322897_-71.103377_5.09474251673.jpg
+80/270/1920/1.3
+./data/subway/MA02138/photo_merged/043_012_42.323018_-71.103394_22.2109510176.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_013_42.323182_-71.103369_177.807302296.jpg
+314/469/1920/1.7
+./data/subway/MA02138/photo_merged/043_014_42.323209_-71.103370_178.494927601.jpg
+292/445/1920/1.7
+./data/subway/MA02138/photo_merged/043_015_42.322953_-71.103578_52.671135.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_016_42.322887_-71.103475_24.8708644941.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_017_42.322882_-71.103519_31.7600050975.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_018_42.323034_-71.103586_75.5248093953.jpg
+ empty
+./data/subway/MA02138/photo_merged/043_019_42.323116_-71.103592_102.617207004.jpg
+ empty
+=== play with the 44th landmark ===
+get 3 detected photo
+./data/subway/MA02138/photo_merged/044_000_42.350777_-71.089736_163.525123.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_001_42.350726_-71.089930_100.916437858.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_002_42.350752_-71.089833_120.525032339.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_003_42.350800_-71.089638_205.783142653.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_004_42.350824_-71.089540_224.772486902.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_005_42.350777_-71.089734_164.281852.jpg
+1666/1798/1920/1.2
+./data/subway/MA02138/photo_merged/044_006_42.350726_-71.089928_101.20923131.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_007_42.350752_-71.089831_121.121153677.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_008_42.350801_-71.089636_206.276161953.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_009_42.350824_-71.089538_224.929610643.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_010_42.350786_-71.089696_-16.477358.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_011_42.350837_-71.089484_-85.0091656068.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_012_42.350810_-71.089598_-66.1842775902.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_013_42.350762_-71.089794_33.0219035003.jpg
+1086/1233/1920/1.2
+./data/subway/MA02138/photo_merged/044_014_42.350736_-71.089891_49.5192589041.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_015_42.350777_-71.089734_8.238100.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_016_42.350817_-71.089566_-73.8516422479.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_017_42.350797_-71.089650_-45.4927128314.jpg
+ empty
+./data/subway/MA02138/photo_merged/044_018_42.350756_-71.089816_38.3319813798.jpg
+921/1058/1920/1.2
+./data/subway/MA02138/photo_merged/044_019_42.350735_-71.089897_50.0721556847.jpg
+ empty

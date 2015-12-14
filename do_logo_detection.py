@@ -27,15 +27,23 @@ BSTRIDE_HEIGHT = 6
 CSIZE_WIDTH = 6
 CSIZE_HEIGHT = 6
 
-zoom_flag = False #*****************************************************************
+query_name = open('./config/query_name.info').readline().rstrip()	# ex. subway
+query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
+
+zoom_flag = True #*****************************************************************
 if (not zoom_flag):
 	CODE_DIR = 'code'
-	RES_DIR = 'res/'
+	# RES_DIR = 'res_%s/' % query_zip
+	RES_DIR = './data/%s/%s/detected_photo/' % (query_name, query_zip)
 	THRESHOLD = 1.15
 else:
 	CODE_DIR = 'code_with_zoom'
-	RES_DIR = 'res_with_zoom/'
+	# RES_DIR = 'res_%s/' % query_zip
+	RES_DIR = './data/%s/%s/detected_photo/' % (query_name, query_zip)
 	THRESHOLD = 1.20
+
+if not os.path.exists(RES_DIR):
+	os.makedirs(RES_DIR)
 
 def get_result(image_path, logo_name, store_img = 1, res_dir_path= RES_DIR):
 	cmd = './%s/detect/detect ' % CODE_DIR + `THRESHOLD` + ' ' + image_path + ' %s/descriptors/' % CODE_DIR + logo_name + '.dat ' + `store_img` + ' ' + res_dir_path + \
@@ -65,14 +73,15 @@ def calibrate_heading(heading):
 # ====== main =====
 if __name__ == '__main__':
 
-	query_name = open('./config/query_name.info').readline().rstrip()	# ex. subway
+	# query_name = open('./config/query_name.info').readline().rstrip()	# ex. subway
+	# query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
 	# query_fov = open('./config/query_fov.info').readline().rstrip()		# ex. 60
 	# query_fov = float(query_fov)
 
-	if (not zoom_flag):
-		query_name_dir = query_name
-	else:
-		query_name_dir = '%s_with_merge' % query_name
+	# if (not zoom_flag):
+	# 	query_name_dir = query_name
+	# else:
+	# 	query_name_dir = '%s_with_merge' % query_name
 
 	# print CODE_DIR
 	# print RES_DIR
@@ -80,15 +89,22 @@ if __name__ == '__main__':
 	# res = get_result('./data/subway_with_merge/photo/000_000_34.011796_-118.282736_89.453796.jpg', 'subway')
 	# print res
 
-	work_dir = './data/%s/' % query_name_dir
+	# work_dir = './data/%s/' % query_name_dir
+	work_dir = './data/%s/%s/' % (query_name, query_zip)
 	# work_dir = './data/%s/' % 'subway_no_zoom'
-	photo_dir = work_dir + 'photo/'
+	photo_dir = work_dir + 'photo_merged/'
 
 	f_meta = open(work_dir + 'do_logo_detection_meta.txt', 'w')
 
+	log_dir = work_dir + 'log/'
+	if not os.path.exists(log_dir):
+		os.makedirs(log_dir)
+
+	f_log = open(log_dir + 'do_logo_detection_log.txt', 'w')
+
 	tstart = datetime.now()
 	print tstart
-	f_meta.write('%s\n' % str(tstart))
+	f_log.write('%s\n' % str(tstart))
 
 	# get landmark_num in total
 	tmp_format = photo_dir + '*.jpg'
@@ -156,5 +172,5 @@ if __name__ == '__main__':
 
 	tend = datetime.now()
 	print tend
-	f_meta.write('%s\n' % str(tend))
+	f_log.write('%s\n' % str(tend))
 

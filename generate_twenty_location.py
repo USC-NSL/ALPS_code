@@ -153,8 +153,9 @@ def generate_five(my_easymark, destination):
 if __name__ == '__main__':
 
 	query_name = open('./config/query_name.info').readline().rstrip()		# ex. subway
+	query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
 	
-	work_dir = './data/%s/' % query_name
+	work_dir = './data/%s/%s/' % (query_name, query_zip)
 	landmark_array_google, landmark_array_foursquare = read_array_from_generate_four_location_meta(work_dir)
 
 	f_meta = open(work_dir + 'generate_twenty_location_meta.txt', 'w')

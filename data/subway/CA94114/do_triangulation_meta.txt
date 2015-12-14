@@ -1,0 +1,150 @@
+=== play with the 0th landmark ===
+get 5 detected photo
+37.7940682566,-122.423394529
+=== play with the 1th landmark ===
+get 7 detected photo
+37.7415571343,-122.38751917
+=== play with the 2th landmark ===
+get 2 detected photo
+Haven' enough photo...
+=== play with the 3th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 4th landmark ===
+get 10 detected photo
+37.7782360888,-122.415764665
+=== play with the 5th landmark ===
+get 4 detected photo
+37.7289729833,-122.404050347
+=== play with the 6th landmark ===
+get 14 detected photo
+37.783465287,-122.432690942
+=== play with the 7th landmark ===
+get 1 detected photo
+Haven' enough photo...
+=== play with the 8th landmark ===
+get 11 detected photo
+37.7792185565,-122.410671056
+=== play with the 9th landmark ===
+get 10 detected photo
+37.7877063175,-122.419947929
+=== play with the 10th landmark ===
+get 8 detected photo
+37.7853518354,-122.408331281
+=== play with the 11th landmark ===
+get 2 detected photo
+Haven' enough photo...
+=== play with the 12th landmark ===
+get 13 detected photo
+37.7804399076,-122.480285254
+=== play with the 13th landmark ===
+get 10 detected photo
+37.7870554375,-122.39886774
+=== play with the 14th landmark ===
+get 4 detected photo
+37.776827178,-122.394829712
+=== play with the 15th landmark ===
+get 5 detected photo
+37.7923598557,-122.400083052
+=== play with the 16th landmark ===
+get 3 detected photo
+Haven' enough photo...
+=== play with the 17th landmark ===
+get 10 detected photo
+37.7943557746,-122.404905669
+=== play with the 18th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 19th landmark ===
+get 2 detected photo
+Haven' enough photo...
+=== play with the 20th landmark ===
+get 12 detected photo
+37.7537347412,-122.490783331
+=== play with the 21th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 22th landmark ===
+get 9 detected photo
+37.8082290758,-122.414005674
+=== play with the 23th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 24th landmark ===
+get 7 detected photo
+37.793275195,-122.402796987
+=== play with the 25th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 26th landmark ===
+get 18 detected photo
+37.7759846803,-122.402928854
+=== play with the 27th landmark ===
+get 12 detected photo
+37.7887106093,-122.412028172
+=== play with the 28th landmark ===
+get 4 detected photo
+37.7839401262,-122.419527929
+=== play with the 29th landmark ===
+get 5 detected photo
+37.779228564,-122.392153784
+=== play with the 30th landmark ===
+get 1 detected photo
+Haven' enough photo...
+=== play with the 31th landmark ===
+get 11 detected photo
+37.7209155288,-122.437612024
+=== play with the 32th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 33th landmark ===
+get 13 detected photo
+37.6826681373,-122.487844943
+=== play with the 34th landmark ===
+get 7 detected photo
+37.7939673047,-122.400956338
+=== play with the 35th landmark ===
+get 3 detected photo
+Haven' enough photo...
+=== play with the 36th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 37th landmark ===
+get 8 detected photo
+37.7814029349,-122.416827015
+=== play with the 38th landmark ===
+get 7 detected photo
+37.7836741579,-122.408825685
+=== play with the 39th landmark ===
+get 11 detected photo
+37.7944521321,-122.396785811
+=== play with the 40th landmark ===
+get 6 detected photo
+37.7849998822,-122.409660729
+=== play with the 41th landmark ===
+get 12 detected photo
+37.779928293,-122.407216572
+=== play with the 42th landmark ===
+get 10 detected photo
+37.7302175547,-122.47625862
+=== play with the 43th landmark ===
+get 3 detected photo
+Haven' enough photo...
+=== play with the 44th landmark ===
+get 10 detected photo
+37.7338584595,-122.489347123
+=== play with the 45th landmark ===
+get 15 detected photo
+37.685042134,-122.464418848
+=== play with the 46th landmark ===
+get 2 detected photo
+Haven' enough photo...
+=== play with the 47th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 48th landmark ===
+get 3 detected photo
+Haven' enough photo...
+=== play with the 49th landmark ===
+get 2 detected photo
+Haven' enough photo...

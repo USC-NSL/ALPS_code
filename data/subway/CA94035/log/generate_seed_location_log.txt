@@ -1,0 +1,195 @@
+=== googleplace_lib/googleplace_geocoding ===
+https://maps.googleapis.com/maps/api/geocode/json?address=CA%2094035&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== googleplace_lib/googleplace_radar ===
+https://maps.googleapis.com/maps/api/place/radarsearch/json?location=37.41752,-122.0525&radius=10000&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY&name=subway
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3899229,-122.0422998&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJkQtw0AG3j4ARIXn997_1d7o&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3817553,-121.9953554&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJqXPxUB62j4AR2JlxNnV6JD8&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3618095,-122.0244035&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ3dwX0HC2j4AROamwlGAzcwg&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3942522,-122.0775728&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ9yMYoza3j4ARUClVxfSrIuo&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3971252,-122.0611128&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJSYlo9j23j4ARedW6GP5Ff-c&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3730905,-122.0879939&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJxW3rsiuxj4ARFv8aondnhRc&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4108723,-121.9459339&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJv-HvlQfJj4ARISVErStyKkY&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3838295,-122.0805931&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJV2XhYCy3j4AR9MaR246Z-OY&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3895351,-121.9838703&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJB9GVDd3Jj4ARh6_hZjxPhU0&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3998796,-122.1101818&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJMV15pZmwj4ARLhxqmN3SfWI&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3664687,-122.013132&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJsb9n7wy2j4ARPzQAGKqrMZw&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3710716,-122.0470472&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ-fSjVfK2j4ARUy2GRJ5vlqI&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3371263,-122.0402655&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ0VWcnTS0j4ARHjdZ79VZotQ&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4103139,-122.0148181&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ_e-aZ8e3j4ARSWoUxqpBuho&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.350153,-121.9627983&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJWRgaYkbKj4ARItmJ-WI0ako&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4335023,-122.1290539&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ7zUGKFa6j4AReJjkOzGQVHg&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3514506,-122.004525&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3375109,-121.9948239&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJPziJaIi1j4ARlVxm_wiKBf8&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4261314,-122.1447284&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJcW8mjeW6j4ARG6xox36yV_c&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4132626,-122.1250955&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJI4VNOmO6j4ARvjzjcCJKE2A&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4162194,-122.0795423&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJVxRE8VW3j4ARMggIiLi-e0A&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3660981,-121.9417889&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJm-C648vLj4ARYy4zPNKAPL0&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3483342,-121.9459462&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJQZvf3qzLj4AR4VM4F5mDSiU&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4140795,-122.0933473&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJhzHBsAe6j4ARnpEsbf9F02c&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4038484,-121.9945348&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJv43cyyq2j4ARFNWQCZlL0QA&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3257954,-121.9433967&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.353129,-121.9773238&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJv28aPxPKj4ARD1vCXSKVS8s&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3863124,-121.9607855&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJh6fcOZDJj4ARzrz0I2U9B10&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3372451,-122.0228252&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJiYkVmbi1j4ARf61KP_9qxdo&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3269781,-122.0137387&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJdwOiUp-1j4ARTBy4TWABMnw&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3811976,-122.0077957&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJPQOajz22j4AR2TTBGfu7-2Q&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3959442,-121.9734801&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJYeuzzcbJj4ARzx_PxCaYruY&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.418745,-122.1090456&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJs2q9C226j4ARohCdKz3cBH8&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3371353,-122.0661741&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ7-sVexm0j4ARX_mUL2sWyIY&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.3666258,-121.9590202&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJWXiVUiXKj4ARUpSce3rTJ5A&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4657318,-122.1567629&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJPauoul67j4AR7MO501brv6I&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4904103,-121.9478219&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJHUHWVqvHj4ARcRRXxfG1NQs&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.332725,-121.9625608&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.4449376,-122.1627897&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJmakMvDm7j4AR4tu1y0_I0QQ&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+=== foursquare_lib/foursquare_venues_search ===
+https://api.foursquare.com/v2/venues/search?ll=37.5042281,-121.9758802&oauth_token=EDGOAYNIA10AOGX0S4BPMEJMKHBOCVRTIFU3TVVVHESNLPJC&v=20150601&radius=50&query=subway
+=== googleplace_lib/googleplace_placedetails ===
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJhftFJ2rHj4ART5UpSVIYGzw&key=AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36

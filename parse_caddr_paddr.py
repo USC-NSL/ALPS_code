@@ -1,5 +1,7 @@
+query_name = open('./config/query_name.info').readline().rstrip()		# ex. subway
+query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
 
-f = open('./data/subway/CA94035/generate_seed_location_meta.txt', 'r')
+f = open('./data/%s/%s/generate_seed_location_meta.txt' % (query_name, query_zip), 'r')
 
 caddr = []
 paddr = []

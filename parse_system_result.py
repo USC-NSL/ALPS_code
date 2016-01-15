@@ -1,8 +1,10 @@
 query_name = open('./config/query_name.info').readline().rstrip()		# ex. subway
-query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
+# query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
 
-# f = open('./data/%s/%s/do_triangulation_meta.txt' % (query_name, query_zip), 'r')
-f = open('./data/%s/%s/do_triangulation_for_logo_detection_ground_truth_meta.txt' % (query_name, query_zip), 'r')
+query_zip = 'MA02138'
+
+f = open('./data/%s/%s/do_triangulation_meta.txt' % (query_name, query_zip), 'r')
+# f = open('./data/%s/%s/do_triangulation_for_logo_detection_ground_truth_meta.txt' % (query_name, query_zip), 'r')
 
 detected_num = []
 system_result = []

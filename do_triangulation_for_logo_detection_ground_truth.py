@@ -128,6 +128,48 @@ if __name__ == '__main__':
 			x.append(xy[0])
 			y.append(xy[1])
 
+		if True:
+			if True:
+				current_landmark_index = 122
+				print "=== play with the %dth landmark ===" % current_landmark_index
+				print "get %d detected photo" % detected_photo_num
+				f_meta.write("=== play with the %dth landmark ===\n" % current_landmark_index)
+				f_meta.write("get %d detected photo\n" % detected_photo_num)
+
+				if (detected_photo_num >= 4):
+					# do triangulation
+					G = []
+
+					for i in range(detected_photo_num):
+						G.append(mysin[i])
+						G.append(-mycos[i])
+
+					G = np.reshape(G, (detected_photo_num, 2))
+
+					h = []
+
+					for i in range(detected_photo_num):
+						h.append(x[i] * mysin[i] - y[i] * mycos[i])
+
+					h = np.reshape(h, (detected_photo_num, 1))
+
+					tmp1 = G.transpose()
+					tmp2 = np.dot(tmp1, G)
+					tmp3 = np.linalg.inv(tmp2)
+					tmp4 = np.dot(tmp3, tmp1)
+					theta = np.dot(tmp4, h)
+
+					# tmp = utm.from_latlon(34.023061, -118.279284)
+					tmp = utm.from_latlon(view_lat, view_lng)
+						
+					tmp2 = utm.to_latlon(theta[0][0], theta[1][0], tmp[2], tmp[3])
+					f_meta.write('%s,%s\n' % (str(tmp2[0]), str(tmp2[1])))
+					print '%s,%s' % (str(tmp2[0]), str(tmp2[1]))
+				else:
+					# not enough photo
+					f_meta.write('Haven\' enough photo...\n')
+					print 'Haven\' enough photo...'
+
 
 
 

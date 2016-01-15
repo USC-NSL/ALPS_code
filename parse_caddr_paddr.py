@@ -1,5 +1,6 @@
 query_name = open('./config/query_name.info').readline().rstrip()		# ex. subway
 query_zip = open('./config/query_zip.info').readline().rstrip()			# ex. CA 90007
+# query_zip = 'MA02138'
 
 f = open('./data/%s/%s/generate_seed_location_meta.txt' % (query_name, query_zip), 'r')
 

@@ -156,7 +156,7 @@ get 3 detected photo
 Haven' enough photo...
 === play with the 52th landmark ===
 get 4 detected photo
-33.9899474983,-118.329084345
+33.9899474984,-118.329084345
 === play with the 53th landmark ===
 get 14 detected photo
 34.0354849106,-118.37817743
@@ -208,3 +208,162 @@ Haven' enough photo...
 === play with the 69th landmark ===
 get 3 detected photo
 Haven' enough photo...
+=== play with the 70th landmark ===
+get 6 detected photo
+34.076267622,-118.360742572
+=== play with the 71th landmark ===
+get 12 detected photo
+34.0667376541,-118.270738372
+=== play with the 72th landmark ===
+get 16 detected photo
+34.0432932878,-118.274235346
+=== play with the 73th landmark ===
+get 3 detected photo
+Haven' enough photo...
+=== play with the 74th landmark ===
+get 20 detected photo
+34.0586195761,-118.237684591
+=== play with the 75th landmark ===
+get 11 detected photo
+34.039258745,-118.260900853
+=== play with the 76th landmark ===
+get 10 detected photo
+33.945139495,-118.372422513
+=== play with the 77th landmark ===
+get 11 detected photo
+34.0761224082,-118.300710163
+=== play with the 78th landmark ===
+get 10 detected photo
+34.0908505545,-118.384875278
+=== play with the 79th landmark ===
+get 6 detected photo
+33.9787548011,-118.373009139
+=== play with the 80th landmark ===
+get 5 detected photo
+34.0731010058,-118.376777814
+=== play with the 81th landmark ===
+get 2 detected photo
+Haven' enough photo...
+=== play with the 82th landmark ===
+get 16 detected photo
+34.0228720527,-118.371970422
+=== play with the 83th landmark ===
+get 16 detected photo
+34.090252424,-118.30968122
+=== play with the 84th landmark ===
+get 4 detected photo
+33.9759311841,-118.358551648
+=== play with the 85th landmark ===
+get 18 detected photo
+34.0957259046,-118.208146993
+=== play with the 86th landmark ===
+get 10 detected photo
+34.0983054388,-118.310674631
+=== play with the 87th landmark ===
+get 20 detected photo
+33.942348755,-118.265583794
+=== play with the 88th landmark ===
+get 13 detected photo
+34.0537444264,-118.375998922
+=== play with the 89th landmark ===
+get 20 detected photo
+34.1051649194,-118.25935618
+=== play with the 90th landmark ===
+get 20 detected photo
+34.1019481877,-118.299998627
+=== play with the 91th landmark ===
+get 11 detected photo
+33.9458167434,-118.333723224
+=== play with the 92th landmark ===
+get 4 detected photo
+34.0413641417,-118.204743218
+=== play with the 93th landmark ===
+get 8 detected photo
+34.0685764542,-118.343901164
+=== play with the 94th landmark ===
+get 15 detected photo
+34.0887015341,-118.276744986
+=== play with the 95th landmark ===
+get 9 detected photo
+33.9461722128,-118.35301147
+=== play with the 96th landmark ===
+get 7 detected photo
+34.0911149271,-118.361700299
+=== play with the 97th landmark ===
+get 1 detected photo
+Haven' enough photo...
+=== play with the 98th landmark ===
+get 10 detected photo
+34.0878582761,-118.379686875
+=== play with the 99th landmark ===
+get 9 detected photo
+34.0978428658,-118.36489304
+=== play with the 100th landmark ===
+get 12 detected photo
+34.0624357863,-118.345588757
+=== play with the 101th landmark ===
+get 9 detected photo
+34.0641274264,-118.376280079
+=== play with the 102th landmark ===
+get 9 detected photo
+34.1042498666,-118.330275982
+=== play with the 103th landmark ===
+get 9 detected photo
+33.9905886841,-118.25684514
+=== play with the 104th landmark ===
+get 10 detected photo
+34.0468729168,-118.247003963
+=== play with the 105th landmark ===
+get 13 detected photo
+34.0472945369,-118.316445447
+=== play with the 106th landmark ===
+get 2 detected photo
+Haven' enough photo...
+=== play with the 107th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 108th landmark ===
+get 18 detected photo
+34.0322162201,-118.351432656
+=== play with the 109th landmark ===
+get 15 detected photo
+34.01331874,-118.336552969
+=== play with the 110th landmark ===
+get 9 detected photo
+33.9598110679,-118.25607465
+=== play with the 111th landmark ===
+get 17 detected photo
+34.0539592826,-118.355269357
+=== play with the 112th landmark ===
+get 13 detected photo
+34.0957271283,-118.208104754
+=== play with the 113th landmark ===
+get 20 detected photo
+33.9523664211,-118.1839417
+=== play with the 114th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 115th landmark ===
+get 14 detected photo
+34.0008945555,-118.394619092
+=== play with the 116th landmark ===
+get 2 detected photo
+Haven' enough photo...
+=== play with the 117th landmark ===
+get 1 detected photo
+Haven' enough photo...
+=== play with the 118th landmark ===
+get 5 detected photo
+33.9597306892,-118.394804303
+=== play with the 119th landmark ===
+get 6 detected photo
+33.9457993513,-118.392593029
+=== play with the 120th landmark ===
+get 8 detected photo
+34.110541532,-118.191755104
+=== play with the 121th landmark ===
+get 0 detected photo
+Haven' enough photo...
+=== play with the 122th landmark ===
+get 13 detected photo
+34.1164819292,-118.26215013

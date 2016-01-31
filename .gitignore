@@ -1,2 +1,3 @@
 data/**/*.jpg
 .DS_Store
+test/**/*.jpg

@@ -1,0 +1,222 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-01-29T00:11:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+    {
+      "type": "node",
+      "id": 63068643,
+      "lat": 34.0219044,
+      "lon": -118.2800026,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 63785567,
+      "lat": 34.0196638,
+      "lon": -118.2748989
+    },
+    {
+      "type": "node",
+      "id": 63785577,
+      "lat": 34.0191581,
+      "lon": -118.2737797
+    },
+    {
+      "type": "node",
+      "id": 63785589,
+      "lat": 34.0186531,
+      "lon": -118.2726460
+    },
+    {
+      "type": "node",
+      "id": 122719205,
+      "lat": 34.0250489,
+      "lon": -118.2780079,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 123241963,
+      "lat": 34.0241345,
+      "lon": -118.2785577,
+      "tags": {
+        "directions": "one",
+        "highway": "stop",
+        "stop": "E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 123241965,
+      "lat": 34.0235169,
+      "lon": -118.2789719,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 123241967,
+      "lat": 34.0229882,
+      "lon": -118.2793017,
+      "tags": {
+        "directions": "one",
+        "highway": "stop",
+        "stop": "E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 123241977,
+      "lat": 34.0211516,
+      "lon": -118.2805054
+    },
+    {
+      "type": "node",
+      "id": 123280934,
+      "lat": 34.0202463,
+      "lon": -118.2761955,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 123292045,
+      "lat": 34.0208481,
+      "lon": -118.2775580,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 123292100,
+      "lat": 34.0208988,
+      "lon": -118.2776661
+    },
+    {
+      "type": "node",
+      "id": 348121996,
+      "lat": 34.0183727,
+      "lon": -118.2822530,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1286136422,
+      "lat": 34.0222322,
+      "lon": -118.2807398
+    },
+    {
+      "type": "node",
+      "id": 1378231753,
+      "lat": 34.0212947,
+      "lon": -118.2786289,
+      "tags": {
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1732243544,
+      "lat": 34.0188618,
+      "lon": -118.2819630
+    },
+    {
+      "type": "node",
+      "id": 1732243576,
+      "lat": 34.0204062,
+      "lon": -118.2809706,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1732243620,
+      "lat": 34.0196520,
+      "lon": -118.2814374
+    },
+    {
+      "type": "node",
+      "id": 1841835270,
+      "lat": 34.0213622,
+      "lon": -118.2787833
+    },
+    {
+      "type": "node",
+      "id": 2193435032,
+      "lat": 34.0213194,
+      "lon": -118.2786854,
+      "tags": {
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2613066347,
+      "lat": 34.0188761,
+      "lon": -118.2731465
+    },
+    {
+      "type": "way",
+      "id": 185399250,
+      "nodes": [
+        348121996,
+        1732243544,
+        1732243620,
+        1732243576,
+        123241977,
+        63068643,
+        123241967,
+        123241965,
+        123241963,
+        122719205
+      ],
+      "tags": {
+        "bicycle": "designated",
+        "highway": "primary",
+        "lanes": "7",
+        "name": "Figueroa Street",
+        "note:lanes": "3 southbound, 4 northbound",
+        "old_ref": "US 6;SR 11",
+        "old_ref:legislative": "165"
+      }
+    },
+    {
+      "type": "way",
+      "id": 235167147,
+      "nodes": [
+        63785589,
+        2613066347,
+        63785577,
+        63785567,
+        123280934,
+        123292045,
+        123292100,
+        1378231753,
+        2193435032,
+        1841835270,
+        63068643,
+        1286136422
+      ],
+      "tags": {
+        "highway": "secondary",
+        "name": "West Jefferson Boulevard"
+      }
+    }
+
+  ]
+}

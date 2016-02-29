@@ -1,8 +1,0 @@
-=== play with the 0th intersection ===
-this intersection's id is 000063068643
-get 11 detected photo
-34.0223237334,-118.279996464
-=== play with the 1th intersection ===
-this intersection's id is 000123241967
-get 23 detected photo
-34.0228865828,-118.279343107

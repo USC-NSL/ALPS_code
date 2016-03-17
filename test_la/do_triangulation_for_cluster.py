@@ -18,7 +18,7 @@ if __name__ == '__main__':
 	work_dir = "./data/%s/%s/" % (query_city, query_landmark)
 
 	f_input = open(work_dir + "distance_based_clustering_output.txt", "r")
-	f_output = open(work_dir + "do_triangulation_output.txt", "w")
+	f_output = open(work_dir + "do_triangulation_for_cluster_output.txt", "w")
 
 	query_fov = float(20.0)
 
@@ -32,6 +32,11 @@ if __name__ == '__main__':
 
 		center_info = f_input.readline().rstrip()
 		f_output.write("%s\n" % center_info)
+
+		check_we_have_image_from_more_than_one_point = dict()
+		check_result_flag = False
+		default_lat = "" # ****************
+		default_lng = ""
 
 		mysin = []
 		mycos = []
@@ -73,6 +78,22 @@ if __name__ == '__main__':
 			x.append(xy[0])
 			y.append(xy[1])
 
+			# new stuff to deal with the case
+			# when all images come from the same standing point
+			check_key = "%s,%s" % (view_lat, view_lng)
+			if check_key in check_we_have_image_from_more_than_one_point:
+				check_we_have_image_from_more_than_one_point[check_key] += 1
+			else:
+				check_we_have_image_from_more_than_one_point[check_key] = 1
+
+			if (image_index == 0):
+				default_lat = view_lat + 0.0001 * math.sin(theta)
+				default_lng = view_lng + 0.0001 * math.cos(theta)
+				# default_lat_lng = "%s,%s" % (tmp_lat, tmp_lng)
+
+		if (len(check_we_have_image_from_more_than_one_point) > 1):
+			check_result_flag = True
+
 		G = []
 
 		for i in range(image_num):
@@ -98,8 +119,14 @@ if __name__ == '__main__':
 				
 		tmp2 = utm.to_latlon(theta[0][0], theta[1][0], tmp[2], tmp[3])
 
-		f_output.write("%s,%s\n" % (str(tmp2[0]), str(tmp2[1])))
-		print "%s,%s" % (str(tmp2[0]), str(tmp2[1]))
+		if (check_result_flag):
+			f_output.write("%s,%s\n" % (str(tmp2[0]), str(tmp2[1])))
+			print "%s,%s" % (str(tmp2[0]), str(tmp2[1]))
+		else:
+			# f_output.write("there isn't enough image from different view point...\n")
+			# print "there isn't enough image from different view point..."
+			f_output.write("%s,%s\n" % (default_lat, default_lng))
+			print "%s,%s" % (default_lat, default_lng)
 
 
 		cluster_index += 1

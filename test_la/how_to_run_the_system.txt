@@ -1,0 +1,56 @@
+=== basic image database ===
+generate_initial_point.py
+	input
+	output
+		generate_initial_point_output.txt
+
+generate_standing_point.py
+	input
+		generate_initial_point_output.txt
+	output
+		generate_standing_point_output.txt
+
+download_image_with_zoom.py
+	input
+		generate_standing_point_output.txt
+	output
+		download_image_with_zoom_output.txt
+
+=== landmark specific ===
+*** xiaochen's yolo detector
+	input
+		basic image database
+	output
+		basic_image_database_yolo_result.txt
+
+fov_confidence_level.py
+	input
+		basic_image_database_yolo_result.txt
+	output
+		fov_confidence_level_output.txt
+
+*** xiaochen's yolo detector
+	input
+		fov new downloaded image
+	output
+		fov_confidence_level_yolo_result.txt
+
+fov_analysis.py
+	input
+		fov_confidence_level_output.txt
+		fov_confidence_level_yolo_result.txt
+	output
+		fov_analysis_output_formal.txt
+
+distance_based_clustering.py
+	input
+		fov_analysis_output_formal.txt
+	output
+		distance_based_clustering_output.txt
+
+do_triangulation_for_cluster.py
+	input
+		distance_based_clustering_output.txt
+	output
+		do_triangulation_for_cluster_output.txt
+

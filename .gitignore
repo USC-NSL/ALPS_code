@@ -2,3 +2,5 @@ data/**/*.jpg
 .DS_Store
 test/**/*.jpg
 */**/*.jpg
+data/**/*.png
+*/**/*.png

@@ -98,7 +98,8 @@ if __name__ == '__main__':
 
 		theta = get_theta(origin, destination) + 90
 
-		tmp_node = node(origin.lat, origin.lng, theta)
+		# tmp_node = node(origin.lat, origin.lng, theta)
+		tmp_node = node(destination.lat, destination.lng, theta)
 		standing_point_array.append(tmp_node)
 		node_num += 1
 

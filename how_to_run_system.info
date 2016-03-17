@@ -1,3 +1,16 @@
 python generate_initial_point.py
 python generate_standing_point.py
+
 python download_image_without_zoom.py
+or
+python download_image_with_zoom.py
+
+after logo detection
+
+python parse_detect_res_from_yolo.py
+
+python fov_confidence_level.py
+
+
+
+

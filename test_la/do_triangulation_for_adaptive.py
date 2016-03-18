@@ -17,21 +17,21 @@ if __name__ == '__main__':
 
 	work_dir = "./data/%s/%s/" % (query_city, query_landmark)
 
-	f_input = open(work_dir + "distance_based_clustering_output.txt", "r")
-	f_output = open(work_dir + "do_triangulation_for_cluster_output.txt", "w")
+	f_input = open(work_dir + "adaptive_fov_pretty_output.txt", "r")
+	f_output = open(work_dir + "do_triangulation_for_adaptive_output.txt", "w")
 
 	query_fov = float(20.0)
 
 	# cluster_num = f_input.readline().rstrip()
-	cluster_index = 0
+	seed_index = 0
 
 	while (f_input.readline()):
-		f_output.write("=== play with the %dth cluster ===\n" % cluster_index)
+		f_output.write("=== play with the %dth seed ===\n" % seed_index)
 
 		image_num = int(f_input.readline().rstrip())
 
-		center_info = f_input.readline().rstrip()
-		f_output.write("%s\n" % center_info)
+		# center_info = f_input.readline().rstrip()
+		# f_output.write("%s\n" % center_info)
 
 		check_we_have_image_from_more_than_one_point = dict()
 		check_result_flag = False
@@ -48,10 +48,10 @@ if __name__ == '__main__':
 			logo_detection_result = f_input.readline().rstrip()
 
 			tmp = image_path.split('_')
-			view_lat = float(tmp[4])
-			view_lng = float(tmp[5])
-			view_heading = float(tmp[6]) + float(tmp[7][1:])
-			view_pitch = float(tmp[8][1:])
+			view_lat = float(tmp[2])
+			view_lng = float(tmp[3])
+			view_heading = float(tmp[4]) + float(tmp[5][1:])
+			view_pitch = float(tmp[6][1:])
 
 			tmp = logo_detection_result.split('/')
 			photo_pixel_width = float(tmp[0])
@@ -123,12 +123,12 @@ if __name__ == '__main__':
 			f_output.write("%s,%s\n" % (str(tmp2[0]), str(tmp2[1])))
 			print "%s,%s" % (str(tmp2[0]), str(tmp2[1]))
 		else:
-			# f_output.write("there isn't enough image from different view point...\n")
-			# print "there isn't enough image from different view point..."
+			f_output.write("there isn't enough image from different view point...\n")
+			print "there isn't enough image from different view point..."
 			f_output.write("%s,%s\n" % (default_lat, default_lng))
 			print "%s,%s" % (default_lat, default_lng)
 
 
-		cluster_index += 1
+		seed_index += 1
 
 

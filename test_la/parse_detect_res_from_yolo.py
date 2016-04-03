@@ -4,7 +4,8 @@ import glob
 if __name__ == '__main__':
 
 	query_city = open("./config/query_city.info", "r").readline().rstrip()
-	query_landmark = open("./config/query_landmark.info", "r").readline().rstrip()
+	# query_landmark = open("./config/query_landmark.info", "r").readline().rstrip()
+	query_landmark = "subway"
 
 	work_dir = "./data/%s/%s/" % (query_city, query_landmark)
 

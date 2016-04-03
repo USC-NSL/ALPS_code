@@ -1,0 +1,1032 @@
+=== play with the 0th seed ===
+34.0737974632,-118.308073941
+=== play with the 1th seed ===
+34.0726217108,-118.308069178
+=== play with the 2th seed ===
+34.0711158137,-118.308198274
+=== play with the 3th seed ===
+34.0738028778,-118.29951445
+=== play with the 4th seed ===
+34.0751657244,-118.29954478
+=== play with the 5th seed ===
+34.0763092625,-118.306219441
+=== play with the 6th seed ===
+34.0615462435,-118.303150017
+=== play with the 7th seed ===
+34.0597950549,-118.302974117
+=== play with the 8th seed ===
+34.0596238404,-118.30318224
+=== play with the 9th seed ===
+34.0587052221,-118.302520361
+=== play with the 10th seed ===
+34.0577822842,-118.303187427
+=== play with the 11th seed ===
+34.0763950366,-118.30331206
+=== play with the 12th seed ===
+34.0789144101,-118.303639435
+=== play with the 13th seed ===
+34.0799412131,-118.30351115
+=== play with the 14th seed ===
+34.0816282006,-118.303546755
+=== play with the 15th seed ===
+34.0834109022,-118.303547706
+=== play with the 16th seed ===
+34.0738788782,-118.303098819
+=== play with the 17th seed ===
+34.0729745564,-118.312586878
+=== play with the 18th seed ===
+34.0720579009,-118.312564475
+=== play with the 19th seed ===
+34.071164782,-118.312574884
+=== play with the 20th seed ===
+34.0762175912,-118.296649817
+=== play with the 21th seed ===
+34.0767197203,-118.2968967
+=== play with the 22th seed ===
+34.0747870475,-118.31032533
+=== play with the 23th seed ===
+34.0731398149,-118.290057006
+=== play with the 24th seed ===
+34.0723135516,-118.290604483
+=== play with the 25th seed ===
+34.070598721,-118.290615172
+=== play with the 26th seed ===
+34.0739184482,-118.300382754
+=== play with the 27th seed ===
+34.0736176339,-118.301788659
+=== play with the 28th seed ===
+34.0738214919,-118.304264999
+=== play with the 29th seed ===
+34.0789232327,-118.30129522
+=== play with the 30th seed ===
+34.0618615096,-118.311663602
+=== play with the 31th seed ===
+34.0605720661,-118.311495059
+=== play with the 32th seed ===
+34.0579752647,-118.311283118
+=== play with the 33th seed ===
+34.0543536725,-118.311279673
+=== play with the 34th seed ===
+34.0533716699,-118.311253306
+=== play with the 35th seed ===
+34.0506817051,-118.311229354
+=== play with the 36th seed ===
+34.049540542,-118.311250346
+=== play with the 37th seed ===
+34.0700501613,-118.3117288
+=== play with the 38th seed ===
+34.0680062302,-118.311723986
+=== play with the 39th seed ===
+34.0672297285,-118.311717866
+=== play with the 40th seed ===
+34.0662680663,-118.311707847
+=== play with the 41th seed ===
+34.0654679334,-118.311673984
+=== play with the 42th seed ===
+34.0647891734,-118.311686329
+=== play with the 43th seed ===
+34.0635334488,-118.311736299
+=== play with the 44th seed ===
+34.0628190377,-118.31166283
+=== play with the 45th seed ===
+34.0625646371,-118.311675736
+=== play with the 46th seed ===
+34.0617810263,-118.311608379
+=== play with the 47th seed ===
+34.0747017321,-118.31367268
+=== play with the 48th seed ===
+34.0752110453,-118.298516296
+=== play with the 49th seed ===
+34.0752068092,-118.300479171
+=== play with the 50th seed ===
+34.0753758551,-118.301912523
+=== play with the 51th seed ===
+34.0750199545,-118.308119217
+=== play with the 52th seed ===
+34.0763824091,-118.307895478
+=== play with the 53th seed ===
+34.0763100268,-118.307749125
+=== play with the 54th seed ===
+34.0730483707,-118.301586685
+=== play with the 55th seed ===
+34.0710970686,-118.301563336
+=== play with the 56th seed ===
+34.0702634316,-118.301749461
+=== play with the 57th seed ===
+34.0689224541,-118.301804434
+=== play with the 58th seed ===
+34.0776225701,-118.302430838
+=== play with the 59th seed ===
+34.0789073521,-118.302420849
+=== play with the 60th seed ===
+34.074574195,-118.301805443
+=== play with the 61th seed ===
+34.0710712892,-118.310540351
+=== play with the 62th seed ===
+34.0700329062,-118.310536775
+=== play with the 63th seed ===
+34.0690566677,-118.31048976
+=== play with the 64th seed ===
+34.0688903098,-118.310411219
+=== play with the 65th seed ===
+34.0672154624,-118.310467447
+=== play with the 66th seed ===
+34.0627377636,-118.310226793
+=== play with the 67th seed ===
+34.0618260091,-118.31025976
+=== play with the 68th seed ===
+34.0742755851,-118.297577263
+=== play with the 69th seed ===
+34.076204792,-118.297575138
+=== play with the 70th seed ===
+34.0711138455,-118.297737574
+=== play with the 71th seed ===
+34.070124758,-118.297789248
+=== play with the 72th seed ===
+34.0689361149,-118.29810776
+=== play with the 73th seed ===
+34.0679686672,-118.298902539
+=== play with the 74th seed ===
+34.0673126088,-118.298034114
+=== play with the 75th seed ===
+34.0669595998,-118.297847097
+=== play with the 76th seed ===
+34.0661643296,-118.298250589
+=== play with the 77th seed ===
+34.0661455786,-118.297839713
+=== play with the 78th seed ===
+34.064473328,-118.298025995
+=== play with the 79th seed ===
+34.0763700903,-118.293401475
+=== play with the 80th seed ===
+34.0778062602,-118.293331024
+=== play with the 81th seed ===
+34.0779556031,-118.293135727
+=== play with the 82th seed ===
+34.0785269473,-118.293141228
+=== play with the 83th seed ===
+34.0744373086,-118.292839691
+=== play with the 84th seed ===
+34.0753183987,-118.293048563
+=== play with the 85th seed ===
+34.0761381834,-118.293132434
+=== play with the 86th seed ===
+34.0653334558,-118.291737659
+=== play with the 87th seed ===
+34.0655401934,-118.292982099
+=== play with the 88th seed ===
+34.0655328017,-118.294261997
+=== play with the 89th seed ===
+34.0655376575,-118.296569704
+=== play with the 90th seed ===
+34.0662668745,-118.298403419
+=== play with the 91th seed ===
+34.0655305209,-118.299297254
+=== play with the 92th seed ===
+34.0654358517,-118.300486116
+=== play with the 93th seed ===
+34.0653120254,-118.301489679
+=== play with the 94th seed ===
+34.065486229,-118.301759974
+=== play with the 95th seed ===
+34.0652703739,-118.302681144
+=== play with the 96th seed ===
+34.0657545604,-118.303063971
+=== play with the 97th seed ===
+34.0655104834,-118.304240905
+=== play with the 98th seed ===
+34.0655356823,-118.305464699
+=== play with the 99th seed ===
+34.0654438623,-118.306734009
+=== play with the 100th seed ===
+34.0654133475,-118.308976795
+=== play with the 101th seed ===
+34.0651940138,-118.309243802
+=== play with the 102th seed ===
+34.065447014,-118.309300516
+=== play with the 103th seed ===
+34.0654466395,-118.310488821
+=== play with the 104th seed ===
+34.0654513914,-118.312932396
+=== play with the 105th seed ===
+34.065237466,-118.316357082
+=== play with the 106th seed ===
+34.0654180445,-118.316368675
+=== play with the 107th seed ===
+34.0652619915,-118.318631059
+=== play with the 108th seed ===
+34.0651704653,-118.321305105
+=== play with the 109th seed ===
+34.0652680954,-118.322701848
+=== play with the 110th seed ===
+34.0652268204,-118.324435826
+=== play with the 111th seed ===
+34.0651894352,-118.327394129
+=== play with the 112th seed ===
+34.0654394758,-118.329237646
+=== play with the 113th seed ===
+34.0722910941,-118.289761049
+=== play with the 114th seed ===
+34.0726802387,-118.29553129
+=== play with the 115th seed ===
+34.0719979812,-118.295515623
+=== play with the 116th seed ===
+34.0689597781,-118.295584634
+=== play with the 117th seed ===
+34.0718157172,-118.293054312
+=== play with the 118th seed ===
+34.070837179,-118.2930578
+=== play with the 119th seed ===
+34.0691560721,-118.293033145
+=== play with the 120th seed ===
+34.0688990708,-118.292862205
+=== play with the 121th seed ===
+34.073722401,-118.295530684
+=== play with the 122th seed ===
+34.0744253164,-118.295557592
+=== play with the 123th seed ===
+34.0754065284,-118.295541074
+=== play with the 124th seed ===
+34.0724802994,-118.305627533
+=== play with the 125th seed ===
+34.0763582165,-118.305223312
+=== play with the 126th seed ===
+34.0749361428,-118.305632232
+=== play with the 127th seed ===
+34.076071035,-118.305618809
+=== play with the 128th seed ===
+34.0711003251,-118.29674084
+=== play with the 129th seed ===
+34.0712703921,-118.298422866
+=== play with the 130th seed ===
+34.0712953303,-118.299486764
+=== play with the 131th seed ===
+34.0689525326,-118.299428445
+=== play with the 132th seed ===
+34.0618518771,-118.299054613
+=== play with the 133th seed ===
+34.059621293,-118.298779175
+=== play with the 134th seed ===
+34.0558389666,-118.298839495
+=== play with the 135th seed ===
+34.0668554985,-118.295407387
+=== play with the 136th seed ===
+34.0672963935,-118.296716059
+=== play with the 137th seed ===
+34.0668290008,-118.299011718
+=== play with the 138th seed ===
+34.074552241,-118.290407313
+=== play with the 139th seed ===
+34.0742973193,-118.291484608
+=== play with the 140th seed ===
+34.0743497151,-118.294262429
+=== play with the 141th seed ===
+34.0745880341,-118.294309075
+=== play with the 142th seed ===
+34.069125155,-118.296688657
+=== play with the 143th seed ===
+34.0645295227,-118.296528757
+=== play with the 144th seed ===
+34.0634030221,-118.296797201
+=== play with the 145th seed ===
+34.0625608614,-118.296757148
+=== play with the 146th seed ===
+34.0618548532,-118.296761232
+=== play with the 147th seed ===
+34.0634515543,-118.307720647
+=== play with the 148th seed ===
+34.0614499954,-118.307775768
+=== play with the 149th seed ===
+34.0615781757,-118.30800016
+=== play with the 150th seed ===
+34.0606173003,-118.307944649
+=== play with the 151th seed ===
+34.0600613714,-118.308236167
+=== play with the 152th seed ===
+34.0591505117,-118.307755848
+=== play with the 153th seed ===
+34.0577321042,-118.308105332
+=== play with the 154th seed ===
+34.0558805921,-118.307984244
+=== play with the 155th seed ===
+34.0544101116,-118.307732233
+=== play with the 156th seed ===
+34.0634670885,-118.309500028
+=== play with the 157th seed ===
+34.0626411903,-118.30901744
+=== play with the 158th seed ===
+34.0616822679,-118.292764824
+=== play with the 159th seed ===
+34.0654748578,-118.293041297
+=== play with the 160th seed ===
+34.0647169214,-118.292848927
+=== play with the 161th seed ===
+34.0637358656,-118.292847063
+=== play with the 162th seed ===
+34.0637532274,-118.293066729
+=== play with the 163th seed ===
+34.0596598233,-118.293072106
+=== play with the 164th seed ===
+34.0547869883,-118.293641389
+=== play with the 165th seed ===
+34.0545560401,-118.301040922
+=== play with the 166th seed ===
+34.0557917975,-118.300973139
+=== play with the 167th seed ===
+34.0586376679,-118.300992327
+=== play with the 168th seed ===
+34.0596589958,-118.301037519
+=== play with the 169th seed ===
+34.0602057264,-118.301016644
+=== play with the 170th seed ===
+34.0607683195,-118.301024719
+=== play with the 171th seed ===
+34.0670805971,-118.300441895
+=== play with the 172th seed ===
+34.0688634483,-118.300459781
+=== play with the 173th seed ===
+34.0727109969,-118.300559326
+=== play with the 174th seed ===
+34.0761771472,-118.300462125
+=== play with the 175th seed ===
+34.0825996102,-118.304711235
+=== play with the 176th seed ===
+34.0817428753,-118.309680846
+=== play with the 177th seed ===
+34.0789418089,-118.30473134
+=== play with the 178th seed ===
+34.0777782833,-118.304498553
+=== play with the 179th seed ===
+34.0815844702,-118.307014922
+=== play with the 180th seed ===
+34.0799570396,-118.307071593
+=== play with the 181th seed ===
+34.0775463304,-118.307058199
+=== play with the 182th seed ===
+34.0763857971,-118.298358452
+=== play with the 183th seed ===
+34.0682484384,-118.299293408
+=== play with the 184th seed ===
+34.0672821413,-118.299255048
+=== play with the 185th seed ===
+34.0634631461,-118.299461675
+=== play with the 186th seed ===
+34.0627059555,-118.299092649
+=== play with the 187th seed ===
+34.0688932476,-118.306812788
+=== play with the 188th seed ===
+34.0712180473,-118.309336925
+=== play with the 189th seed ===
+34.0712103895,-118.311431809
+=== play with the 190th seed ===
+34.0710040323,-118.311752758
+=== play with the 191th seed ===
+34.0710374844,-118.314256163
+=== play with the 192th seed ===
+34.0717926613,-118.315676816
+=== play with the 193th seed ===
+34.0711864084,-118.317213901
+=== play with the 194th seed ===
+34.0710934836,-118.3183758
+=== play with the 195th seed ===
+34.0711597305,-118.320579889
+=== play with the 196th seed ===
+34.0710727021,-118.32377189
+=== play with the 197th seed ===
+34.0710042602,-118.324884729
+=== play with the 198th seed ===
+34.0663192519,-118.30424851
+=== play with the 199th seed ===
+34.0615661288,-118.304091114
+=== play with the 200th seed ===
+34.0604452909,-118.304275668
+=== play with the 201th seed ===
+34.0596021242,-118.304244507
+=== play with the 202th seed ===
+34.0586779531,-118.304075978
+=== play with the 203th seed ===
+34.0577558033,-118.304483777
+=== play with the 204th seed ===
+34.0530447038,-118.30926196
+=== play with the 205th seed ===
+34.0535752568,-118.304262101
+=== play with the 206th seed ===
+34.0525292809,-118.304263007
+=== play with the 207th seed ===
+34.050923693,-118.304093922
+=== play with the 208th seed ===
+34.0470872245,-118.304249179
+=== play with the 209th seed ===
+34.0455155152,-118.304058038
+=== play with the 210th seed ===
+34.067293848,-118.301628915
+=== play with the 211th seed ===
+34.067287787,-118.301739876
+=== play with the 212th seed ===
+34.0674009022,-118.302986722
+=== play with the 213th seed ===
+34.0671056195,-118.304274348
+=== play with the 214th seed ===
+34.0670594136,-118.305508633
+=== play with the 215th seed ===
+34.0672540662,-118.30671209
+=== play with the 216th seed ===
+34.0660442099,-118.308421048
+=== play with the 217th seed ===
+34.0672228125,-118.309242954
+=== play with the 218th seed ===
+34.0672584358,-118.309219136
+=== play with the 219th seed ===
+34.0672800732,-118.312900917
+=== play with the 220th seed ===
+34.0672220683,-118.314150737
+=== play with the 221th seed ===
+34.0672395752,-118.316279023
+=== play with the 222th seed ===
+34.0669991842,-118.317369884
+=== play with the 223th seed ===
+34.0670974614,-118.323062373
+=== play with the 224th seed ===
+34.0670389669,-118.324426992
+=== play with the 225th seed ===
+34.0670532028,-118.325860388
+=== play with the 226th seed ===
+34.0669740824,-118.327366232
+=== play with the 227th seed ===
+34.0668819112,-118.328852708
+=== play with the 228th seed ===
+34.066781041,-118.334250519
+=== play with the 229th seed ===
+34.0667662667,-118.337208632
+=== play with the 230th seed ===
+34.0668143199,-118.340826866
+=== play with the 231th seed ===
+34.0669999087,-118.340853083
+=== play with the 232th seed ===
+34.0668759925,-118.342822427
+=== play with the 233th seed ===
+34.0689034963,-118.294257175
+=== play with the 234th seed ===
+34.0654484018,-118.294223607
+=== play with the 235th seed ===
+34.064579214,-118.294248741
+=== play with the 236th seed ===
+34.0636261221,-118.294419227
+=== play with the 237th seed ===
+34.0589853866,-118.292376454
+=== play with the 238th seed ===
+34.0626222748,-118.294294174
+=== play with the 239th seed ===
+34.0618174507,-118.293893994
+=== play with the 240th seed ===
+34.0606361005,-118.294266057
+=== play with the 241th seed ===
+34.0598618521,-118.294224719
+=== play with the 242th seed ===
+34.0596563963,-118.29433267
+=== play with the 243th seed ===
+34.0586040156,-118.294261052
+=== play with the 244th seed ===
+34.058471562,-118.294238691
+=== play with the 245th seed ===
+34.0578171379,-118.294275876
+=== play with the 246th seed ===
+34.0567228639,-118.294046665
+=== play with the 247th seed ===
+34.056713056,-118.294208514
+=== play with the 248th seed ===
+34.0546169761,-118.293999442
+=== play with the 249th seed ===
+34.0546286715,-118.294431986
+=== play with the 250th seed ===
+34.0737513597,-118.289428793
+=== play with the 251th seed ===
+34.0734099618,-118.289181776
+=== play with the 252th seed ===
+34.0735028014,-118.28951053
+=== play with the 253th seed ===
+34.0618496375,-118.305657708
+=== play with the 254th seed ===
+34.0614357663,-118.305432573
+=== play with the 255th seed ===
+34.0606297532,-118.305428859
+=== play with the 256th seed ===
+34.0598664894,-118.30523012
+=== play with the 257th seed ===
+34.0594941066,-118.30538322
+=== play with the 258th seed ===
+34.057820213,-118.305247912
+=== play with the 259th seed ===
+34.0578733158,-118.305384564
+=== play with the 260th seed ===
+34.0577451723,-118.305464347
+=== play with the 261th seed ===
+34.0574930146,-118.305525618
+=== play with the 262th seed ===
+34.0568122772,-118.3054546
+=== play with the 263th seed ===
+34.0559547124,-118.305524617
+=== play with the 264th seed ===
+34.0548124663,-118.305439758
+=== play with the 265th seed ===
+34.0726276302,-118.291696147
+=== play with the 266th seed ===
+34.072838675,-118.292854618
+=== play with the 267th seed ===
+34.0727257635,-118.292920981
+=== play with the 268th seed ===
+34.0728384063,-118.293401318
+=== play with the 269th seed ===
+34.0725543833,-118.294215089
+=== play with the 270th seed ===
+34.0728390036,-118.295504657
+=== play with the 271th seed ===
+34.0726578737,-118.295801851
+=== play with the 272th seed ===
+34.0726663613,-118.296584722
+=== play with the 273th seed ===
+34.0725742135,-118.297559213
+=== play with the 274th seed ===
+34.0728234829,-118.298514781
+=== play with the 275th seed ===
+34.0728583628,-118.299493965
+=== play with the 276th seed ===
+34.0679520454,-118.30528509
+=== play with the 277th seed ===
+34.0663379773,-118.305931079
+=== play with the 278th seed ===
+34.065826451,-118.305349659
+=== play with the 279th seed ===
+34.0658238589,-118.305412154
+=== play with the 280th seed ===
+34.0636974412,-118.305459652
+=== play with the 281th seed ===
+34.0712926526,-118.300494786
+=== play with the 282th seed ===
+34.0712598051,-118.301100387
+=== play with the 283th seed ===
+34.0713353255,-118.301718338
+=== play with the 284th seed ===
+34.071088658,-118.303014754
+=== play with the 285th seed ===
+34.0711075714,-118.304223871
+=== play with the 286th seed ===
+34.0710627009,-118.304346316
+=== play with the 287th seed ===
+34.0711099579,-118.305587373
+=== play with the 288th seed ===
+34.0710912673,-118.306555302
+=== play with the 289th seed ===
+34.0710225998,-118.308104874
+=== play with the 290th seed ===
+34.0704278389,-118.304230537
+=== play with the 291th seed ===
+34.0692522809,-118.304232104
+=== play with the 292th seed ===
+34.0700891064,-118.305404538
+=== play with the 293th seed ===
+34.069292501,-118.305408802
+=== play with the 294th seed ===
+34.0688513295,-118.305477542
+=== play with the 295th seed ===
+34.0683961464,-118.306708728
+=== play with the 296th seed ===
+34.0680388787,-118.306539679
+=== play with the 297th seed ===
+34.0668858743,-118.306879233
+=== play with the 298th seed ===
+34.0645346201,-118.306738031
+=== play with the 299th seed ===
+34.0634597823,-118.307097788
+=== play with the 300th seed ===
+34.0634414361,-118.306456221
+=== play with the 301th seed ===
+34.0627766241,-118.306743047
+=== play with the 302th seed ===
+34.0625150968,-118.306698094
+=== play with the 303th seed ===
+34.0619540249,-118.30672907
+=== play with the 304th seed ===
+34.0615920627,-118.306421761
+=== play with the 305th seed ===
+34.0598845514,-118.306545249
+=== play with the 306th seed ===
+34.0595808214,-118.306685307
+=== play with the 307th seed ===
+34.0594977968,-118.306698613
+=== play with the 308th seed ===
+34.0584117716,-118.306720801
+=== play with the 309th seed ===
+34.0578568926,-118.306729301
+=== play with the 310th seed ===
+34.0575121476,-118.30667158
+=== play with the 311th seed ===
+34.0559429921,-118.306689588
+=== play with the 312th seed ===
+34.0546230415,-118.306656625
+=== play with the 313th seed ===
+34.0545147522,-118.306663103
+=== play with the 314th seed ===
+34.0673960039,-118.291764285
+=== play with the 315th seed ===
+34.0666007264,-118.287148342
+=== play with the 316th seed ===
+34.0665550285,-118.28858766
+=== play with the 317th seed ===
+34.0689207334,-118.303096253
+=== play with the 318th seed ===
+34.0686046303,-118.302936532
+=== play with the 319th seed ===
+34.0680247719,-118.302996606
+=== play with the 320th seed ===
+34.0665052404,-118.302976138
+=== play with the 321th seed ===
+34.0654441907,-118.302946587
+=== play with the 322th seed ===
+34.0640793236,-118.302955356
+=== play with the 323th seed ===
+34.0635118755,-118.302770067
+=== play with the 324th seed ===
+34.063494492,-118.303025097
+=== play with the 325th seed ===
+34.0634067069,-118.302773225
+=== play with the 326th seed ===
+34.0705230348,-118.302824362
+=== play with the 327th seed ===
+34.06887011,-118.295321642
+=== play with the 328th seed ===
+34.0663465235,-118.295330934
+=== play with the 329th seed ===
+34.0654481564,-118.295527054
+=== play with the 330th seed ===
+34.0616454089,-118.295503683
+=== play with the 331th seed ===
+34.0608885889,-118.295522641
+=== play with the 332th seed ===
+34.0568689136,-118.295494162
+=== play with the 333th seed ===
+34.0558668912,-118.295501976
+=== play with the 334th seed ===
+34.068089258,-118.301348897
+=== play with the 335th seed ===
+34.0642465624,-118.301644353
+=== play with the 336th seed ===
+34.0644356834,-118.301714689
+=== play with the 337th seed ===
+34.0633716224,-118.301688403
+=== play with the 338th seed ===
+34.0619223206,-118.301711368
+=== play with the 339th seed ===
+34.0617027556,-118.301373167
+=== play with the 340th seed ===
+34.0731048305,-118.313704906
+=== play with the 341th seed ===
+34.0726182988,-118.313688794
+=== play with the 342th seed ===
+34.0725633963,-118.313832509
+=== play with the 343th seed ===
+34.0717805079,-118.313525545
+=== play with the 344th seed ===
+34.0734446867,-118.320773388
+=== play with the 345th seed ===
+34.0742121448,-118.318736161
+=== play with the 346th seed ===
+34.0729965186,-118.318445781
+=== play with the 347th seed ===
+34.072949535,-118.318079069
+=== play with the 348th seed ===
+34.0728800014,-118.317088684
+=== play with the 349th seed ===
+34.0731499474,-118.315784786
+=== play with the 350th seed ===
+34.0729805092,-118.315816943
+=== play with the 351th seed ===
+34.0729451661,-118.315493646
+=== play with the 352th seed ===
+34.0729408446,-118.314623979
+=== play with the 353th seed ===
+34.0729371773,-118.312286832
+=== play with the 354th seed ===
+34.0729528942,-118.311404249
+=== play with the 355th seed ===
+34.0729577533,-118.310343744
+=== play with the 356th seed ===
+34.0734468356,-118.31452357
+=== play with the 357th seed ===
+34.0745365493,-118.311468625
+=== play with the 358th seed ===
+34.0754441388,-118.311484531
+=== play with the 359th seed ===
+34.0762449665,-118.311573614
+=== play with the 360th seed ===
+34.077347122,-118.3114584
+=== play with the 361th seed ===
+34.0781952049,-118.312618035
+=== play with the 362th seed ===
+34.0793880346,-118.311492092
+=== play with the 363th seed ===
+34.0793913518,-118.311274681
+=== play with the 364th seed ===
+34.0723008937,-118.311368857
+=== play with the 365th seed ===
+34.0721772563,-118.311376493
+=== play with the 366th seed ===
+34.0740520613,-118.306648653
+=== play with the 367th seed ===
+34.0691222717,-118.3127793
+=== play with the 368th seed ===
+34.0684231318,-118.312933765
+=== play with the 369th seed ===
+34.0683003624,-118.312939301
+=== play with the 370th seed ===
+34.0646306099,-118.312893682
+=== play with the 371th seed ===
+34.0703575226,-118.29427071
+=== play with the 372th seed ===
+34.0761302743,-118.294290267
+=== play with the 373th seed ===
+34.0776452761,-118.295899271
+=== play with the 374th seed ===
+34.0690063277,-118.290338356
+=== play with the 375th seed ===
+34.0690034615,-118.290435775
+=== play with the 376th seed ===
+34.0760327266,-118.290606034
+=== play with the 377th seed ===
+34.0775639096,-118.29060473
+=== play with the 378th seed ===
+34.0732344677,-118.292627765
+=== play with the 379th seed ===
+34.0745809019,-118.309270616
+=== play with the 380th seed ===
+34.0745220617,-118.309088195
+=== play with the 381th seed ===
+34.0749553196,-118.309067872
+=== play with the 382th seed ===
+34.0754274021,-118.309071743
+=== play with the 383th seed ===
+34.0761425257,-118.309284166
+=== play with the 384th seed ===
+34.0762272449,-118.30920213
+=== play with the 385th seed ===
+34.0771408105,-118.309304275
+=== play with the 386th seed ===
+34.0775495888,-118.309078729
+=== play with the 387th seed ===
+34.0707730286,-118.314151178
+=== play with the 388th seed ===
+34.0702877305,-118.314337863
+=== play with the 389th seed ===
+34.0699712314,-118.314336195
+=== play with the 390th seed ===
+34.0698617493,-118.314332476
+=== play with the 391th seed ===
+34.0690067672,-118.314029031
+=== play with the 392th seed ===
+34.0775060574,-118.308036602
+=== play with the 393th seed ===
+34.078682164,-118.308086025
+=== play with the 394th seed ===
+34.0799371275,-118.308073794
+=== play with the 395th seed ===
+34.0810390598,-118.30806811
+=== play with the 396th seed ===
+34.0815555652,-118.308105241
+=== play with the 397th seed ===
+34.0824061326,-118.308123377
+=== play with the 398th seed ===
+34.0825120066,-118.30791508
+=== play with the 399th seed ===
+34.0611834191,-118.31255337
+=== play with the 400th seed ===
+34.0618183606,-118.314350465
+=== play with the 401th seed ===
+34.0616181373,-118.312265974
+=== play with the 402th seed ===
+34.0610429352,-118.312969885
+=== play with the 403th seed ===
+34.0617415806,-118.309187166
+=== play with the 404th seed ===
+34.0619049816,-118.302974703
+=== play with the 405th seed ===
+34.0616303922,-118.302627644
+=== play with the 406th seed ===
+34.0616627862,-118.296493951
+=== play with the 407th seed ===
+34.0617370466,-118.296499933
+=== play with the 408th seed ===
+34.0619206298,-118.298038265
+=== play with the 409th seed ===
+34.0618665908,-118.295450382
+=== play with the 410th seed ===
+34.0617460366,-118.290813825
+=== play with the 411th seed ===
+34.0617359465,-118.289908549
+=== play with the 412th seed ===
+34.0619521878,-118.300338082
+=== play with the 413th seed ===
+34.0763507731,-118.291393856
+=== play with the 414th seed ===
+34.0764260752,-118.292004837
+=== play with the 415th seed ===
+34.0761602803,-118.291856238
+=== play with the 416th seed ===
+34.0763224504,-118.313326024
+=== play with the 417th seed ===
+34.076104531,-118.314670492
+=== play with the 418th seed ===
+34.0691044645,-118.301685083
+=== play with the 419th seed ===
+34.0689291461,-118.302385883
+=== play with the 420th seed ===
+34.0688791095,-118.30796048
+=== play with the 421th seed ===
+34.068876561,-118.308017901
+=== play with the 422th seed ===
+34.0690635841,-118.308041222
+=== play with the 423th seed ===
+34.0690689859,-118.300507559
+=== play with the 424th seed ===
+34.0689675489,-118.304892235
+=== play with the 425th seed ===
+34.0688900196,-118.312902755
+=== play with the 426th seed ===
+34.0636182669,-118.307958794
+=== play with the 427th seed ===
+34.0637600169,-118.304206759
+=== play with the 428th seed ===
+34.0636683372,-118.308323446
+=== play with the 429th seed ===
+34.0636903311,-118.306708915
+=== play with the 430th seed ===
+34.0634464446,-118.303961762
+=== play with the 431th seed ===
+34.0634643441,-118.309497677
+=== play with the 432th seed ===
+34.0636492076,-118.302858502
+=== play with the 433th seed ===
+34.0634098218,-118.312939853
+=== play with the 434th seed ===
+34.0635873704,-118.312926355
+=== play with the 435th seed ===
+34.0625988241,-118.3139315
+=== play with the 436th seed ===
+34.0634784869,-118.313884099
+=== play with the 437th seed ===
+34.0634471287,-118.314159177
+=== play with the 438th seed ===
+34.0636010203,-118.309448927
+=== play with the 439th seed ===
+34.0636221536,-118.310505483
+=== play with the 440th seed ===
+34.0634278371,-118.310557322
+=== play with the 441th seed ===
+34.0633980019,-118.311414954
+=== play with the 442th seed ===
+34.0618383734,-118.307810536
+=== play with the 443th seed ===
+34.0615767548,-118.308848526
+=== play with the 444th seed ===
+34.0618107591,-118.308758971
+=== play with the 445th seed ===
+34.0616411447,-118.304064773
+=== play with the 446th seed ===
+34.0616489498,-118.300495023
+=== play with the 447th seed ===
+34.0618898394,-118.300323676
+=== play with the 448th seed ===
+34.0616080035,-118.314522262
+=== play with the 449th seed ===
+34.0616206626,-118.31452094
+=== play with the 450th seed ===
+34.0615972619,-118.309503703
+=== play with the 451th seed ===
+34.0679165628,-118.314163812
+=== play with the 452th seed ===
+34.0675909166,-118.313271576
+=== play with the 453th seed ===
+34.060876018,-118.314441238
+=== play with the 454th seed ===
+34.0626160203,-118.313907887
+=== play with the 455th seed ===
+34.0622562433,-118.313971155
+=== play with the 456th seed ===
+34.0690758064,-118.309017906
+=== play with the 457th seed ===
+34.0687736362,-118.309144976
+=== play with the 458th seed ===
+34.0606027737,-118.309439309
+=== play with the 459th seed ===
+34.0761337089,-118.31365776
+=== play with the 460th seed ===
+34.0736511362,-118.309068147
+=== play with the 461th seed ===
+34.069921401,-118.309049819
+=== play with the 462th seed ===
+34.0715054173,-118.309035975
+=== play with the 463th seed ===
+34.0763834636,-118.301117982
+=== play with the 464th seed ===
+34.0763598628,-118.302407003
+=== play with the 465th seed ===
+34.0761570196,-118.303027328
+=== play with the 466th seed ===
+34.0763928757,-118.306989935
+=== play with the 467th seed ===
+34.0761838381,-118.307982484
+=== play with the 468th seed ===
+34.0760980835,-118.308501438
+=== play with the 469th seed ===
+34.0761367558,-118.313288151
+=== play with the 470th seed ===
+34.0761483844,-118.311518522
+=== play with the 471th seed ===
+34.0763178588,-118.311571825
+=== play with the 472th seed ===
+34.0763275147,-118.31170265
+=== play with the 473th seed ===
+34.0763633912,-118.30012369
+=== play with the 474th seed ===
+34.0811907186,-118.30061328
+=== play with the 475th seed ===
+34.0817362322,-118.300572497
+=== play with the 476th seed ===
+34.0819280044,-118.300554651
+=== play with the 477th seed ===
+34.0826319117,-118.301333311
+=== play with the 478th seed ===
+34.0831493551,-118.300538834
+=== play with the 479th seed ===
+34.0770797547,-118.291786996
+=== play with the 480th seed ===
+34.0737828484,-118.291785908
+=== play with the 481th seed ===
+34.0727097813,-118.291520823
+=== play with the 482th seed ===
+34.0705531454,-118.291777075
+=== play with the 483th seed ===
+34.0706751571,-118.291781218
+=== play with the 484th seed ===
+34.0756564447,-118.29175214
+=== play with the 485th seed ===
+34.0731368288,-118.291581074
+=== play with the 486th seed ===
+34.0761157311,-118.295245267
+=== play with the 487th seed ===
+34.0762054208,-118.295301138
+=== play with the 488th seed ===
+34.0762358334,-118.298441752
+=== play with the 489th seed ===
+34.0762008513,-118.289520498
+=== play with the 490th seed ===
+34.0763859044,-118.299290366
+=== play with the 491th seed ===
+34.0762309016,-118.29953625
+=== play with the 492th seed ===
+34.073244593,-118.290564485
+=== play with the 493th seed ===
+34.0730045399,-118.29058736
+=== play with the 494th seed ===
+34.0659905171,-118.291499805
+=== play with the 495th seed ===
+34.0689883089,-118.291794364
+=== play with the 496th seed ===
+34.0632790316,-118.292079633
+=== play with the 497th seed ===
+34.0636763184,-118.291916633
+=== play with the 498th seed ===
+34.0683407302,-118.291519691
+=== play with the 499th seed ===
+34.0639659127,-118.291488732
+=== play with the 500th seed ===
+34.0641328603,-118.291749243
+=== play with the 501th seed ===
+34.0693112249,-118.291533226
+=== play with the 502th seed ===
+34.068952528,-118.296202374
+=== play with the 503th seed ===
+34.0689949968,-118.291287674
+=== play with the 504th seed ===
+34.0689990219,-118.291384751
+=== play with the 505th seed ===
+34.0634950264,-118.300229393
+=== play with the 506th seed ===
+34.0635035729,-118.2929614
+=== play with the 507th seed ===
+34.063361976,-118.295470253
+=== play with the 508th seed ===
+34.0636791406,-118.296606543
+=== play with the 509th seed ===
+34.0636793073,-118.29651926
+=== play with the 510th seed ===
+34.0638017574,-118.298049079
+=== play with the 511th seed ===
+34.0637495366,-118.29003273
+=== play with the 512th seed ===
+34.0634793652,-118.297974233
+=== play with the 513th seed ===
+34.0635076087,-118.291952372
+=== play with the 514th seed ===
+34.0633754518,-118.291437293
+=== play with the 515th seed ===
+34.0619005065,-118.299165044

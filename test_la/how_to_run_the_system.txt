@@ -44,17 +44,30 @@ fov_analysis.py
 	output
 		fov_analysis_output_formal.txt
 
-distance_based_clustering.py
+=== distance_based_clustering.py
 	input
 		fov_analysis_output_formal.txt
 		basic_image_database_yolo_result.txt
 	output
 		distance_based_clustering_output.txt
 
-do_triangulation_for_seed_location.py
+	do_triangulation_for_seed_location.py
 	input
 		distance_based_clustering_output.txt
 	output
+		do_triangulation_for_seed_location_output.txt
+
+=== distance_heading_based_clustering.py
+	input
+		fov_analysis_output_formal.txt
+		basic_image_database_yolo_result.txt
+	output
+		distance_heading_based_clustering_output.txt
+	distance_heading_misc.py
+	input
+		distance_heading_based_clustering_output.txt
+	output
+		distance_based_clustering_output.txt
 		do_triangulation_for_seed_location_output.txt
 
 adaptive_location_generator.py

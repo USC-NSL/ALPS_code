@@ -1,3 +1,4 @@
+import time
 
 
 
@@ -5,6 +6,7 @@
 
 # ====== main =====
 if __name__ == '__main__':
+	start_time = time.time()
 
 	query_city = open("./config/query_city.info", "r").readline().rstrip()
 	query_landmark = open("./config/query_landmark.info", "r").readline().rstrip()
@@ -65,3 +67,6 @@ if __name__ == '__main__':
 		if (tmp7 >= 4):
 			f4.write("%s\n" % tmp1[:-10])
 			f4.write("%s\n" % adaptive_db_map[tmp1[:-10]])
+
+	end_time = time.time()
+	print "Running time: %s" % (end_time - start_time)

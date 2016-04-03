@@ -1,6 +1,7 @@
 import os
 import math
 import urllib2
+import time
 
 query_key_google = open("./config/query_google_key.info", "r").readline().rstrip()
 # query_key_google = "AIzaSyAdtMHxfsESr0OuVdGuseM_VW_uiDtahJY"
@@ -33,6 +34,8 @@ def save_photo(photo_url, photo_dir, photo_name):
 if __name__ == '__main__':
 
 	# image_number = 220
+
+	start_time = time.time()
 
 	for i in range(len(f_input)/2):
 		image_path = f_input[i * 2].rstrip()
@@ -73,3 +76,6 @@ if __name__ == '__main__':
 			save_photo(photo_url, image_dir, "%s_fov%d.jpg" % (image_path[:-4], query_fov_new))
 
 
+	end_time = time.time()
+
+	print "=== Running time: %s ===" % str(end_time - start_time)

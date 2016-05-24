@@ -27,6 +27,7 @@ if __name__ == '__main__':
 
 	while (f_input.readline()):
 		f_output.write("=== play with the %dth cluster ===\n" % cluster_index)
+		print "=== play with the %dth cluster ===" % cluster_index
 
 		image_num = int(f_input.readline().rstrip())
 
@@ -43,9 +44,18 @@ if __name__ == '__main__':
 		x = []
 		y = []
 
+		check_two_image_are_actually_from_same_location_even_though_their_meta_is_different = dict()
+		image_num_real = 0
+
 		for image_index in range(image_num):
 			image_path = f_input.readline().rstrip()
 			logo_detection_result = f_input.readline().rstrip()
+
+			if logo_detection_result in check_two_image_are_actually_from_same_location_even_though_their_meta_is_different:
+				continue
+			else:
+				check_two_image_are_actually_from_same_location_even_though_their_meta_is_different[logo_detection_result] = 1
+				image_num_real += 1
 
 			tmp = image_path.split('_')
 			view_lat = float(tmp[4])
@@ -94,32 +104,32 @@ if __name__ == '__main__':
 		if (len(check_we_have_image_from_more_than_one_point) > 1):
 			check_result_flag = True
 
-		G = []
+			G = []
 
-		for i in range(image_num):
-			G.append(mysin[i])
-			G.append(-mycos[i])
+			for i in range(image_num_real):
+				G.append(mysin[i])
+				G.append(-mycos[i])
 
-		G = np.reshape(G, (image_num, 2))
+			G = np.reshape(G, (image_num_real, 2))
 
-		h = []
+			h = []
 
-		for i in range(image_num):
-			h.append(x[i] * mysin[i] - y[i] * mycos[i])
+			for i in range(image_num_real):
+				h.append(x[i] * mysin[i] - y[i] * mycos[i])
 
-		h = np.reshape(h, (image_num, 1))
+			h = np.reshape(h, (image_num_real, 1))
 
-		tmp1 = G.transpose()
-		tmp2 = np.dot(tmp1, G)
-		tmp3 = np.linalg.inv(tmp2)
-		tmp4 = np.dot(tmp3, tmp1)
-		theta = np.dot(tmp4, h)
+			tmp1 = G.transpose()
+			tmp2 = np.dot(tmp1, G)
+			tmp3 = np.linalg.inv(tmp2)
+			tmp4 = np.dot(tmp3, tmp1)
+			theta = np.dot(tmp4, h)
 
-		tmp = utm.from_latlon(view_lat, view_lng)
-				
-		tmp2 = utm.to_latlon(theta[0][0], theta[1][0], tmp[2], tmp[3])
+			tmp = utm.from_latlon(view_lat, view_lng)
+					
+			tmp2 = utm.to_latlon(theta[0][0], theta[1][0], tmp[2], tmp[3])
 
-		if (check_result_flag):
+		# if (check_result_flag):
 			f_output.write("%s,%s\n" % (str(tmp2[0]), str(tmp2[1])))
 			print "%s,%s" % (str(tmp2[0]), str(tmp2[1]))
 		else:

@@ -21,3 +21,10 @@ def execute_url(url):
 
 	return json_data
 
+def theta_to_heading(theta):
+	heading = float(90) - float(theta)
+	return heading
+
+def heading_to_theta(heading):
+	theta = float(90) - float(heading)
+	return theta
